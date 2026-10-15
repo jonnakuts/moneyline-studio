@@ -144,10 +144,10 @@ Planned (add here when built): `npm run studio`, `npm run tts`, `npm run align`,
 
 ## Current status
 
-- Phase 0 (machine setup): owner is doing this on the laptop. Follow `docs/SETUP_WINDOWS.md`.
+- Phase 0 (machine setup): **done** on the laptop (doctor all OK except the optional `claude` CLI). LLM runs on
+  Google AI Studio (Gemini, `LLM_*` in `.env`) because the NVIDIA key returns 403 (D-015).
 - Phase 1 (brain): **tooling built and tested** (schemas, verify/freeze, SEC/World Bank/FRED fetchers,
-  NVIDIA client, new-video). SEC and World Bank fetchers were tested against live APIs; FRED and NVIDIA
-  are tested with mocks until real keys are in `.env`. Remaining for Phase 1: run one real topic through
+  LLM client, new-video). SEC, World Bank, FRED, and the Gemini LLM were tested live on the laptop. Remaining for Phase 1: run one real topic through
   Gate A → Gate B.
 - Engine: not built. First video will build the engine (see `docs/ROADMAP.md`).
 - Update this section whenever a phase completes.
