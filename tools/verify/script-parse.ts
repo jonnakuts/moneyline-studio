@@ -84,7 +84,7 @@ export function splitSentences(paragraph: string): string[] {
   let p = paragraph;
   for (const abbr of ABBREVIATIONS) p = p.split(abbr).join(abbr.replace(/\./g, DOT));
   // Keep tags attached to the sentence they follow: "…billion. [F:x]" → "…billion [F:x]."
-  p = p.replace(/([.!?])\s*((?:\[F:[^\]]+\]\s*)+)/g, " $2$1");
+  p = p.replace(/([.!?])\s*((?:\[F:[^\]]+\]\s*)+)/g, (_m, end: string, tags: string) => ` ${tags.trim()}${end} `);
   const parts = p.split(/(?<=[.!?…])["”’)]*\s+(?=["“‘(\[]*[A-Z0-9$₹€£])/);
   return parts.map((s) => s.split(DOT).join(".").trim()).filter(Boolean);
 }

@@ -746,6 +746,74 @@
       "unit": "USD",
       "period": "1985-2024",
       "asOf": "2024-05-31"
+    },
+    {
+      "id": "cost-renewal-drives-profit",
+      "claim": "Costco says growing membership, Executive upgrades, and high renewal rates materially influence its profitability",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 7 MD&A, Highlights / Membership, p. 25",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "The extent to which we achieve growth in our membership base, increase the penetration of Executive memberships, and sustain high renewal rates materially influences our profitability.",
+      "notes": "Added during scripting (same 10-K, same section as cost-membership-format)."
+    },
+    {
+      "id": "cost-exec-reward-rate",
+      "claim": "Executive members earn a reward of generally 2% on qualified purchases",
+      "kind": "reported",
+      "value": 2,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "These members earn an Executive reward, generally 2% on qualified purchases, subject to an annual maximum value, redeemable at Costco warehouses.",
+      "notes": "Added during scripting (same 10-K section)."
+    },
+    {
+      "id": "cost-renewal-intl-online-lower",
+      "claim": "Costco says its worldwide renewal rate is pulled down by growth in some international markets and by memberships sold online, which renew at a slightly lower rate",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 7 MD&A, Highlights / Membership, p. 25",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Our worldwide renewal rate is adversely impacted by membership growth in certain international markets and a higher penetration of memberships sold online, including through digital membership promotions, which renew at a slightly lower rate on average.",
+      "notes": "Added during scripting (same 10-K section)."
+    },
+    {
+      "id": "cost-exec-breakeven-spend",
+      "claim": "Yearly qualifying spending at which the 2% Executive reward equals the extra cost of the upgrade (U.S. and Canada fees)",
+      "kind": "derived",
+      "formula": "(cost-fee-exec-us - cost-fee-goldstar-us) / (cost-exec-reward-rate / 100)",
+      "inputs": [
+        "cost-fee-exec-us",
+        "cost-fee-goldstar-us",
+        "cost-exec-reward-rate"
+      ],
+      "value": 3250,
+      "unit": "USD",
+      "scale": "none",
+      "period": "from 2024-09-01",
+      "tier": 1,
+      "notes": "Illustrative: ignores the reward cap and which purchases qualify.",
+      "rounding": "'about $3,250'"
     }
   ]
 }

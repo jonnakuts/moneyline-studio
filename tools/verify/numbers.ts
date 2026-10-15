@@ -62,7 +62,7 @@ const WORD_RE = new RegExp(
 const HEDGES: Array<[RegExp, Hedge]> = [
   [/\bjust\s+over\s*$/i, "just-over"],
   [/\b(?:nearly|almost|just\s+under|close\s+to|shy\s+of)\s*$/i, "nearly"],
-  [/\b(?:under|less\s+than|below|up\s+to|fewer\s+than)\s*$/i, "under"],
+  [/\b(?:under|less\s+than|below|fewer\s+than)\s*$/i, "under"],
   [/\b(?:over|more\s+than|above|at\s+least|upwards\s+of)\s*$/i, "over"],
   [/\b(?:about|around|roughly|approximately|some|an\s+estimated|estimated|almost\s+exactly|~)\s*$/i, "approx"],
 ];

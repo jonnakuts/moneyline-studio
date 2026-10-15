@@ -61,6 +61,21 @@ describe("extractMentions", () => {
     expect(valueMatches(o!, 301.6e6).ok).toBe(true);
     expect(valueMatches(o!, 290e6).ok).toBe(false);
   });
+  it("treats 'added up to' as an exact amount, not 'under'", () => {
+    const [m] = extractMentions("the fees added up to $5.9 billion");
+    expect(m!.hedge).toBe("exact");
+    expect(valueMatches(m!, 5.907e9).ok).toBe(true);
+  });
+});
+
+describe("splitSentences with tags", () => {
+  it("keeps a space after a tag that ends a sentence before the next line", () => {
+    const s = parseScript("It came from that card. [F:a]\nBut it was big. [F:b]");
+    expect(s.map((x) => [x.text, x.factIds])).toEqual([
+      ["It came from that card.", ["a"]],
+      ["But it was big.", ["b"]],
+    ]);
+  });
 });
 
 describe("verifyFacts", () => {
