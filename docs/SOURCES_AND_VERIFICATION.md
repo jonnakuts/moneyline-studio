@@ -97,7 +97,17 @@ This channel's value is trust. One wrong number in a finance video costs more th
 
 (The `0` values above are placeholders, not real figures.)
 
+The schema is enforced by `engine/src/schemas/facts.ts` (zod). `npm run verify -- <slug> --facts` checks it.
+
 Field rules:
+- **`value` is always in base units**: `39001000000` for "$39.0 billion", `301600000` for "301.6 million".
+  `scale` only says how to display it. Percentages are stored as the percent number (`15.85` = 15.85%);
+  `ratio` is a plain fraction (`0.1585`).
+- `unit` is one of: USD, INR, EUR, GBP, JPY, CNY, percent, ratio, count, people, years, days, hours,
+  minutes, tonnes, kg, km, barrels, date, year, index, text.
+- In `formula`, put spaces around minus signs (`a - b`), because fact IDs contain dashes.
+- Tier-3 numbers need `"attributeAloud": true`; Tier-3 qualitative claims need a second, independent
+  `source2` from a different site.
 - `kind`: `reported` (copied from the source), `derived` (computed from other facts; `formula` + `inputs`
   required; the verifier recomputes it), or `qualitative` (a non-numeric claim; `value` may be a short
   string; needs a `quote`).
@@ -128,6 +138,12 @@ member [F:nflx-rev-per-sub-2025].
 - Schema valid; IDs unique; every fact has `source.url`, `retrievedAt`, `period`/`asOf`, and `tier`.
 - Every `derived` fact recomputes to its stated value (within 0.5%).
 - No number rests only on Tier 3 without the attribution flag.
+
+How the fetchers help (Stage 1): `npm run research -- sec|worldbank|fred …` downloads data, caches
+the raw response in `01-research/raw/`, and writes **draft** facts with full source fields to
+`01-research/candidates.json`. Drafts are reviewed and only the ones the story needs are copied into
+`facts.json`. Fetched API data still needs a human-readable check: open the filing or data page once and
+confirm the definition matches what the script will claim.
 
 `verify-script` (Stage 2) checks:
 - Every numeric token in `script.md` (digits, written numbers, %, ₹/$/€, "billion", years) sits inside a

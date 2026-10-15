@@ -70,6 +70,22 @@ Mark retention beats with `[BEAT: …]` comments so Stage 4 knows where the big 
   is not.
 - No defamation: describe what a company does and what filings/reports say, not motives we can't source.
 
+### Script markup the verifier understands
+
+| Markup | Meaning |
+|---|---|
+| `[F:id]` or `[F:id1,id2]` | Fact tags for this sentence (not spoken) |
+| `[BEAT: …]` | Retention/visual beat (not spoken) |
+| `[HOST]` | Host speaks this line on camera (not spoken) |
+| `[[S&P 500]]` | Literal name containing digits; exempt from the number check, spoken as written |
+| `<!-- … -->` | Notes (not spoken) |
+| `# Heading` | Section name (not spoken; becomes the phrase's `section`) |
+
+Any digit-based number in narration (`3`, `2025`, `$4.2 billion`, `16%`) must be in a sentence with a
+matching fact tag. **Spell out small structural numbers** ("three reasons", "two things") so they aren't
+treated as claims. Hedge words are checked honestly: "nearly/almost" means the real value is a bit
+**lower**; "over/more than" means it's **higher**; "about/roughly/around" allows about ±5%.
+
 ## Writing for the voice (Kokoro)
 
 - `spoken.txt` = `script.md` minus tags and markers, with numbers written the way they should be spoken

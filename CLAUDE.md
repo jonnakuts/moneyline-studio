@@ -68,40 +68,56 @@ Each pipeline stage also has a skill in `.claude/skills/` (`/new-video`, `/resea
 
 ```
 CLAUDE.md, AGENTS.md, README.md
+package.json, tsconfig.json   One root Node package for engine + tools
 docs/                 Reference docs (read the table above)
 .claude/skills/       One skill per pipeline stage
 scripts/doctor.ps1    Phase 0 toolchain check (Windows PowerShell)
-engine/               Remotion project (React/TS): primitives, scenes, compositions   [Phase 1+]
+engine/src/schemas/   zod data contracts (facts, credits, timing, screenplay, lock)   [built]
 engine/SCENES_USED.md Log of scene concepts per video (variation rules)
+engine/src/…          Remotion primitives, scenes, compositions                       [Phase 2–3]
 tools/
-  research/           Data fetchers (SEC EDGAR, FRED, World Bank…), facts.json helpers   [Phase 1]
-  verify/             verify-facts, verify-script, freeze/verify-lock                    [Phase 1]
-  audio/              Kokoro TTS, faster-whisper alignment, Rhubarb visemes (Python)    [Phase 2]
-  thumbnail/          Satori thumbnail renderer                                          [Phase 4]
+  lib/                env loading (.env), paths, dates                               [built]
+  video/              new-video scaffolder                                           [built]
+  research/           SEC EDGAR, World Bank, FRED fetchers; cache; candidates        [built]
+  verify/             verify-facts, verify-script, freeze/verify-lock/unfreeze       [built]
+  llm/                NVIDIA (OpenAI-compatible) client, used for drafting only      [built]
+  audio/              Kokoro TTS, faster-whisper alignment, Rhubarb visemes (Python) [Phase 2]
+  thumbnail/          Satori thumbnail renderer                                       [Phase 4]
+tests/                vitest suites for tools (run before committing)
 videos/<YYYY-MM-DD-slug>/   One folder per video (layout in docs/PIPELINE.md)
 assets/               Shared fonts, SFX, music beds, host rig, with LICENSES.md
-.github/workflows/    Render-in-the-cloud workflow                                       [Phase 4]
+.github/workflows/    Render-in-the-cloud workflow                                    [Phase 4]
 ```
 
-Folders marked with a phase do not exist yet; create them in that phase, following
+Items marked with a phase do not exist yet; create them in that phase, following
 `docs/ENGINE_ARCHITECTURE.md`.
 
 ## Commands
 
-Only `scripts/doctor.ps1` exists so far (run it with
-`powershell -ExecutionPolicy Bypass -File .\scripts\doctor.ps1`). As each command is created, add it here with one line on what it does, so future sessions
-can rely on this list. Target set:
+Working now (run from the repo root):
 
 ```
-npm run doctor             check toolchain (node, python, ffmpeg, kokoro, whisper)
-npm run studio             open Remotion Studio to preview scenes
-npm run verify -- <slug>   run verify-facts + verify-script + verify-lock for one video
-npm run freeze -- <slug> <stage>   hash a stage's approved files into LOCK.json
-npm run render:preview -- <slug> <from> <to>   960×540 preview of a time range
-npm run render:final -- <slug>   1920×1080 final, rendered in resumable sections
-npm run shorts -- <slug>   render the approved Shorts
-npm run thumb -- <slug>    render thumbnail variants with Satori
+npm install                          install dependencies (once)
+npm run doctor                       Windows toolchain check (scripts/doctor.ps1)
+npm run new -- <title words>         create videos/YYYY-MM-DD-slug/ with folders, status.md, credits.json, facts.json
+npm run research -- sec ticker NFLX                     ticker → SEC CIK
+npm run research -- sec concepts NFLX revenue           find XBRL concepts by keyword
+npm run research -- sec annual NFLX Revenues --slug <slug>    full-year values from 10-Ks → candidates.json
+npm run research -- worldbank IND NY.GDP.MKTP.CD --from 2000 --slug <slug>
+npm run research -- fred CPIAUCSL --from 2000-01-01 --slug <slug>   (needs FRED_API_KEY)
+npm run verify -- <slug> [--facts] [--script] [--lock]   no flag = everything that exists; writes 02-script/verify-report.md
+npm run freeze -- <slug> <B-script|C-voice|D-direction|F-render|G-package>   record approved files in LOCK.json
+npm run unfreeze -- <slug> <stage> --yes "reason"         only with the owner's OK; removes that stage and later ones
+npm run llm:ping                     check NVIDIA_API_KEY + NVIDIA_MODEL work
+npm test                             run all tests
+npm run typecheck                    TypeScript check
 ```
+
+Fetchers write **drafts** to `01-research/candidates.json`. Review each (definition, period, rounding) and
+copy the ones the story uses into `facts.json`; never bulk-copy.
+
+Planned (add here when built): `npm run studio`, `npm run tts`, `npm run align`, `npm run render:sync`,
+`npm run render:preview`, `npm run render:final`, `npm run shorts`, `npm run thumb`.
 
 ## Coding conventions
 
@@ -127,6 +143,10 @@ npm run thumb -- <slug>    render thumbnail variants with Satori
 
 ## Current status
 
-- Phase 0 (machine setup): **not started**. Follow `docs/SETUP_WINDOWS.md`.
+- Phase 0 (machine setup): owner is doing this on the laptop. Follow `docs/SETUP_WINDOWS.md`.
+- Phase 1 (brain): **tooling built and tested** (schemas, verify/freeze, SEC/World Bank/FRED fetchers,
+  NVIDIA client, new-video). SEC and World Bank fetchers were tested against live APIs; FRED and NVIDIA
+  are tested with mocks until real keys are in `.env`. Remaining for Phase 1: run one real topic through
+  Gate A → Gate B.
 - Engine: not built. First video will build the engine (see `docs/ROADMAP.md`).
 - Update this section whenever a phase completes.

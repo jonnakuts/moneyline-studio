@@ -30,9 +30,11 @@ and record the check in `docs/DECISIONS.md`.
 
 ## Folder layout
 
+One Node package at the repo root (`package.json`) holds both the engine and the tools, so schemas are
+shared without a build step. Scripts run TypeScript directly with `tsx`.
+
 ```
 engine/
-  package.json
   remotion.config.ts
   src/
     Root.tsx                    registers compositions (long-form, shorts, sync-test, hero-proof)
@@ -52,11 +54,17 @@ engine/
     utils/                      easing families, physics springs, seeded random, geometry
   SCENES_USED.md                log of scene concepts per video (variation rules)
 tools/
-  research/                     sec-edgar.ts, fred.ts, worldbank.ts, imf.ts, oecd.ts, owid.ts
-  verify/                       verify-facts.ts, verify-script.ts, freeze.ts, verify-lock.ts
-  audio/                        tts.py, align.py, visemes.py, requirements.txt
-  thumbnail/                    render-thumb.tsx (Satori)
-  doctor.ts                     toolchain check
+  lib/                          env.ts (.env loader), paths.ts                               [built]
+  video/                        new-video.ts                                                 [built]
+  research/                     http.ts (cache, rate limits), sec-edgar.ts, worldbank.ts,
+                                fred.ts, candidates.ts, cli.ts                               [built]
+                                imf.ts, oecd.ts, owid.ts                                     [later]
+  verify/                       verify-facts.ts, verify-script.ts, numbers.ts, spoken.ts,
+                                script-parse.ts, formula.ts, lock.ts, cli.ts                 [built]
+  llm/                          nvidia.ts, ping.ts                                           [built]
+  audio/                        tts.py, align.py, visemes.py, requirements.txt               [Phase 2]
+  thumbnail/                    render-thumb.tsx (Satori)                                    [Phase 4]
+tests/                          vitest suites                                                [built]
 ```
 
 ## Data contracts

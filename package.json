@@ -1,0 +1,30 @@
+{
+  "name": "moneyline-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zero-cost, gated pipeline for code-rendered Money & Business explainer videos.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "new": "tsx tools/video/new-video.ts",
+    "verify": "tsx tools/verify/cli.ts verify",
+    "freeze": "tsx tools/verify/cli.ts freeze",
+    "unfreeze": "tsx tools/verify/cli.ts unfreeze",
+    "research": "tsx tools/research/cli.ts",
+    "llm:ping": "tsx tools/llm/ping.ts",
+    "doctor": "powershell -ExecutionPolicy Bypass -File scripts/doctor.ps1",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}

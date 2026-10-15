@@ -80,6 +80,15 @@ code .env
 
 Fill in your keys in `.env` and save. **Never commit `.env`** (it's already git-ignored).
 
+Install the project's Node packages (one time, a few minutes):
+
+```powershell
+npm install
+npm test
+```
+
+Expect: `Tests  26 passed` (or more, as tests are added).
+
 ## 6. Install the two outside skills (user level, not in the repo)
 
 These go in your personal Claude skills folder so they don't get published in this public repo.
@@ -107,6 +116,16 @@ powershell -ExecutionPolicy Bypass -File .\scripts\doctor.ps1
 ```
 
 Expect every line to say `OK`. Anything `MISSING` tells you what to install.
+
+Then check the keys actually work:
+
+```powershell
+npm run llm:ping
+npm run research -- sec ticker NFLX
+npm run research -- fred CPIAUCSL --from 2025-01-01
+```
+
+Expect: a short reply from the model, `NFLX: CIK 1065280 — NETFLIX INC`, and a list of CPI values.
 
 ## 8. First Claude Code session
 

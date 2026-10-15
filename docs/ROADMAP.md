@@ -10,12 +10,16 @@ Check items off as they're done, and update `CLAUDE.md` § Current status at the
 - [ ] Public GitHub repo created; first commit of these docs
 
 ## Phase 1: Brain (research + script)
-- [ ] `tools/research/`: SEC EDGAR (companyfacts, submissions), FRED, World Bank fetchers with caching
-      and polite rate limits
-- [ ] `engine/src/schemas/`: zod schemas for facts, script tags, timestamps, screenplay, credits
-- [ ] `tools/verify/`: verify-facts, verify-script, freeze, verify-lock (+ `npm run verify`, `npm run freeze`)
-- [ ] NVIDIA LLM client (OpenAI-compatible, model from `.env`), used only for drafting help
-- [ ] `/new-video` → Gate A → `/research-facts` → `/write-script` → Gate B working end to end on a test topic
+- [x] `tools/research/`: SEC EDGAR (ticker lookup, concept search, annual series), FRED, World Bank
+      fetchers with caching, polite rate limits, and draft candidates (SEC + World Bank tested live)
+- [x] `engine/src/schemas/`: zod schemas for facts, credits, timestamps, phrases, visemes, screenplay,
+      emphasis map, lock
+- [x] `tools/verify/`: verify-facts, verify-script (number matching, hedges, spoken.txt diff), freeze,
+      verify-lock, unfreeze (+ npm scripts and a markdown report)
+- [x] NVIDIA LLM client (OpenAI-compatible, model from `.env`) + `npm run llm:ping`
+- [x] `npm run new` scaffolder; 26 tests passing
+- [ ] Owner adds real keys to `.env`; `npm run llm:ping` and a FRED fetch succeed on the laptop
+- [ ] `/new-video` → Gate A → `/research-facts` → `/write-script` → Gate B on the first real topic
 
 ## Phase 2: Voice and timing
 - [ ] Kokoro (CPU) TTS per phrase, voice chosen and saved in `assets/voice.json` (owner picks from 3 samples)

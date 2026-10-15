@@ -13,9 +13,14 @@ Read first: `docs/SOURCES_AND_VERIFICATION.md` (tiers, schema, never-use list).
 1. Read `videos/<slug>/00-pitch/pitch.md` and list every fact the story needs (numbers, dates, history,
    definitions). Put the list at the top of `01-research/research.md`.
 2. For each fact, go to the **highest tier available**:
-   - Company financials → SEC EDGAR via `tools/research/sec-edgar.ts` (send `SEC_USER_AGENT`, throttle to
-     2–3 requests/s, cache responses in `01-research/raw/`), or the company's annual report.
-   - Macro/prices/wages → FRED, World Bank, IMF, OECD, BLS/BEA, or the national statistics office.
+   - Company financials (US-listed) → SEC EDGAR:
+     `npm run research -- sec concepts <TICKER> <words>` to find the right XBRL concept, then
+     `npm run research -- sec annual <TICKER> <Concept> --slug <slug>`. Non-US companies → annual report.
+   - Macro → `npm run research -- worldbank <COUNTRY> <INDICATOR> --slug <slug>` or
+     `npm run research -- fred <SERIES> --slug <slug>`; else IMF, OECD, BLS/BEA, national statistics office.
+   - Fetchers cache raw responses in `01-research/raw/` and write drafts to `01-research/candidates.json`.
+     Review each draft (is the concept the thing the script will claim? which period?) and copy only the
+     ones you need into `facts.json`, editing the `claim` wording to be exact.
    - History and qualitative claims → primary documents first; else two independent Tier-3 outlets.
    Use WebSearch/WebFetch to *find* sources, but record the primary URL, not a search result or summary.
 3. Write each fact into `01-research/facts.json` with every required field: `period`, `asOf`, `tier`,
@@ -24,7 +29,8 @@ Read first: `docs/SOURCES_AND_VERIFICATION.md` (tiers, schema, never-use list).
    `formula` + `inputs`. Exchange rates and CPI series are their own facts.
 5. Note in `research.md`: claims you **rejected** and why (no source, conflicting sources, Tier-3 only),
    surprising findings that might change the angle, and open questions.
-6. Run `npm run verify -- <slug> --facts` (verify-facts). Fix until PASS.
+6. Run `npm run verify -- <slug> --facts` (verify-facts). Fix until OK. Remember: `value` is in base
+   units (39001000000, not 39.0), percentages as percent numbers, spaces around `-` in formulas.
 7. If the research changes the story's angle materially (e.g. the cold-open fact turns out false), tell
    the owner before scripting. Otherwise continue to `/write-script`.
 
