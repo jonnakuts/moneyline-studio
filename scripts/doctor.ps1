@@ -46,11 +46,15 @@ Write-Host "`n== .env ==" -ForegroundColor Cyan
 $envPath = Join-Path (Get-Location) ".env"
 if (Test-Path $envPath) {
     $lines = Get-Content $envPath | Where-Object { $_ -match "^[A-Z_]+=" }
-    $want = @("NVIDIA_API_KEY","NVIDIA_MODEL","SEC_USER_AGENT","FRED_API_KEY","PEXELS_API_KEY","PIXABAY_API_KEY","RHUBARB_PATH")
-    foreach ($k in $want) {
+    $want = @("NVIDIA_API_KEY","NVIDIA_MODEL","SEC_USER_AGENT","FRED_API_KEY","PIXABAY_API_KEY","RHUBARB_PATH")
+    # Optional: Pexels paused new API keys (Oct 2026); footage also comes from keyless sources.
+    $optional = @("PEXELS_API_KEY")
+    foreach ($k in ($want + $optional)) {
         $line = $lines | Where-Object { $_ -like "$k=*" } | Select-Object -First 1
         if ($line -and ($line.Substring($k.Length + 1).Trim().Length -gt 0)) {
             Write-Host ("OK       {0,-16} set" -f $k) -ForegroundColor Green; $ok++
+        } elseif ($optional -contains $k) {
+            Write-Host ("SKIP     {0,-16} empty (optional)" -f $k) -ForegroundColor DarkGray
         } else {
             Write-Host ("MISSING  {0,-16} empty in .env" -f $k) -ForegroundColor Red; $bad++
         }

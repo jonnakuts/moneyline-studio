@@ -63,3 +63,8 @@ requires a paid Claude plan; Copilot (student pack) is the ₹0 option.*
 **D-013 · 2026-10-15 · Facts discipline**: No number from memory; `facts.json` with sources; `[F:id]` tags;
 automatic verify-script before Gate B; source captions on screen and full source list in descriptions.
 *Trust is the channel's main asset.*
+
+**D-014 · 2026-10-16 · Pexels optional**: Pexels has paused new API key issuance ("New API key issuance
+is currently paused" on pexels.com/api). `PEXELS_API_KEY` is optional; the doctor script skips it.
+Footage comes from Wikimedia Commons, NASA, Library of Congress, Archive.org (no key) and Pixabay.
+Re-check Pexels later.

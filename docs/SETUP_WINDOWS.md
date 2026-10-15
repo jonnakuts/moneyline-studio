@@ -63,7 +63,7 @@ Phase 2 whether the Kokoro build we choose needs it.
 | NVIDIA API key | build.nvidia.com → Settings → API Keys | `NVIDIA_API_KEY` |
 | FRED API key | fred.stlouisfed.org (My Account → API Keys) | `FRED_API_KEY` |
 | SEC contact string | No account; just your name and email | `SEC_USER_AGENT` |
-| Pexels API key | pexels.com/api | `PEXELS_API_KEY` |
+| Pexels API key (optional: new keys paused since Oct 2026; leave blank) | pexels.com/api | `PEXELS_API_KEY` |
 | Pixabay API key | pixabay.com/api/docs | `PIXABAY_API_KEY` |
 
 None of these need a payment card. If any site asks for one, stop and don't enter it.
