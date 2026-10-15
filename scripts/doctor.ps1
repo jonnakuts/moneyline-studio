@@ -50,7 +50,8 @@ if (Test-Path $envPath) {
     # Optional: Pexels paused new API keys (Oct 2026); footage also comes from keyless sources.
     $optional = @("PEXELS_API_KEY")
     foreach ($k in ($want + $optional)) {
-        $line = $lines | Where-Object { $_ -like "$k=*" } | Select-Object -First 1
+        # Last occurrence wins, matching how Node reads .env
+        $line = $lines | Where-Object { $_ -like "$k=*" } | Select-Object -Last 1
         if ($line -and ($line.Substring($k.Length + 1).Trim().Length -gt 0)) {
             Write-Host ("OK       {0,-16} set" -f $k) -ForegroundColor Green; $ok++
         } elseif ($optional -contains $k) {
@@ -66,7 +67,7 @@ if (Test-Path $envPath) {
 Write-Host "`n== Rhubarb ==" -ForegroundColor Cyan
 $rh = $null
 if (Test-Path $envPath) {
-    $rhLine = Get-Content $envPath | Where-Object { $_ -like "RHUBARB_PATH=*" } | Select-Object -First 1
+    $rhLine = Get-Content $envPath | Where-Object { $_ -like "RHUBARB_PATH=*" } | Select-Object -Last 1
     if ($rhLine) { $rh = $rhLine.Substring(13).Trim() }
 }
 if ($rh -and (Test-Path $rh)) { Write-Host "OK       rhubarb at $rh" -ForegroundColor Green; $ok++ }
