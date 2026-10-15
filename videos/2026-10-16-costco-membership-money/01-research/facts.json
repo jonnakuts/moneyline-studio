@@ -1,4 +1,751 @@
 {
   "video": "2026-10-16-costco-membership-money",
-  "facts": []
+  "facts": [
+    {
+      "id": "cost-net-sales-fy2026",
+      "claim": "Costco net sales (goods sold) in fiscal 2026",
+      "kind": "reported",
+      "value": 297247000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Net sales | $ | 297,247",
+      "rounding": "nearest billion; 'about $297 billion'"
+    },
+    {
+      "id": "cost-member-fees-fy2026",
+      "claim": "Costco membership fee revenue in fiscal 2026",
+      "kind": "reported",
+      "value": 5907000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Membership fees | 5,907",
+      "rounding": "1 decimal: '$5.9 billion'"
+    },
+    {
+      "id": "cost-member-fees-fy2025",
+      "claim": "Costco membership fee revenue in fiscal 2025",
+      "kind": "reported",
+      "value": 5323000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2025",
+      "asOf": "2025-08-31",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Membership fees | 5,907 | 5,323 | 4,828",
+      "rounding": "1 decimal"
+    },
+    {
+      "id": "cost-member-fees-fy2024",
+      "claim": "Costco membership fee revenue in fiscal 2024",
+      "kind": "reported",
+      "value": 4828000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2024",
+      "asOf": "2024-09-01",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Membership fees | 5,907 | 5,323 | 4,828",
+      "rounding": "1 decimal"
+    },
+    {
+      "id": "cost-total-rev-fy2026",
+      "claim": "Costco total revenue (net sales plus membership fees) in fiscal 2026",
+      "kind": "reported",
+      "value": 303154000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Total revenue | 303,154",
+      "rounding": "nearest billion; 'about $303 billion' or 'over $300 billion'"
+    },
+    {
+      "id": "cost-merch-costs-fy2026",
+      "claim": "Costco merchandise costs (what it paid for the goods it sold) in fiscal 2026",
+      "kind": "reported",
+      "value": 264279000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Merchandise costs | 264,279",
+      "rounding": "nearest billion"
+    },
+    {
+      "id": "cost-sga-fy2026",
+      "claim": "Costco selling, general and administrative expenses (staff, buildings, running costs) in fiscal 2026",
+      "kind": "reported",
+      "value": 27190000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Selling, general and administrative | 27,190",
+      "rounding": "1 decimal"
+    },
+    {
+      "id": "cost-op-income-fy2026",
+      "claim": "Costco operating income (profit from running the business, before interest and tax) in fiscal 2026",
+      "kind": "reported",
+      "value": 11685000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Operating income | 11,685",
+      "rounding": "1 decimal: '$11.7 billion'"
+    },
+    {
+      "id": "cost-net-income-fy2026",
+      "claim": "Costco net income (profit after tax) in fiscal 2026",
+      "kind": "reported",
+      "value": 9226000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Statements of Income, p. 37",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "NET INCOME | $ | 9,226",
+      "notes": "Matches SEC XBRL us-gaap:NetIncomeLoss (candidate cost-netincomeloss-fy2026).",
+      "rounding": "1 decimal: '$9.2 billion'"
+    },
+    {
+      "id": "cost-paid-members-2026",
+      "claim": "Costco paid members at the end of fiscal 2026",
+      "kind": "reported",
+      "value": 84100000.0,
+      "unit": "count",
+      "scale": "million",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership table, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Paid members1 | 84,100",
+      "notes": "Counts include memberships expired and not renewed within the prior 12 months (footnote 1).",
+      "rounding": "1 decimal: '84.1 million'"
+    },
+    {
+      "id": "cost-cardholders-2026",
+      "claim": "Costco total cardholders (paid members plus free household cards) at end of fiscal 2026",
+      "kind": "reported",
+      "value": 150400000.0,
+      "unit": "count",
+      "scale": "million",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership table, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Total cardholders | 150,400",
+      "rounding": "'about 150 million'"
+    },
+    {
+      "id": "cost-exec-members-2026",
+      "claim": "Costco Executive (premium) members at end of fiscal 2026",
+      "kind": "reported",
+      "value": 42300000.0,
+      "unit": "count",
+      "scale": "million",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Executive members represented 42,300, 38,700, and 35,400 of total paid members in 2026, 2025, and 2024.",
+      "rounding": "1 decimal"
+    },
+    {
+      "id": "cost-exec-sales-share-2026",
+      "claim": "Share of Costco worldwide net sales made by Executive members in fiscal 2026",
+      "kind": "reported",
+      "value": 75.2,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "The penetration of sales to Executive members represented approximately 75.2% of worldwide net sales in 2026.",
+      "rounding": "'about three quarters'"
+    },
+    {
+      "id": "cost-renewal-usca-2026",
+      "claim": "Costco member renewal rate in the U.S. and Canada at end of fiscal 2026",
+      "kind": "reported",
+      "value": 92.3,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Our member renewal rate was 92.3% in the U.S. and Canada and 89.8% worldwide at the end of 2026.",
+      "notes": "Trailing calculation of renewals 7-18 months before the reporting date.",
+      "rounding": "1 decimal"
+    },
+    {
+      "id": "cost-renewal-world-2026",
+      "claim": "Costco member renewal rate worldwide at end of fiscal 2026",
+      "kind": "reported",
+      "value": 89.8,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, Membership, p. 5",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Our member renewal rate was 92.3% in the U.S. and Canada and 89.8% worldwide at the end of 2026.",
+      "rounding": "1 decimal; 'nearly 90%'"
+    },
+    {
+      "id": "cost-warehouses-2026",
+      "claim": "Number of Costco warehouses worldwide at end of fiscal 2026",
+      "kind": "reported",
+      "value": 939,
+      "unit": "count",
+      "scale": "none",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, p. 3",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Costco operated 939, 914, and 890 warehouses worldwide at August 30, 2026, August 31, 2025, and September 1, 2024."
+    },
+    {
+      "id": "cost-fee-incr-share-2026",
+      "claim": "Share of fiscal 2026 membership fee growth that came from the 2024 fee increase",
+      "kind": "reported",
+      "value": 30,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 7 MD&A, Membership Fees, p. 27",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "The fee income increase accounted for approximately 30% and 40% of membership income growth during 2026 and 2025.",
+      "rounding": "'about 30%'"
+    },
+    {
+      "id": "cost-deferred-fees-2026",
+      "claim": "Membership fees Costco had collected but not yet earned (deferred) at end of fiscal 2026",
+      "kind": "reported",
+      "value": 3006000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Consolidated Balance Sheets, p. 39",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Deferred membership fees | 3,006",
+      "notes": "Fees are recognized evenly over the one-year membership.",
+      "rounding": "'about $3 billion'"
+    },
+    {
+      "id": "cost-exec-rewards-2026",
+      "claim": "Executive 2% rewards, recorded as a reduction in Costco's sales, fiscal 2026",
+      "kind": "reported",
+      "value": 3383000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Note 1, Membership fee revenue / Executive reward, p. 48",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "For 2026, 2025, and 2024, the net reduction in sales was $3,383, $3,007, and $2,804.",
+      "rounding": "1 decimal"
+    },
+    {
+      "id": "cost-fee-goldstar-us",
+      "claim": "Annual U.S. and Canada Gold Star (basic) membership fee, effective September 1, 2024",
+      "kind": "reported",
+      "value": 65,
+      "unit": "USD",
+      "scale": "none",
+      "period": "from 2024-09-01",
+      "asOf": "2024-09-01",
+      "tier": 1,
+      "source": {
+        "name": "Costco press release, Exhibit 99.1 to Form 8-K filed 2024-07-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000036/costex9918-k71024.htm",
+        "locator": "Press release, paragraph on membership fee increase",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "all U.S. and Canada Gold Star, Business and Business add-on members will pay an annual fee of $65.",
+      "notes": "Confirmed as current in FY2026 10-K p. 5: 'Our annual fee for memberships is $65 in the U.S.'"
+    },
+    {
+      "id": "cost-fee-goldstar-increase",
+      "claim": "Size of the September 2024 increase in the U.S. and Canada Gold Star fee",
+      "kind": "reported",
+      "value": 5,
+      "unit": "USD",
+      "scale": "none",
+      "period": "2024-09-01",
+      "asOf": "2024-09-01",
+      "tier": 1,
+      "source": {
+        "name": "Costco press release, Exhibit 99.1 to Form 8-K filed 2024-07-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000036/costex9918-k71024.htm",
+        "locator": "Press release, paragraph on membership fee increase",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "it will increase annual membership fees by $5 for U.S. and Canada Gold Star (individual), Business, and Business add-on members."
+    },
+    {
+      "id": "cost-fee-exec-us",
+      "claim": "Annual U.S. and Canada Executive membership fee, effective September 1, 2024",
+      "kind": "reported",
+      "value": 130,
+      "unit": "USD",
+      "scale": "none",
+      "period": "from 2024-09-01",
+      "asOf": "2024-09-01",
+      "tier": 1,
+      "source": {
+        "name": "Costco press release, Exhibit 99.1 to Form 8-K filed 2024-07-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000036/costex9918-k71024.htm",
+        "locator": "Press release, paragraph on membership fee increase",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "annual fees for Executive Memberships in the U.S. and Canada will increase from $120 to $130 (Primary membership of $65, plus the Executive upgrade of $65)"
+    },
+    {
+      "id": "cost-fee-exec-us-old",
+      "claim": "Annual U.S. and Canada Executive membership fee before September 1, 2024",
+      "kind": "reported",
+      "value": 120,
+      "unit": "USD",
+      "scale": "none",
+      "period": "before 2024-09-01",
+      "asOf": "2024-08-31",
+      "tier": 1,
+      "source": {
+        "name": "Costco press release, Exhibit 99.1 to Form 8-K filed 2024-07-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000036/costex9918-k71024.htm",
+        "locator": "Press release, paragraph on membership fee increase",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "annual fees for Executive Memberships in the U.S. and Canada will increase from $120 to $130"
+    },
+    {
+      "id": "cost-exec-reward-max",
+      "claim": "Maximum annual Executive 2% reward in the U.S. and Canada, from September 1, 2024",
+      "kind": "reported",
+      "value": 1250,
+      "unit": "USD",
+      "scale": "none",
+      "period": "from 2024-09-01",
+      "asOf": "2024-09-01",
+      "tier": 1,
+      "source": {
+        "name": "Costco press release, Exhibit 99.1 to Form 8-K filed 2024-07-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000036/costex9918-k71024.htm",
+        "locator": "Press release, paragraph on membership fee increase",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "the maximum annual 2% Reward associated with the Executive Membership will increase from $1,000 to $1,250."
+    },
+    {
+      "id": "cost-gross-margin-fy2026",
+      "claim": "Costco gross margin on goods: share of net sales left after paying for the goods, fiscal 2026",
+      "kind": "derived",
+      "formula": "(cost-net-sales-fy2026 - cost-merch-costs-fy2026) / cost-net-sales-fy2026 * 100",
+      "inputs": [
+        "cost-net-sales-fy2026",
+        "cost-merch-costs-fy2026"
+      ],
+      "value": 11.091113,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "Company definition: net sales less merchandise costs (10-K p. 3). Includes gasoline.",
+      "rounding": "'about 11%' / 'about $11 of every $100'"
+    },
+    {
+      "id": "cost-fee-share-rev-fy2026",
+      "claim": "Membership fees as a share of Costco total revenue, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-member-fees-fy2026 / cost-total-rev-fy2026 * 100",
+      "inputs": [
+        "cost-member-fees-fy2026",
+        "cost-total-rev-fy2026"
+      ],
+      "value": 1.948515,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "rounding": "'about 2%' (1.95% rounds up: avoid 'over'/'just over'; 'about' or 'under 2%')"
+    },
+    {
+      "id": "cost-fee-share-opinc-fy2026",
+      "claim": "Membership fees compared with Costco operating income, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-member-fees-fy2026 / cost-op-income-fy2026 * 100",
+      "inputs": [
+        "cost-member-fees-fy2026",
+        "cost-op-income-fy2026"
+      ],
+      "value": 50.55199,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "Fees have almost no direct cost, so this compares fees to profit; it is a ratio, not an accounting split of profit. Say 'equal to about half of operating profit'.",
+      "rounding": "'about half' / 'just over half'"
+    },
+    {
+      "id": "cost-fee-share-ni-fy2026",
+      "claim": "Membership fees compared with Costco net income, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-member-fees-fy2026 / cost-net-income-fy2026 * 100",
+      "inputs": [
+        "cost-member-fees-fy2026",
+        "cost-net-income-fy2026"
+      ],
+      "value": 64.02558,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "Net income is after tax, fees are pre-tax: say only as a comparison of sizes.",
+      "rounding": "'nearly two thirds'"
+    },
+    {
+      "id": "cost-opinc-ex-fees-fy2026",
+      "claim": "Costco operating income left if membership fees are removed, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-op-income-fy2026 - cost-member-fees-fy2026",
+      "inputs": [
+        "cost-op-income-fy2026",
+        "cost-member-fees-fy2026"
+      ],
+      "value": 5778000000.0,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "Illustrative: assumes fees carry no direct cost.",
+      "rounding": "1 decimal: '$5.8 billion'"
+    },
+    {
+      "id": "cost-goods-profit-per-100-fy2026",
+      "claim": "Operating profit from selling goods per $100 of net sales, excluding membership fees, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-opinc-ex-fees-fy2026 / cost-net-sales-fy2026 * 100",
+      "inputs": [
+        "cost-opinc-ex-fees-fy2026",
+        "cost-net-sales-fy2026"
+      ],
+      "value": 1.943838,
+      "unit": "USD",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "Illustrative, same assumption as cost-opinc-ex-fees-fy2026.",
+      "rounding": "'about two dollars' / 'under $2'"
+    },
+    {
+      "id": "cost-fee-growth-fy2026",
+      "claim": "Growth in Costco membership fee revenue, fiscal 2025 to 2026",
+      "kind": "derived",
+      "formula": "(cost-member-fees-fy2026 - cost-member-fees-fy2025) / cost-member-fees-fy2025 * 100",
+      "inputs": [
+        "cost-member-fees-fy2026",
+        "cost-member-fees-fy2025"
+      ],
+      "value": 10.971257,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "10-K p. 26 states 'increased 11%'.",
+      "rounding": "'11%'"
+    },
+    {
+      "id": "cost-fee-per-member-fy2026",
+      "claim": "Membership fee revenue per paid member, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-member-fees-fy2026 / cost-paid-members-2026",
+      "inputs": [
+        "cost-member-fees-fy2026",
+        "cost-paid-members-2026"
+      ],
+      "value": 70.237812,
+      "unit": "USD",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "notes": "Mixes countries and Gold Star/Executive tiers; uses year-end members. Say 'roughly'.",
+      "rounding": "'roughly $70'"
+    },
+    {
+      "id": "cost-exec-share-members-2026",
+      "claim": "Executive members as a share of paid members, end of fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-exec-members-2026 / cost-paid-members-2026 * 100",
+      "inputs": [
+        "cost-exec-members-2026",
+        "cost-paid-members-2026"
+      ],
+      "value": 50.297265,
+      "unit": "percent",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "rounding": "'about half'"
+    },
+    {
+      "id": "cost-sga-share-sales-fy2026",
+      "claim": "Costco running costs (SG&A) per $100 of net sales, fiscal 2026",
+      "kind": "derived",
+      "formula": "cost-sga-fy2026 / cost-net-sales-fy2026 * 100",
+      "inputs": [
+        "cost-sga-fy2026",
+        "cost-net-sales-fy2026"
+      ],
+      "value": 9.147275,
+      "unit": "USD",
+      "scale": "none",
+      "period": "FY2026",
+      "tier": 1,
+      "rounding": "'about $9'"
+    },
+    {
+      "id": "cost-low-margin-model",
+      "claim": "Costco's model: low prices and high volume let it operate profitably at much lower gross margins than most retailers",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, General, p. 3",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers."
+    },
+    {
+      "id": "cost-sell-before-pay",
+      "claim": "Costco often sells goods before it has to pay suppliers for them",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, General, p. 3",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts."
+    },
+    {
+      "id": "cost-founded-1983",
+      "claim": "Costco began operations in 1983 in Seattle",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 1 Business, p. 3",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "Costco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington.",
+      "value": 1983,
+      "unit": "year",
+      "period": "1983",
+      "asOf": "1983-01-01"
+    },
+    {
+      "id": "cost-fees-deferred",
+      "claim": "Costco recognizes each membership fee evenly over the one-year membership",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 7 MD&A, Membership Fees, p. 27",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "We account for membership fee revenue on a deferred basis, recognized ratably over the one-year membership period."
+    },
+    {
+      "id": "cost-membership-format",
+      "claim": "Costco says the membership format is integral to its profitability",
+      "kind": "qualitative",
+      "tier": 1,
+      "source": {
+        "name": "Costco Wholesale Corp. Form 10-K for fiscal year 2026 (filed 2026-10-07)",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+        "locator": "Item 7 MD&A, Highlights / Membership, p. 25",
+        "retrievedAt": "2026-10-16",
+        "method": "document"
+      },
+      "quote": "The membership format is integral to our business and profitability. This format is designed to reinforce member loyalty and provide continuing fee revenue."
+    },
+    {
+      "id": "cost-hotdog-1985",
+      "claim": "Costco's hot dog and soda combo has cost $1.50 since 1985, and Costco's CFO said in May 2024 the price is 'safe'",
+      "kind": "qualitative",
+      "tier": 3,
+      "source": {
+        "name": "CNN (Nathaniel Meyersohn), republished by KSL.com, 2024-05-31",
+        "url": "https://www.ksl.com/article/news/business/costcos-150-hot-dog-price-is-safe/51029641",
+        "locator": "Article text",
+        "retrievedAt": "2026-10-16",
+        "method": "page"
+      },
+      "quote": "\"To clear up some recent media speculation, I also want to confirm the $1.50 hot dog price is safe,\" said Costco CFO Gary Millerchip. ... The price has remained the same since 1985.",
+      "source2": {
+        "name": "ABC News (Kelly McCarthy), 2022-09-27",
+        "url": "https://abcnews.com/food/story/costco-hot-dog-soda-combo-150-price-possibly-90579135",
+        "locator": "Article text; earlier CFO Richard Galanti remark at Q4 FY2022 results",
+        "retrievedAt": "2026-10-16",
+        "method": "page"
+      },
+      "notes": "Tier 3 (two independent outlets quoting two different Costco CFOs on earnings calls). Attribute in narration: 'Costco's finance chief said on an earnings call...'. Not checked against a transcript.",
+      "value": 1.5,
+      "unit": "USD",
+      "period": "1985-2024",
+      "asOf": "2024-05-31"
+    }
+  ]
 }

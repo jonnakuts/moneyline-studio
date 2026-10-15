@@ -1,0 +1,366 @@
+{
+  "note": "Drafts from fetchers. Review, then copy what you use into facts.json.",
+  "candidates": [
+    {
+      "id": "cost-netincomeloss-fy2008",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2008 (ends 08-31)",
+      "tier": 1,
+      "value": 1283000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2008",
+      "asOf": "2008-08-31",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2010-10-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2007-09-03 to 2008-08-31, accession 0001193125-10-230379",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2009",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2009 (ends 08-30)",
+      "tier": 1,
+      "value": 1086000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2009",
+      "asOf": "2009-08-30",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2011-10-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2008-09-01 to 2009-08-30, accession 0001193125-11-271844",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2010",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2010 (ends 08-29)",
+      "tier": 1,
+      "value": 1303000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2010",
+      "asOf": "2010-08-29",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2012-10-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2009-08-31 to 2010-08-29, accession 0001193125-12-428890",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2011",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2011 (ends 08-28)",
+      "tier": 1,
+      "value": 1462000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2011",
+      "asOf": "2011-08-28",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2013-10-16",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2010-08-30 to 2011-08-28, accession 0001445305-13-002422",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2012",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2012 (ends 09-02)",
+      "tier": 1,
+      "value": 1709000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2012",
+      "asOf": "2012-09-02",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2014-10-15",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2011-08-29 to 2012-09-02, accession 0000909832-14-000021",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2013",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2013 (ends 09-01)",
+      "tier": 1,
+      "value": 2039000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2013",
+      "asOf": "2013-09-01",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2015-10-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2012-09-03 to 2013-09-01, accession 0000909832-15-000014",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2014",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2014 (ends 08-31)",
+      "tier": 1,
+      "value": 2058000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2014",
+      "asOf": "2014-08-31",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2016-10-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2013-09-02 to 2014-08-31, accession 0000909832-16-000032",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2015",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2015 (ends 08-30)",
+      "tier": 1,
+      "value": 2377000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2015",
+      "asOf": "2015-08-30",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2017-10-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2014-09-01 to 2015-08-30, accession 0000909832-17-000014",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2016",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2016 (ends 08-28)",
+      "tier": 1,
+      "value": 2350000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2016",
+      "asOf": "2016-08-28",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2018-10-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2015-08-31 to 2016-08-28, accession 0000909832-18-000013",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2017",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2017 (ends 09-03)",
+      "tier": 1,
+      "value": 2679000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2017",
+      "asOf": "2017-09-03",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2019-10-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2016-08-29 to 2017-09-03, accession 0000909832-19-000019",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2018",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2018 (ends 09-02)",
+      "tier": 1,
+      "value": 3134000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2018",
+      "asOf": "2018-09-02",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2020-10-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2017-09-04 to 2018-09-02, accession 0000909832-20-000017",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2019",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2019 (ends 09-01)",
+      "tier": 1,
+      "value": 3659000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2019",
+      "asOf": "2019-09-01",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2021-10-06",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2018-09-03 to 2019-09-01, accession 0000909832-21-000014",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2020",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2020 (ends 08-30)",
+      "tier": 1,
+      "value": 4002000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2020",
+      "asOf": "2020-08-30",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2022-10-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2019-09-02 to 2020-08-30, accession 0000909832-22-000021",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2021",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2021 (ends 08-29)",
+      "tier": 1,
+      "value": 5007000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2021",
+      "asOf": "2021-08-29",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2023-10-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2020-08-31 to 2021-08-29, accession 0000909832-23-000042",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2022",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2022 (ends 08-28)",
+      "tier": 1,
+      "value": 5844000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2022",
+      "asOf": "2022-08-28",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2024-10-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2021-08-30 to 2022-08-28, accession 0000909832-24-000049",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2023",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2023 (ends 09-03)",
+      "tier": 1,
+      "value": 6292000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2023",
+      "asOf": "2023-09-03",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2025-10-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2022-08-29 to 2023-09-03, accession 0000909832-25-000101",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2024",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2024 (ends 09-01)",
+      "tier": 1,
+      "value": 7367000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2024",
+      "asOf": "2024-09-01",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2026-10-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2023-09-04 to 2024-09-01, accession 0000909832-26-000093",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2025",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2025 (ends 08-31)",
+      "tier": 1,
+      "value": 8099000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2025",
+      "asOf": "2025-08-31",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2026-10-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2024-09-02 to 2025-08-31, accession 0000909832-26-000093",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    },
+    {
+      "id": "cost-netincomeloss-fy2026",
+      "kind": "reported",
+      "claim": "COSTCO WHOLESALE CORP /NEW: Net Income (Loss) Attributable to Parent, FY2026 (ends 08-30)",
+      "tier": 1,
+      "value": 9226000000,
+      "unit": "USD",
+      "scale": "billion",
+      "period": "FY2026",
+      "asOf": "2026-08-30",
+      "source": {
+        "name": "COSTCO WHOLESALE CORP /NEW Form 10-K filed 2026-10-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/",
+        "locator": "XBRL us-gaap:NetIncomeLoss, 2025-09-01 to 2026-08-30, accession 0000909832-26-000093",
+        "retrievedAt": "2026-10-16",
+        "method": "api:sec-companyfacts"
+      },
+      "notes": "Check the definition in the filing before using (XBRL label: \"Net Income (Loss) Attributable to Parent\")."
+    }
+  ]
+}

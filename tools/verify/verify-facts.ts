@@ -1,5 +1,6 @@
 import { FactsFile, type Fact } from "../../engine/src/schemas/facts.js";
 import { evaluate, formulaIds } from "./formula.js";
+import { today } from "../lib/paths.js";
 
 export interface Finding {
   level: "error" | "warning";
@@ -16,8 +17,8 @@ export interface FactsResult {
 const DERIVED_TOLERANCE = 0.005; // 0.5%
 const STALE_DAYS = 365;
 
-/** Validate a parsed facts.json object. `todayIso` is injectable for tests. */
-export function verifyFacts(raw: unknown, todayIso = new Date().toISOString().slice(0, 10)): FactsResult {
+/** Validate a parsed facts.json object. `todayIso` (local date, not UTC) is injectable for tests. */
+export function verifyFacts(raw: unknown, todayIso = today()): FactsResult {
   const findings: Finding[] = [];
   const parsed = FactsFile.safeParse(raw);
   if (!parsed.success) {

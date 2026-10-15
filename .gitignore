@@ -60,3 +60,6 @@ desktop.ini
 
 # Claude Code local-only settings
 .claude/settings.local.json
+
+# Downloaded source documents (URLs are in facts.json; text extracts are kept)
+videos/*/01-research/raw/*.htm
