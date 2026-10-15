@@ -45,7 +45,8 @@ if ($pyCmd) {
 Write-Host "`n== .env ==" -ForegroundColor Cyan
 $envPath = Join-Path (Get-Location) ".env"
 if (Test-Path $envPath) {
-    $lines = Get-Content $envPath | Where-Object { $_ -match "^[A-Z_]+=" }
+    # Trim first: Node accepts indented lines, so the doctor must too.
+    $lines = Get-Content $envPath | ForEach-Object { $_.Trim() } | Where-Object { $_ -match "^[A-Z_]+=" }
     $want = @("SEC_USER_AGENT","FRED_API_KEY","PIXABAY_API_KEY","RHUBARB_PATH")
     # Optional: Pexels paused new API keys (Oct 2026); footage also comes from keyless sources.
     $optional = @("PEXELS_API_KEY")
