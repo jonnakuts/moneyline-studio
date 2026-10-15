@@ -63,3 +63,4 @@ desktop.ini
 
 # Downloaded source documents (URLs are in facts.json; text extracts are kept)
 videos/*/01-research/raw/*.htm
+videos/*/01-research/raw/*/
