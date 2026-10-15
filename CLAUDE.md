@@ -81,7 +81,8 @@ tools/
   research/           SEC EDGAR, World Bank, FRED fetchers; cache; candidates        [built]
   verify/             verify-facts, verify-script, freeze/verify-lock/unfreeze       [built]
   llm/                OpenAI-compatible client (NVIDIA, Gemini, Groq…), drafting only [built]
-  audio/              Kokoro TTS, faster-whisper alignment, Rhubarb visemes (Python) [Phase 2]
+  audio/              Kokoro TTS, faster-whisper alignment, Rhubarb visemes (Python) [built]
+  render/             render launchers (sync test)                                   [built]
   thumbnail/          Satori thumbnail renderer                                       [Phase 4]
 tests/                vitest suites for tools (run before committing)
 videos/<YYYY-MM-DD-slug>/   One folder per video (layout in docs/PIPELINE.md)
@@ -110,6 +111,13 @@ npm run freeze -- <slug> <B-script|C-voice|D-direction|F-render|G-package>   rec
 npm run unfreeze -- <slug> <stage> --yes "reason"         only with the owner's OK; removes that stage and later ones
 npm run llm:ping                     check the LLM provider works (LLM_* if set, else NVIDIA_*)
 npm run llm:models [filter]          list chat models on the configured provider
+npm run audio:setup                  one time: Python venv for tools/audio + Kokoro model download
+npm run tts -- <slug>                narration: phrase plan + Kokoro → 03-voice/audio/narration.wav
+npm run align -- <slug> [--reuse]    word timing (faster-whisper) → word-timestamps.json, phrases.json, timing-report.md
+npm run visemes -- <slug>            host mouth shapes (Rhubarb) → 03-voice/visemes.json
+npm run voice -- <slug>              tts + align + visemes in order
+npm run render:sync -- <slug>        plain Gate C sync test → 03-voice/renders/sync-test.mp4
+npm run studio                       Remotion Studio (close it before rendering)
 npm test                             run all tests
 npm run typecheck                    TypeScript check
 ```
@@ -117,8 +125,7 @@ npm run typecheck                    TypeScript check
 Fetchers write **drafts** to `01-research/candidates.json`. Review each (definition, period, rounding) and
 copy the ones the story uses into `facts.json`; never bulk-copy.
 
-Planned (add here when built): `npm run studio`, `npm run tts`, `npm run align`, `npm run render:sync`,
-`npm run render:preview`, `npm run render:final`, `npm run shorts`, `npm run thumb`.
+Planned (add here when built): `npm run render:preview`, `npm run render:final`, `npm run shorts`, `npm run thumb`.
 
 ## Coding conventions
 

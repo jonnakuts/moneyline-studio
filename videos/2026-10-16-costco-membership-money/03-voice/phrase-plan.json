@@ -1,0 +1,1295 @@
+[
+  {
+    "i": 0,
+    "spoken": "Picture a Costco shopping cart, piled high.",
+    "scriptText": "Picture a Costco shopping cart, piled high.",
+    "section": "cold-open",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 1,
+    "spoken": "Giant packs of paper towels, a crate of eggs, a TV balanced on top.",
+    "scriptText": "Giant packs of paper towels, a crate of eggs, a TV balanced on top.",
+    "section": "cold-open",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 2,
+    "spoken": "Costco sold you almost everything in that cart for barely more than it paid.",
+    "scriptText": "Costco sold you almost everything in that cart for barely more than it paid.",
+    "section": "cold-open",
+    "factIds": [
+      "cost-gross-margin-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 3,
+    "spoken": "Now look at the small plastic card in your hand.",
+    "scriptText": "Now look at the small plastic card in your hand.",
+    "section": "cold-open",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 4,
+    "spoken": "Under two percent of Costco's money comes from that card.",
+    "scriptText": "Under 2% of Costco's money comes from that card.",
+    "section": "cold-open",
+    "factIds": [
+      "cost-fee-share-rev-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 5,
+    "spoken": "But it's as big as about half of Costco's operating profit.",
+    "scriptText": "But it's as big as about half of Costco's operating profit.",
+    "section": "cold-open",
+    "factIds": [
+      "cost-fee-share-opinc-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 6,
+    "spoken": "So the real question isn't what Costco sells.",
+    "scriptText": "So the real question isn't what Costco sells.",
+    "section": "the-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 7,
+    "spoken": "It's what you're actually paying for when you walk in.",
+    "scriptText": "It's what you're actually paying for when you walk in.",
+    "section": "the-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 8,
+    "spoken": "By the end of this video, you'll see how a store that barely profits on its goods still makes billions.",
+    "scriptText": "By the end of this video, you'll see how a store that barely profits on its goods still makes billions.",
+    "section": "the-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 9,
+    "spoken": "And why selling things cheaper makes Costco more money, not less.",
+    "scriptText": "And why selling things cheaper makes Costco more money, not less.",
+    "section": "the-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 10,
+    "spoken": "Let's open the books.",
+    "scriptText": "Let's open the books.",
+    "section": "the-promise",
+    "factIds": [],
+    "host": true,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 11,
+    "spoken": "Costco doesn't hide any of this.",
+    "scriptText": "Costco doesn't hide any of this.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 12,
+    "spoken": "It's all in the yearly report it files with the US government.",
+    "scriptText": "It's all in the yearly report it files with the US government.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 13,
+    "spoken": "Costco began in Seattle in nineteen eighty-three.",
+    "scriptText": "Costco began in Seattle in 1983.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-founded-1983"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 14,
+    "spoken": "Today it runs nine hundred thirty-nine warehouses around the world.",
+    "scriptText": "Today it runs 939 warehouses around the world.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-warehouses-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 15,
+    "spoken": "In its twenty twenty-six fiscal year, Costco sold about two hundred ninety-seven billion dollars of goods.",
+    "scriptText": "In its 2026 fiscal year, Costco sold about $297 billion of goods.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-net-sales-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 16,
+    "spoken": "That's groceries, TVs, tires, fuel, glasses, all of it.",
+    "scriptText": "That's groceries, TVs, tires, fuel, glasses, all of it.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 17,
+    "spoken": "To buy those goods from its suppliers, it paid about two hundred sixty-four billion dollars.",
+    "scriptText": "To buy those goods from its suppliers, it paid about $264 billion.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-merch-costs-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 18,
+    "spoken": "So of everything you spend, only about eleven percent is left once Costco has paid for the goods.",
+    "scriptText": "So of everything you spend, only about 11% is left once Costco has paid for the goods.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-gross-margin-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 19,
+    "spoken": "That leftover is called the gross margin.",
+    "scriptText": "That leftover is called the gross margin.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 20,
+    "spoken": "And Costco says itself that it runs on much lower margins than most other retailers.",
+    "scriptText": "And Costco says itself that it runs on much lower margins than most other retailers.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-low-margin-model"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 21,
+    "spoken": "Out of that small slice, Costco still has to pay its staff, run its warehouses, and keep the lights on.",
+    "scriptText": "Out of that small slice, Costco still has to pay its staff, run its warehouses, and keep the lights on.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 22,
+    "spoken": "Those running costs take about nine dollars of every hundred dollars you spend.",
+    "scriptText": "Those running costs take about $9 of every hundred dollars you spend.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-sga-share-sales-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 23,
+    "spoken": "So what's left from selling goods?",
+    "scriptText": "So what's left from selling goods?",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 24,
+    "spoken": "Under two dollars.",
+    "scriptText": "Under $2.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-goods-profit-per-100-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 25,
+    "spoken": "Under two dollars of profit for every hundred dollars of shopping.",
+    "scriptText": "Under two dollars of profit for every hundred dollars of shopping.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [
+      "cost-goods-profit-per-100-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 26,
+    "spoken": "That's thin.",
+    "scriptText": "That's thin.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 27,
+    "spoken": "If Costco were only a shop, it would be a very ordinary business.",
+    "scriptText": "If Costco were only a shop, it would be a very ordinary business.",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 28,
+    "spoken": "So where does the rest of the profit come from?",
+    "scriptText": "So where does the rest of the profit come from?",
+    "section": "the-store-that-barely-profits",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 29,
+    "spoken": "From the one thing in your wallet that has nothing on its shelf.",
+    "scriptText": "From the one thing in your wallet that has nothing on its shelf.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 30,
+    "spoken": "In America, a basic Costco membership costs sixty-five dollars a year.",
+    "scriptText": "In America, a basic Costco membership costs $65 a year.",
+    "section": "the-card",
+    "factIds": [
+      "cost-fee-goldstar-us"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 31,
+    "spoken": "At the end of its twenty twenty-six fiscal year, Costco had about eighty-four point one million paid members.",
+    "scriptText": "At the end of its 2026 fiscal year, Costco had about 84.1 million paid members.",
+    "section": "the-card",
+    "factIds": [
+      "cost-paid-members-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 32,
+    "spoken": "Add the free second cards for people in the same household, and it's about a hundred and fifty million cardholders.",
+    "scriptText": "Add the free second cards for people in the same household, and it's about 150 million cardholders.",
+    "section": "the-card",
+    "factIds": [
+      "cost-cardholders-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 33,
+    "spoken": "All those fees added up to five point nine billion dollars in one year.",
+    "scriptText": "All those fees added up to $5.9 billion in one year.",
+    "section": "the-card",
+    "factIds": [
+      "cost-member-fees-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 34,
+    "spoken": "And that number keeps climbing.",
+    "scriptText": "And that number keeps climbing.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 35,
+    "spoken": "Two years earlier, it was about four point eight billion dollars.",
+    "scriptText": "Two years earlier, it was about $4.8 billion.",
+    "section": "the-card",
+    "factIds": [
+      "cost-member-fees-fy2024"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 36,
+    "spoken": "The year after that, about five point three billion dollars.",
+    "scriptText": "The year after that, about $5.3 billion.",
+    "section": "the-card",
+    "factIds": [
+      "cost-member-fees-fy2025"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 37,
+    "spoken": "Now compare that with Costco's operating profit, the money it makes from running the business, before interest and tax.",
+    "scriptText": "Now compare that with Costco's operating profit, the money it makes from running the business, before interest and tax.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 38,
+    "spoken": "That was eleven point seven billion dollars.",
+    "scriptText": "That was $11.7 billion.",
+    "section": "the-card",
+    "factIds": [
+      "cost-op-income-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 39,
+    "spoken": "So the membership fees are as big as about half of all that profit.",
+    "scriptText": "So the membership fees are as big as about half of all that profit.",
+    "section": "the-card",
+    "factIds": [
+      "cost-fee-share-opinc-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 40,
+    "spoken": "To be fair, Costco doesn't split its profit by where it comes from.",
+    "scriptText": "To be fair, Costco doesn't split its profit by where it comes from.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 41,
+    "spoken": "This is a comparison of sizes, not an official breakdown.",
+    "scriptText": "This is a comparison of sizes, not an official breakdown.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 42,
+    "spoken": "But it tells you what the whole business is built around.",
+    "scriptText": "But it tells you what the whole business is built around.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 43,
+    "spoken": "Here's why that matters.",
+    "scriptText": "Here's why that matters.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 44,
+    "spoken": "Unlike a TV, a membership doesn't need a box shipped or a shelf stocked.",
+    "scriptText": "Unlike a TV, a membership doesn't need a box shipped or a shelf stocked.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 45,
+    "spoken": "So take the fees away, and on paper the operating profit drops to about five point eight billion dollars.",
+    "scriptText": "So take the fees away, and on paper the operating profit drops to about $5.8 billion.",
+    "section": "the-card",
+    "factIds": [
+      "cost-opinc-ex-fees-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 46,
+    "spoken": "That's the trick hiding in plain sight.",
+    "scriptText": "That's the trick hiding in plain sight.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 47,
+    "spoken": "Costco sells you the goods at almost no profit.",
+    "scriptText": "Costco sells you the goods at almost no profit.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 48,
+    "spoken": "And sells you the right to shop there at a very healthy one.",
+    "scriptText": "And sells you the right to shop there at a very healthy one.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 49,
+    "spoken": "You might be thinking, isn't that just a subscription?",
+    "scriptText": "You might be thinking, isn't that just a subscription?",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 50,
+    "spoken": "Sort of, but with a twist.",
+    "scriptText": "Sort of, but with a twist.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 51,
+    "spoken": "With most subscriptions, you pay for the thing itself, like shows or music.",
+    "scriptText": "With most subscriptions, you pay for the thing itself, like shows or music.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 52,
+    "spoken": "At Costco, you pay for the right to buy things at almost no markup.",
+    "scriptText": "At Costco, you pay for the right to buy things at almost no markup.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 53,
+    "spoken": "So the better the deal on the shelves, the more the subscription is worth.",
+    "scriptText": "So the better the deal on the shelves, the more the subscription is worth.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 54,
+    "spoken": "The shop and the card aren't two businesses.",
+    "scriptText": "The shop and the card aren't two businesses.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 55,
+    "spoken": "They're one machine, and each half feeds the other.",
+    "scriptText": "They're one machine, and each half feeds the other.",
+    "section": "the-card",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 56,
+    "spoken": "Costco says it plainly in its own report: the membership format is integral to its business and profitability.",
+    "scriptText": "Costco says it plainly in its own report: the membership format is integral to its business and profitability.",
+    "section": "the-card",
+    "factIds": [
+      "cost-membership-format"
+    ],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 57,
+    "spoken": "But a fee only works if people keep paying it.",
+    "scriptText": "But a fee only works if people keep paying it.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 58,
+    "spoken": "So here's the loop that holds the whole thing together.",
+    "scriptText": "So here's the loop that holds the whole thing together.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 59,
+    "spoken": "Low prices make the membership feel worth it.",
+    "scriptText": "Low prices make the membership feel worth it.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 60,
+    "spoken": "People who feel it's worth it renew.",
+    "scriptText": "People who feel it's worth it renew.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 61,
+    "spoken": "And renewals are the profit.",
+    "scriptText": "And renewals are the profit.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 62,
+    "spoken": "How many actually renew?",
+    "scriptText": "How many actually renew?",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 63,
+    "spoken": "In the US and Canada, the renewal rate was ninety-two point three percent.",
+    "scriptText": "In the US and Canada, the renewal rate was 92.3%.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-renewal-usca-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 64,
+    "spoken": "Worldwide, it was nearly ninety percent.",
+    "scriptText": "Worldwide, it was nearly 90%.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-renewal-world-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 65,
+    "spoken": "Think about what that means.",
+    "scriptText": "Think about what that means.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 66,
+    "spoken": "Roughly nine out of ten members decide, every single year, to pay again.",
+    "scriptText": "Roughly nine out of ten members decide, every single year, to pay again.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-renewal-world-2026",
+      "cost-renewal-usca-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 67,
+    "spoken": "If Costco raised its prices on goods to squeeze out more profit, the deal would feel worse.",
+    "scriptText": "If Costco raised its prices on goods to squeeze out more profit, the deal would feel worse.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 68,
+    "spoken": "Renewals could slip.",
+    "scriptText": "Renewals could slip.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 69,
+    "spoken": "And the most valuable part of the business would start to leak.",
+    "scriptText": "And the most valuable part of the business would start to leak.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 70,
+    "spoken": "So Costco keeps prices low on purpose.",
+    "scriptText": "So Costco keeps prices low on purpose.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-low-margin-model"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 71,
+    "spoken": "The cheap prices aren't the cost of the business.",
+    "scriptText": "The cheap prices aren't the cost of the business.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 72,
+    "spoken": "They're the marketing for the membership.",
+    "scriptText": "They're the marketing for the membership.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 73,
+    "spoken": "There's one more quiet advantage.",
+    "scriptText": "There's one more quiet advantage.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 74,
+    "spoken": "Members pay for the whole year up front.",
+    "scriptText": "Members pay for the whole year up front.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 75,
+    "spoken": "But Costco counts that fee as income slowly, evenly across the year.",
+    "scriptText": "But Costco counts that fee as income slowly, evenly across the year.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-fees-deferred"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 76,
+    "spoken": "At the end of its twenty twenty-six fiscal year, Costco was holding about three billion dollars of fees it had collected but not yet counted as earned.",
+    "scriptText": "At the end of its 2026 fiscal year, Costco was holding about $3 billion of fees it had collected but not yet counted as earned.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-deferred-fees-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 77,
+    "spoken": "And it goes further with its suppliers.",
+    "scriptText": "And it goes further with its suppliers.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 78,
+    "spoken": "Costco says it often sells goods before it even has to pay for them.",
+    "scriptText": "Costco says it often sells goods before it even has to pay for them.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [
+      "cost-sell-before-pay"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 79,
+    "spoken": "So your money arrives early, and Costco's bills arrive late.",
+    "scriptText": "So your money arrives early, and Costco's bills arrive late.",
+    "section": "why-cheaper-means-more-money",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 80,
+    "spoken": "You can see the whole strategy in one famous item.",
+    "scriptText": "You can see the whole strategy in one famous item.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 81,
+    "spoken": "The food court hot dog and soda.",
+    "scriptText": "The food court hot dog and soda.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 82,
+    "spoken": "It has cost a dollar fifty since nineteen eighty-five, according to news reports.",
+    "scriptText": "It has cost $1.50 since 1985, according to news reports.",
+    "section": "the-hot-dog-promise",
+    "factIds": [
+      "cost-hotdog-1985"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 83,
+    "spoken": "In twenty twenty-four, when people started asking if that price would finally go up, Costco's finance chief said on an earnings call that the price is safe.",
+    "scriptText": "In 2024, when people started asking if that price would finally go up, Costco's finance chief said on an earnings call that the price is safe.",
+    "section": "the-hot-dog-promise",
+    "factIds": [
+      "cost-hotdog-1985"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 84,
+    "spoken": "Costco doesn't report how much it makes or loses on hot dogs.",
+    "scriptText": "Costco doesn't report how much it makes or loses on hot dogs.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 85,
+    "spoken": "But the point isn't the hot dog.",
+    "scriptText": "But the point isn't the hot dog.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 86,
+    "spoken": "The point is the promise.",
+    "scriptText": "The point is the promise.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 87,
+    "spoken": "A price that never moves tells every member that Costco is on their side.",
+    "scriptText": "A price that never moves tells every member that Costco is on their side.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 88,
+    "spoken": "And members who believe that keep renewing.",
+    "scriptText": "And members who believe that keep renewing.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 89,
+    "spoken": "It's not a snack.",
+    "scriptText": "It's not a snack.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": true,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 90,
+    "spoken": "It's a signal.",
+    "scriptText": "It's a signal.",
+    "section": "the-hot-dog-promise",
+    "factIds": [],
+    "host": true,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 91,
+    "spoken": "But here's the part most people miss.",
+    "scriptText": "But here's the part most people miss.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 92,
+    "spoken": "The cheapest membership isn't where the story ends.",
+    "scriptText": "The cheapest membership isn't where the story ends.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 93,
+    "spoken": "Costco also sells an upgrade called Executive membership.",
+    "scriptText": "Costco also sells an upgrade called Executive membership.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 94,
+    "spoken": "In America, it costs a hundred and thirty dollars a year, double the basic fee.",
+    "scriptText": "In America, it costs $130 a year, double the basic fee.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-fee-exec-us",
+      "cost-fee-goldstar-us"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 95,
+    "spoken": "In return, members get back a two percent reward on qualifying purchases, up to twelve hundred and fifty dollars a year.",
+    "scriptText": "In return, members get back a 2% reward on qualifying purchases, up to $1,250 a year.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-exec-reward-rate",
+      "cost-exec-reward-max"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 96,
+    "spoken": "So why would Costco pay people to shop?",
+    "scriptText": "So why would Costco pay people to shop?",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 97,
+    "spoken": "Look at who these members are.",
+    "scriptText": "Look at who these members are.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 98,
+    "spoken": "At the end of fiscal twenty twenty-six, there were about forty-two point three million Executive members.",
+    "scriptText": "At the end of fiscal 2026, there were about 42.3 million Executive members.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-exec-members-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 99,
+    "spoken": "That's about half of all paid members.",
+    "scriptText": "That's about half of all paid members.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-exec-share-members-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 100,
+    "spoken": "But they made about seventy-five point two percent of Costco's sales worldwide.",
+    "scriptText": "But they made about 75.2% of Costco's sales worldwide.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-exec-sales-share-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 101,
+    "spoken": "Spend about three thousand two hundred and fifty dollars a year, and the reward pays back the extra fee.",
+    "scriptText": "Spend about $3,250 a year, and the reward pays back the extra fee.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-exec-breakeven-spend"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 102,
+    "spoken": "Shop more than that, and the upgrade feels free.",
+    "scriptText": "Shop more than that, and the upgrade feels free.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 103,
+    "spoken": "So the people who shop the most lock themselves in the hardest.",
+    "scriptText": "So the people who shop the most lock themselves in the hardest.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 104,
+    "spoken": "In twenty twenty-six, those rewards cost Costco about three point four billion dollars, taken straight off its sales.",
+    "scriptText": "In 2026, those rewards cost Costco about $3.4 billion, taken straight off its sales.",
+    "section": "the-members-who-pay-more",
+    "factIds": [
+      "cost-exec-rewards-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 105,
+    "spoken": "That's a lot to give away.",
+    "scriptText": "That's a lot to give away.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 106,
+    "spoken": "But it buys Costco its biggest and most loyal shoppers.",
+    "scriptText": "But it buys Costco its biggest and most loyal shoppers.",
+    "section": "the-members-who-pay-more",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 107,
+    "spoken": "So is this model unbreakable?",
+    "scriptText": "So is this model unbreakable?",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 108,
+    "spoken": "Not quite, and Costco knows exactly where the pressure is.",
+    "scriptText": "Not quite, and Costco knows exactly where the pressure is.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 109,
+    "spoken": "In September twenty twenty-four, it raised the basic fee in the US and Canada by five dollars.",
+    "scriptText": "In September 2024, it raised the basic fee in the US and Canada by $5.",
+    "section": "what-could-break-it",
+    "factIds": [
+      "cost-fee-goldstar-increase"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 110,
+    "spoken": "The Executive fee went from a hundred and twenty dollars to a hundred and thirty.",
+    "scriptText": "The Executive fee went from $120 to $130.",
+    "section": "what-could-break-it",
+    "factIds": [
+      "cost-fee-exec-us-old",
+      "cost-fee-exec-us"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 111,
+    "spoken": "In fiscal twenty twenty-six, fee revenue grew eleven percent.",
+    "scriptText": "In fiscal 2026, fee revenue grew 11%.",
+    "section": "what-could-break-it",
+    "factIds": [
+      "cost-fee-growth-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 112,
+    "spoken": "But only about thirty percent of that growth came from the higher price.",
+    "scriptText": "But only about 30% of that growth came from the higher price.",
+    "section": "what-could-break-it",
+    "factIds": [
+      "cost-fee-incr-share-2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 113,
+    "spoken": "The rest came from more members joining and more of them upgrading.",
+    "scriptText": "The rest came from more members joining and more of them upgrading.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 114,
+    "spoken": "That's the real engine.",
+    "scriptText": "That's the real engine.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 115,
+    "spoken": "And notice the gap between the two renewal rates.",
+    "scriptText": "And notice the gap between the two renewal rates.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 116,
+    "spoken": "Costco says its worldwide rate is pulled down by fast growth in some newer countries, and by memberships sold online, which renew a little less often.",
+    "scriptText": "Costco says its worldwide rate is pulled down by fast growth in some newer countries, and by memberships sold online, which renew a little less often.",
+    "section": "what-could-break-it",
+    "factIds": [
+      "cost-renewal-intl-online-lower"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 117,
+    "spoken": "So as Costco grows into new places, keeping that loyalty is not automatic.",
+    "scriptText": "So as Costco grows into new places, keeping that loyalty is not automatic.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 118,
+    "spoken": "Raising the fee is easy.",
+    "scriptText": "Raising the fee is easy.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 119,
+    "spoken": "Keeping people happy enough to pay it is the hard part.",
+    "scriptText": "Keeping people happy enough to pay it is the hard part.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 120,
+    "spoken": "If renewals ever fall, the profit falls with them, because so much of it rests on that one card.",
+    "scriptText": "If renewals ever fall, the profit falls with them, because so much of it rests on that one card.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 121,
+    "spoken": "Costco's own report says it: sustaining high renewal rates materially influences its profitability.",
+    "scriptText": "Costco's own report says it: sustaining high renewal rates materially influences its profitability.",
+    "section": "what-could-break-it",
+    "factIds": [
+      "cost-renewal-drives-profit"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 122,
+    "spoken": "So if you ever want to know how Costco is really doing, don't watch the shelves.",
+    "scriptText": "So if you ever want to know how Costco is really doing, don't watch the shelves.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 123,
+    "spoken": "Watch the renewal rate.",
+    "scriptText": "Watch the renewal rate.",
+    "section": "what-could-break-it",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 124,
+    "spoken": "Remember that cart.",
+    "scriptText": "Remember that cart.",
+    "section": "payoff",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 125,
+    "spoken": "Costco sold you almost everything in it for barely more than it paid.",
+    "scriptText": "Costco sold you almost everything in it for barely more than it paid.",
+    "section": "payoff",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 126,
+    "spoken": "And it's happy to.",
+    "scriptText": "And it's happy to.",
+    "section": "payoff",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 127,
+    "spoken": "Because the cart was never the product.",
+    "scriptText": "Because the cart was never the product.",
+    "section": "payoff",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 128,
+    "spoken": "The card was.",
+    "scriptText": "The card was.",
+    "section": "payoff",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 129,
+    "spoken": "Under two percent of the money.",
+    "scriptText": "Under 2% of the money.",
+    "section": "payoff",
+    "factIds": [
+      "cost-fee-share-rev-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 130,
+    "spoken": "About half the profit.",
+    "scriptText": "About half the profit.",
+    "section": "payoff",
+    "factIds": [
+      "cost-fee-share-opinc-fy2026"
+    ],
+    "host": false,
+    "pauseAfter": 0.35
+  },
+  {
+    "i": 131,
+    "spoken": "And a hot dog price that never moves, so you never stop believing the deal.",
+    "scriptText": "And a hot dog price that never moves, so you never stop believing the deal.",
+    "section": "payoff",
+    "factIds": [],
+    "host": false,
+    "pauseAfter": 0.8
+  },
+  {
+    "i": 132,
+    "spoken": "Next time, we'll open the books on another business you use every week.",
+    "scriptText": "Next time, we'll open the books on another business you use every week.",
+    "section": "outro",
+    "factIds": [],
+    "host": true,
+    "pauseAfter": 0
+  }
+]

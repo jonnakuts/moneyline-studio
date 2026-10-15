@@ -1,0 +1,7 @@
+{
+  "engine": "kokoro-onnx",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "lang": "en-us",
+  "notes": "Channel narration voice. Changing it changes the channel's sound: owner decides."
+}

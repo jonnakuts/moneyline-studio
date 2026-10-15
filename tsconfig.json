@@ -8,8 +8,17 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "types": ["node"],
-    "noEmit": true
+    "types": [
+      "node",
+      "react"
+    ],
+    "noEmit": true,
+    "jsx": "react-jsx"
   },
-  "include": ["engine/src/**/*.ts", "tools/**/*.ts", "tests/**/*.ts"]
+  "include": [
+    "engine/**/*.ts",
+    "engine/**/*.tsx",
+    "tools/**/*.ts",
+    "tests/**/*.ts"
+  ]
 }

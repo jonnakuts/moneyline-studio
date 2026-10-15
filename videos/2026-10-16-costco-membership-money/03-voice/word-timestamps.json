@@ -1,0 +1,11386 @@
+[
+  {
+    "i": 0,
+    "word": "Picture",
+    "start": 0.0,
+    "end": 0.3,
+    "conf": 0.942,
+    "phrase": 0
+  },
+  {
+    "i": 1,
+    "word": "a",
+    "start": 0.3,
+    "end": 0.48,
+    "conf": 0.981,
+    "phrase": 0
+  },
+  {
+    "i": 2,
+    "word": "Costco",
+    "start": 0.48,
+    "end": 0.84,
+    "conf": 0.99,
+    "phrase": 0
+  },
+  {
+    "i": 3,
+    "word": "shopping",
+    "start": 0.84,
+    "end": 1.26,
+    "conf": 0.947,
+    "phrase": 0
+  },
+  {
+    "i": 4,
+    "word": "cart,",
+    "start": 1.26,
+    "end": 1.74,
+    "conf": 0.999,
+    "phrase": 0
+  },
+  {
+    "i": 5,
+    "word": "piled",
+    "start": 1.96,
+    "end": 2.24,
+    "conf": 0.995,
+    "phrase": 0
+  },
+  {
+    "i": 6,
+    "word": "high.",
+    "start": 2.24,
+    "end": 2.7,
+    "conf": 0.994,
+    "phrase": 0
+  },
+  {
+    "i": 7,
+    "word": "Giant",
+    "start": 3.196,
+    "end": 3.556,
+    "conf": 0.501,
+    "phrase": 1
+  },
+  {
+    "i": 8,
+    "word": "packs",
+    "start": 3.556,
+    "end": 3.856,
+    "conf": 0.994,
+    "phrase": 1
+  },
+  {
+    "i": 9,
+    "word": "of",
+    "start": 3.856,
+    "end": 4.076,
+    "conf": 0.997,
+    "phrase": 1
+  },
+  {
+    "i": 10,
+    "word": "paper",
+    "start": 4.076,
+    "end": 4.296,
+    "conf": 0.999,
+    "phrase": 1
+  },
+  {
+    "i": 11,
+    "word": "towels,",
+    "start": 4.296,
+    "end": 4.796,
+    "conf": 0.996,
+    "phrase": 1
+  },
+  {
+    "i": 12,
+    "word": "a",
+    "start": 5.236,
+    "end": 5.276,
+    "conf": 0.982,
+    "phrase": 1
+  },
+  {
+    "i": 13,
+    "word": "crate",
+    "start": 5.276,
+    "end": 5.456,
+    "conf": 0.998,
+    "phrase": 1
+  },
+  {
+    "i": 14,
+    "word": "of",
+    "start": 5.456,
+    "end": 5.676,
+    "conf": 0.999,
+    "phrase": 1
+  },
+  {
+    "i": 15,
+    "word": "eggs,",
+    "start": 5.676,
+    "end": 6.056,
+    "conf": 0.998,
+    "phrase": 1
+  },
+  {
+    "i": 16,
+    "word": "a",
+    "start": 6.376,
+    "end": 6.496,
+    "conf": 0.991,
+    "phrase": 1
+  },
+  {
+    "i": 17,
+    "word": "TV",
+    "start": 6.496,
+    "end": 6.796,
+    "conf": 0.856,
+    "phrase": 1
+  },
+  {
+    "i": 18,
+    "word": "balanced",
+    "start": 6.796,
+    "end": 7.356,
+    "conf": 0.993,
+    "phrase": 1
+  },
+  {
+    "i": 19,
+    "word": "on",
+    "start": 7.356,
+    "end": 7.616,
+    "conf": 0.999,
+    "phrase": 1
+  },
+  {
+    "i": 20,
+    "word": "top.",
+    "start": 7.616,
+    "end": 7.916,
+    "conf": 0.993,
+    "phrase": 1
+  },
+  {
+    "i": 21,
+    "word": "Costco",
+    "start": 8.475,
+    "end": 8.915,
+    "conf": 0.848,
+    "phrase": 2
+  },
+  {
+    "i": 22,
+    "word": "sold",
+    "start": 8.915,
+    "end": 9.415,
+    "conf": 0.993,
+    "phrase": 2
+  },
+  {
+    "i": 23,
+    "word": "you",
+    "start": 9.415,
+    "end": 9.715,
+    "conf": 0.995,
+    "phrase": 2
+  },
+  {
+    "i": 24,
+    "word": "almost",
+    "start": 9.715,
+    "end": 10.055,
+    "conf": 0.993,
+    "phrase": 2
+  },
+  {
+    "i": 25,
+    "word": "everything",
+    "start": 10.055,
+    "end": 10.555,
+    "conf": 0.996,
+    "phrase": 2
+  },
+  {
+    "i": 26,
+    "word": "in",
+    "start": 10.555,
+    "end": 10.795,
+    "conf": 0.997,
+    "phrase": 2
+  },
+  {
+    "i": 27,
+    "word": "that",
+    "start": 10.795,
+    "end": 10.975,
+    "conf": 0.99,
+    "phrase": 2
+  },
+  {
+    "i": 28,
+    "word": "cart",
+    "start": 10.975,
+    "end": 11.315,
+    "conf": 0.988,
+    "phrase": 2
+  },
+  {
+    "i": 29,
+    "word": "for",
+    "start": 11.315,
+    "end": 11.835,
+    "conf": 0.702,
+    "phrase": 2
+  },
+  {
+    "i": 30,
+    "word": "barely",
+    "start": 11.835,
+    "end": 12.195,
+    "conf": 0.998,
+    "phrase": 2
+  },
+  {
+    "i": 31,
+    "word": "more",
+    "start": 12.195,
+    "end": 12.575,
+    "conf": 0.998,
+    "phrase": 2
+  },
+  {
+    "i": 32,
+    "word": "than",
+    "start": 12.575,
+    "end": 12.775,
+    "conf": 0.99,
+    "phrase": 2
+  },
+  {
+    "i": 33,
+    "word": "it",
+    "start": 12.775,
+    "end": 12.935,
+    "conf": 0.997,
+    "phrase": 2
+  },
+  {
+    "i": 34,
+    "word": "paid.",
+    "start": 12.935,
+    "end": 13.195,
+    "conf": 0.994,
+    "phrase": 2
+  },
+  {
+    "i": 35,
+    "word": "Now",
+    "start": 13.773,
+    "end": 13.993,
+    "conf": 0.93,
+    "phrase": 3
+  },
+  {
+    "i": 36,
+    "word": "look",
+    "start": 13.993,
+    "end": 14.193,
+    "conf": 0.96,
+    "phrase": 3
+  },
+  {
+    "i": 37,
+    "word": "at",
+    "start": 14.193,
+    "end": 14.333,
+    "conf": 0.996,
+    "phrase": 3
+  },
+  {
+    "i": 38,
+    "word": "the",
+    "start": 14.333,
+    "end": 14.433,
+    "conf": 0.988,
+    "phrase": 3
+  },
+  {
+    "i": 39,
+    "word": "small",
+    "start": 14.433,
+    "end": 14.773,
+    "conf": 0.996,
+    "phrase": 3
+  },
+  {
+    "i": 40,
+    "word": "plastic",
+    "start": 14.773,
+    "end": 15.293,
+    "conf": 0.94,
+    "phrase": 3
+  },
+  {
+    "i": 41,
+    "word": "card",
+    "start": 15.293,
+    "end": 15.633,
+    "conf": 0.98,
+    "phrase": 3
+  },
+  {
+    "i": 42,
+    "word": "in",
+    "start": 15.633,
+    "end": 15.793,
+    "conf": 0.991,
+    "phrase": 3
+  },
+  {
+    "i": 43,
+    "word": "your",
+    "start": 15.793,
+    "end": 15.913,
+    "conf": 0.998,
+    "phrase": 3
+  },
+  {
+    "i": 44,
+    "word": "hand.",
+    "start": 15.913,
+    "end": 16.213,
+    "conf": 0.997,
+    "phrase": 3
+  },
+  {
+    "i": 45,
+    "word": "Under",
+    "start": 16.745,
+    "end": 16.945,
+    "conf": 0.649,
+    "phrase": 4
+  },
+  {
+    "i": 46,
+    "word": "two",
+    "start": 16.945,
+    "end": 17.149,
+    "conf": 0.0,
+    "phrase": 4
+  },
+  {
+    "i": 47,
+    "word": "percent",
+    "start": 17.149,
+    "end": 17.625,
+    "conf": 0.0,
+    "phrase": 4
+  },
+  {
+    "i": 48,
+    "word": "of",
+    "start": 17.625,
+    "end": 17.785,
+    "conf": 0.988,
+    "phrase": 4
+  },
+  {
+    "i": 49,
+    "word": "Costco's",
+    "start": 17.785,
+    "end": 18.545,
+    "conf": 0.886,
+    "phrase": 4
+  },
+  {
+    "i": 50,
+    "word": "money",
+    "start": 18.545,
+    "end": 18.785,
+    "conf": 0.979,
+    "phrase": 4
+  },
+  {
+    "i": 51,
+    "word": "comes",
+    "start": 18.785,
+    "end": 19.125,
+    "conf": 0.985,
+    "phrase": 4
+  },
+  {
+    "i": 52,
+    "word": "from",
+    "start": 19.125,
+    "end": 19.365,
+    "conf": 0.998,
+    "phrase": 4
+  },
+  {
+    "i": 53,
+    "word": "that",
+    "start": 19.365,
+    "end": 19.585,
+    "conf": 0.991,
+    "phrase": 4
+  },
+  {
+    "i": 54,
+    "word": "card.",
+    "start": 19.585,
+    "end": 19.885,
+    "conf": 0.992,
+    "phrase": 4
+  },
+  {
+    "i": 55,
+    "word": "But",
+    "start": 20.439,
+    "end": 20.559,
+    "conf": 0.612,
+    "phrase": 5
+  },
+  {
+    "i": 56,
+    "word": "it's",
+    "start": 20.559,
+    "end": 20.719,
+    "conf": 0.967,
+    "phrase": 5
+  },
+  {
+    "i": 57,
+    "word": "as",
+    "start": 20.719,
+    "end": 20.799,
+    "conf": 0.994,
+    "phrase": 5
+  },
+  {
+    "i": 58,
+    "word": "big",
+    "start": 20.799,
+    "end": 21.099,
+    "conf": 0.998,
+    "phrase": 5
+  },
+  {
+    "i": 59,
+    "word": "as",
+    "start": 21.099,
+    "end": 21.299,
+    "conf": 0.991,
+    "phrase": 5
+  },
+  {
+    "i": 60,
+    "word": "about",
+    "start": 21.299,
+    "end": 21.599,
+    "conf": 0.99,
+    "phrase": 5
+  },
+  {
+    "i": 61,
+    "word": "half",
+    "start": 21.599,
+    "end": 22.099,
+    "conf": 0.985,
+    "phrase": 5
+  },
+  {
+    "i": 62,
+    "word": "of",
+    "start": 22.099,
+    "end": 22.419,
+    "conf": 0.995,
+    "phrase": 5
+  },
+  {
+    "i": 63,
+    "word": "Costco's",
+    "start": 22.419,
+    "end": 23.079,
+    "conf": 0.961,
+    "phrase": 5
+  },
+  {
+    "i": 64,
+    "word": "operating",
+    "start": 23.079,
+    "end": 23.479,
+    "conf": 0.971,
+    "phrase": 5
+  },
+  {
+    "i": 65,
+    "word": "profit.",
+    "start": 23.479,
+    "end": 23.899,
+    "conf": 0.905,
+    "phrase": 5
+  },
+  {
+    "i": 66,
+    "word": "So",
+    "start": 24.937,
+    "end": 25.097,
+    "conf": 0.678,
+    "phrase": 6
+  },
+  {
+    "i": 67,
+    "word": "the",
+    "start": 25.097,
+    "end": 25.237,
+    "conf": 0.926,
+    "phrase": 6
+  },
+  {
+    "i": 68,
+    "word": "real",
+    "start": 25.237,
+    "end": 25.497,
+    "conf": 0.992,
+    "phrase": 6
+  },
+  {
+    "i": 69,
+    "word": "question",
+    "start": 25.497,
+    "end": 25.957,
+    "conf": 0.997,
+    "phrase": 6
+  },
+  {
+    "i": 70,
+    "word": "isn't",
+    "start": 25.957,
+    "end": 26.477,
+    "conf": 0.984,
+    "phrase": 6
+  },
+  {
+    "i": 71,
+    "word": "what",
+    "start": 26.477,
+    "end": 26.677,
+    "conf": 0.981,
+    "phrase": 6
+  },
+  {
+    "i": 72,
+    "word": "Costco",
+    "start": 26.677,
+    "end": 27.117,
+    "conf": 0.859,
+    "phrase": 6
+  },
+  {
+    "i": 73,
+    "word": "sells.",
+    "start": 27.117,
+    "end": 27.597,
+    "conf": 0.998,
+    "phrase": 6
+  },
+  {
+    "i": 74,
+    "word": "It's",
+    "start": 28.167,
+    "end": 28.347,
+    "conf": 0.841,
+    "phrase": 7
+  },
+  {
+    "i": 75,
+    "word": "what",
+    "start": 28.347,
+    "end": 28.507,
+    "conf": 0.997,
+    "phrase": 7
+  },
+  {
+    "i": 76,
+    "word": "you're",
+    "start": 28.507,
+    "end": 28.787,
+    "conf": 0.979,
+    "phrase": 7
+  },
+  {
+    "i": 77,
+    "word": "actually",
+    "start": 28.787,
+    "end": 29.167,
+    "conf": 0.992,
+    "phrase": 7
+  },
+  {
+    "i": 78,
+    "word": "paying",
+    "start": 29.167,
+    "end": 29.487,
+    "conf": 0.999,
+    "phrase": 7
+  },
+  {
+    "i": 79,
+    "word": "for",
+    "start": 29.487,
+    "end": 29.847,
+    "conf": 0.998,
+    "phrase": 7
+  },
+  {
+    "i": 80,
+    "word": "when",
+    "start": 29.847,
+    "end": 30.027,
+    "conf": 0.98,
+    "phrase": 7
+  },
+  {
+    "i": 81,
+    "word": "you",
+    "start": 30.027,
+    "end": 30.167,
+    "conf": 0.998,
+    "phrase": 7
+  },
+  {
+    "i": 82,
+    "word": "walk",
+    "start": 30.167,
+    "end": 30.407,
+    "conf": 0.999,
+    "phrase": 7
+  },
+  {
+    "i": 83,
+    "word": "in.",
+    "start": 30.407,
+    "end": 30.687,
+    "conf": 0.984,
+    "phrase": 7
+  },
+  {
+    "i": 84,
+    "word": "By",
+    "start": 31.131,
+    "end": 31.271,
+    "conf": 0.957,
+    "phrase": 8
+  },
+  {
+    "i": 85,
+    "word": "the",
+    "start": 31.271,
+    "end": 31.391,
+    "conf": 0.999,
+    "phrase": 8
+  },
+  {
+    "i": 86,
+    "word": "end",
+    "start": 31.391,
+    "end": 31.591,
+    "conf": 0.999,
+    "phrase": 8
+  },
+  {
+    "i": 87,
+    "word": "of",
+    "start": 31.591,
+    "end": 31.731,
+    "conf": 0.997,
+    "phrase": 8
+  },
+  {
+    "i": 88,
+    "word": "this",
+    "start": 31.731,
+    "end": 31.911,
+    "conf": 0.985,
+    "phrase": 8
+  },
+  {
+    "i": 89,
+    "word": "video,",
+    "start": 31.911,
+    "end": 32.271,
+    "conf": 0.999,
+    "phrase": 8
+  },
+  {
+    "i": 90,
+    "word": "you'll",
+    "start": 32.731,
+    "end": 32.851,
+    "conf": 0.979,
+    "phrase": 8
+  },
+  {
+    "i": 91,
+    "word": "see",
+    "start": 32.851,
+    "end": 33.011,
+    "conf": 0.998,
+    "phrase": 8
+  },
+  {
+    "i": 92,
+    "word": "how",
+    "start": 33.011,
+    "end": 33.211,
+    "conf": 0.997,
+    "phrase": 8
+  },
+  {
+    "i": 93,
+    "word": "a",
+    "start": 33.211,
+    "end": 33.351,
+    "conf": 0.997,
+    "phrase": 8
+  },
+  {
+    "i": 94,
+    "word": "store",
+    "start": 33.351,
+    "end": 33.711,
+    "conf": 0.998,
+    "phrase": 8
+  },
+  {
+    "i": 95,
+    "word": "that",
+    "start": 33.711,
+    "end": 33.991,
+    "conf": 0.993,
+    "phrase": 8
+  },
+  {
+    "i": 96,
+    "word": "barely",
+    "start": 33.991,
+    "end": 34.391,
+    "conf": 0.998,
+    "phrase": 8
+  },
+  {
+    "i": 97,
+    "word": "profits",
+    "start": 34.391,
+    "end": 34.871,
+    "conf": 0.998,
+    "phrase": 8
+  },
+  {
+    "i": 98,
+    "word": "on",
+    "start": 34.871,
+    "end": 35.111,
+    "conf": 0.997,
+    "phrase": 8
+  },
+  {
+    "i": 99,
+    "word": "its",
+    "start": 35.111,
+    "end": 35.251,
+    "conf": 0.971,
+    "phrase": 8
+  },
+  {
+    "i": 100,
+    "word": "goods",
+    "start": 35.251,
+    "end": 35.591,
+    "conf": 0.997,
+    "phrase": 8
+  },
+  {
+    "i": 101,
+    "word": "still",
+    "start": 35.591,
+    "end": 36.011,
+    "conf": 0.947,
+    "phrase": 8
+  },
+  {
+    "i": 102,
+    "word": "makes",
+    "start": 36.011,
+    "end": 36.331,
+    "conf": 0.993,
+    "phrase": 8
+  },
+  {
+    "i": 103,
+    "word": "billions.",
+    "start": 36.331,
+    "end": 36.731,
+    "conf": 0.99,
+    "phrase": 8
+  },
+  {
+    "i": 104,
+    "word": "And",
+    "start": 37.469,
+    "end": 37.589,
+    "conf": 0.742,
+    "phrase": 9
+  },
+  {
+    "i": 105,
+    "word": "why",
+    "start": 37.589,
+    "end": 37.769,
+    "conf": 0.996,
+    "phrase": 9
+  },
+  {
+    "i": 106,
+    "word": "selling",
+    "start": 37.769,
+    "end": 38.129,
+    "conf": 0.999,
+    "phrase": 9
+  },
+  {
+    "i": 107,
+    "word": "things",
+    "start": 38.129,
+    "end": 38.489,
+    "conf": 0.998,
+    "phrase": 9
+  },
+  {
+    "i": 108,
+    "word": "cheaper",
+    "start": 38.489,
+    "end": 38.829,
+    "conf": 0.998,
+    "phrase": 9
+  },
+  {
+    "i": 109,
+    "word": "makes",
+    "start": 38.829,
+    "end": 39.149,
+    "conf": 0.994,
+    "phrase": 9
+  },
+  {
+    "i": 110,
+    "word": "Costco",
+    "start": 39.149,
+    "end": 39.569,
+    "conf": 0.995,
+    "phrase": 9
+  },
+  {
+    "i": 111,
+    "word": "more",
+    "start": 39.569,
+    "end": 39.889,
+    "conf": 0.997,
+    "phrase": 9
+  },
+  {
+    "i": 112,
+    "word": "money,",
+    "start": 39.889,
+    "end": 40.229,
+    "conf": 0.999,
+    "phrase": 9
+  },
+  {
+    "i": 113,
+    "word": "not",
+    "start": 40.529,
+    "end": 40.769,
+    "conf": 0.998,
+    "phrase": 9
+  },
+  {
+    "i": 114,
+    "word": "less.",
+    "start": 40.769,
+    "end": 41.049,
+    "conf": 1.0,
+    "phrase": 9
+  },
+  {
+    "i": 115,
+    "word": "Let's",
+    "start": 41.642,
+    "end": 42.022,
+    "conf": 0.87,
+    "phrase": 10
+  },
+  {
+    "i": 116,
+    "word": "open",
+    "start": 42.022,
+    "end": 42.242,
+    "conf": 0.978,
+    "phrase": 10
+  },
+  {
+    "i": 117,
+    "word": "the",
+    "start": 42.242,
+    "end": 42.422,
+    "conf": 0.996,
+    "phrase": 10
+  },
+  {
+    "i": 118,
+    "word": "books.",
+    "start": 42.422,
+    "end": 42.662,
+    "conf": 0.98,
+    "phrase": 10
+  },
+  {
+    "i": 119,
+    "word": "Costco",
+    "start": 43.705,
+    "end": 44.125,
+    "conf": 0.673,
+    "phrase": 11
+  },
+  {
+    "i": 120,
+    "word": "doesn't",
+    "start": 44.125,
+    "end": 44.645,
+    "conf": 0.975,
+    "phrase": 11
+  },
+  {
+    "i": 121,
+    "word": "hide",
+    "start": 44.645,
+    "end": 44.865,
+    "conf": 0.999,
+    "phrase": 11
+  },
+  {
+    "i": 122,
+    "word": "any",
+    "start": 44.865,
+    "end": 45.085,
+    "conf": 0.995,
+    "phrase": 11
+  },
+  {
+    "i": 123,
+    "word": "of",
+    "start": 45.085,
+    "end": 45.245,
+    "conf": 0.999,
+    "phrase": 11
+  },
+  {
+    "i": 124,
+    "word": "this.",
+    "start": 45.245,
+    "end": 45.425,
+    "conf": 0.997,
+    "phrase": 11
+  },
+  {
+    "i": 125,
+    "word": "It's",
+    "start": 45.925,
+    "end": 46.125,
+    "conf": 0.922,
+    "phrase": 12
+  },
+  {
+    "i": 126,
+    "word": "all",
+    "start": 46.125,
+    "end": 46.385,
+    "conf": 0.997,
+    "phrase": 12
+  },
+  {
+    "i": 127,
+    "word": "in",
+    "start": 46.385,
+    "end": 46.585,
+    "conf": 0.993,
+    "phrase": 12
+  },
+  {
+    "i": 128,
+    "word": "the",
+    "start": 46.585,
+    "end": 46.745,
+    "conf": 0.995,
+    "phrase": 12
+  },
+  {
+    "i": 129,
+    "word": "yearly",
+    "start": 46.745,
+    "end": 47.125,
+    "conf": 0.985,
+    "phrase": 12
+  },
+  {
+    "i": 130,
+    "word": "report",
+    "start": 47.125,
+    "end": 47.5,
+    "conf": 0.0,
+    "phrase": 12
+  },
+  {
+    "i": 131,
+    "word": "it",
+    "start": 47.5,
+    "end": 47.625,
+    "conf": 0.0,
+    "phrase": 12
+  },
+  {
+    "i": 132,
+    "word": "files",
+    "start": 47.625,
+    "end": 48.105,
+    "conf": 0.995,
+    "phrase": 12
+  },
+  {
+    "i": 133,
+    "word": "with",
+    "start": 48.105,
+    "end": 48.445,
+    "conf": 0.973,
+    "phrase": 12
+  },
+  {
+    "i": 134,
+    "word": "the",
+    "start": 48.445,
+    "end": 48.605,
+    "conf": 0.995,
+    "phrase": 12
+  },
+  {
+    "i": 135,
+    "word": "US",
+    "start": 48.605,
+    "end": 49.045,
+    "conf": 0.0,
+    "phrase": 12
+  },
+  {
+    "i": 136,
+    "word": "government.",
+    "start": 49.245,
+    "end": 49.305,
+    "conf": 0.704,
+    "phrase": 12
+  },
+  {
+    "i": 137,
+    "word": "Costco",
+    "start": 49.903,
+    "end": 50.343,
+    "conf": 0.88,
+    "phrase": 13
+  },
+  {
+    "i": 138,
+    "word": "began",
+    "start": 50.343,
+    "end": 50.803,
+    "conf": 0.992,
+    "phrase": 13
+  },
+  {
+    "i": 139,
+    "word": "in",
+    "start": 50.803,
+    "end": 51.103,
+    "conf": 0.997,
+    "phrase": 13
+  },
+  {
+    "i": 140,
+    "word": "Seattle",
+    "start": 51.103,
+    "end": 51.463,
+    "conf": 0.997,
+    "phrase": 13
+  },
+  {
+    "i": 141,
+    "word": "in",
+    "start": 51.463,
+    "end": 52.023,
+    "conf": 0.885,
+    "phrase": 13
+  },
+  {
+    "i": 142,
+    "word": "nineteen",
+    "start": 52.023,
+    "end": 52.29,
+    "conf": 0.0,
+    "phrase": 13
+  },
+  {
+    "i": 143,
+    "word": "eighty-three.",
+    "start": 52.29,
+    "end": 52.723,
+    "conf": 0.0,
+    "phrase": 13
+  },
+  {
+    "i": 144,
+    "word": "Today",
+    "start": 53.589,
+    "end": 53.909,
+    "conf": 0.929,
+    "phrase": 14
+  },
+  {
+    "i": 145,
+    "word": "it",
+    "start": 53.909,
+    "end": 54.169,
+    "conf": 0.595,
+    "phrase": 14
+  },
+  {
+    "i": 146,
+    "word": "runs",
+    "start": 54.169,
+    "end": 54.409,
+    "conf": 0.994,
+    "phrase": 14
+  },
+  {
+    "i": 147,
+    "word": "nine",
+    "start": 54.409,
+    "end": 54.663,
+    "conf": 0.0,
+    "phrase": 14
+  },
+  {
+    "i": 148,
+    "word": "hundred",
+    "start": 54.663,
+    "end": 55.109,
+    "conf": 0.0,
+    "phrase": 14
+  },
+  {
+    "i": 149,
+    "word": "thirty-nine",
+    "start": 55.109,
+    "end": 55.809,
+    "conf": 0.0,
+    "phrase": 14
+  },
+  {
+    "i": 150,
+    "word": "warehouses",
+    "start": 55.809,
+    "end": 56.529,
+    "conf": 0.993,
+    "phrase": 14
+  },
+  {
+    "i": 151,
+    "word": "around",
+    "start": 56.529,
+    "end": 57.049,
+    "conf": 0.994,
+    "phrase": 14
+  },
+  {
+    "i": 152,
+    "word": "the",
+    "start": 57.049,
+    "end": 57.229,
+    "conf": 0.999,
+    "phrase": 14
+  },
+  {
+    "i": 153,
+    "word": "world.",
+    "start": 57.229,
+    "end": 57.449,
+    "conf": 0.998,
+    "phrase": 14
+  },
+  {
+    "i": 154,
+    "word": "In",
+    "start": 57.991,
+    "end": 58.111,
+    "conf": 0.916,
+    "phrase": 15
+  },
+  {
+    "i": 155,
+    "word": "its",
+    "start": 58.111,
+    "end": 58.251,
+    "conf": 0.985,
+    "phrase": 15
+  },
+  {
+    "i": 156,
+    "word": "twenty",
+    "start": 58.251,
+    "end": 58.588,
+    "conf": 0.0,
+    "phrase": 15
+  },
+  {
+    "i": 157,
+    "word": "twenty-six",
+    "start": 58.588,
+    "end": 59.151,
+    "conf": 0.0,
+    "phrase": 15
+  },
+  {
+    "i": 158,
+    "word": "fiscal",
+    "start": 59.151,
+    "end": 59.471,
+    "conf": 0.989,
+    "phrase": 15
+  },
+  {
+    "i": 159,
+    "word": "year,",
+    "start": 59.471,
+    "end": 60.111,
+    "conf": 0.999,
+    "phrase": 15
+  },
+  {
+    "i": 160,
+    "word": "Costco",
+    "start": 60.651,
+    "end": 60.851,
+    "conf": 0.749,
+    "phrase": 15
+  },
+  {
+    "i": 161,
+    "word": "sold",
+    "start": 60.851,
+    "end": 61.431,
+    "conf": 0.998,
+    "phrase": 15
+  },
+  {
+    "i": 162,
+    "word": "about",
+    "start": 61.431,
+    "end": 61.751,
+    "conf": 0.996,
+    "phrase": 15
+  },
+  {
+    "i": 163,
+    "word": "two",
+    "start": 61.751,
+    "end": 61.885,
+    "conf": 0.0,
+    "phrase": 15
+  },
+  {
+    "i": 164,
+    "word": "hundred",
+    "start": 61.885,
+    "end": 62.196,
+    "conf": 0.0,
+    "phrase": 15
+  },
+  {
+    "i": 165,
+    "word": "ninety-seven",
+    "start": 62.196,
+    "end": 62.731,
+    "conf": 0.0,
+    "phrase": 15
+  },
+  {
+    "i": 166,
+    "word": "billion",
+    "start": 62.731,
+    "end": 63.771,
+    "conf": 0.989,
+    "phrase": 15
+  },
+  {
+    "i": 167,
+    "word": "dollars",
+    "start": 63.771,
+    "end": 63.771,
+    "conf": 0.0,
+    "phrase": 15
+  },
+  {
+    "i": 168,
+    "word": "of",
+    "start": 63.771,
+    "end": 64.431,
+    "conf": 0.961,
+    "phrase": 15
+  },
+  {
+    "i": 169,
+    "word": "goods.",
+    "start": 64.431,
+    "end": 64.711,
+    "conf": 0.999,
+    "phrase": 15
+  },
+  {
+    "i": 170,
+    "word": "That's",
+    "start": 65.338,
+    "end": 65.618,
+    "conf": 0.934,
+    "phrase": 16
+  },
+  {
+    "i": 171,
+    "word": "groceries,",
+    "start": 65.618,
+    "end": 66.078,
+    "conf": 0.995,
+    "phrase": 16
+  },
+  {
+    "i": 172,
+    "word": "TVs,",
+    "start": 66.518,
+    "end": 66.778,
+    "conf": 0.0,
+    "phrase": 16
+  },
+  {
+    "i": 173,
+    "word": "tires,",
+    "start": 67.098,
+    "end": 67.418,
+    "conf": 0.981,
+    "phrase": 16
+  },
+  {
+    "i": 174,
+    "word": "fuel,",
+    "start": 67.698,
+    "end": 67.838,
+    "conf": 0.989,
+    "phrase": 16
+  },
+  {
+    "i": 175,
+    "word": "glasses,",
+    "start": 68.378,
+    "end": 68.378,
+    "conf": 0.994,
+    "phrase": 16
+  },
+  {
+    "i": 176,
+    "word": "all",
+    "start": 68.598,
+    "end": 68.758,
+    "conf": 0.998,
+    "phrase": 16
+  },
+  {
+    "i": 177,
+    "word": "of",
+    "start": 68.758,
+    "end": 68.918,
+    "conf": 0.998,
+    "phrase": 16
+  },
+  {
+    "i": 178,
+    "word": "it.",
+    "start": 68.918,
+    "end": 69.018,
+    "conf": 0.997,
+    "phrase": 16
+  },
+  {
+    "i": 179,
+    "word": "To",
+    "start": 69.407,
+    "end": 69.527,
+    "conf": 0.321,
+    "phrase": 17
+  },
+  {
+    "i": 180,
+    "word": "buy",
+    "start": 69.527,
+    "end": 69.787,
+    "conf": 0.999,
+    "phrase": 17
+  },
+  {
+    "i": 181,
+    "word": "those",
+    "start": 69.787,
+    "end": 70.087,
+    "conf": 0.995,
+    "phrase": 17
+  },
+  {
+    "i": 182,
+    "word": "goods",
+    "start": 70.087,
+    "end": 70.387,
+    "conf": 0.998,
+    "phrase": 17
+  },
+  {
+    "i": 183,
+    "word": "from",
+    "start": 70.387,
+    "end": 70.647,
+    "conf": 0.998,
+    "phrase": 17
+  },
+  {
+    "i": 184,
+    "word": "its",
+    "start": 70.647,
+    "end": 70.767,
+    "conf": 0.988,
+    "phrase": 17
+  },
+  {
+    "i": 185,
+    "word": "suppliers,",
+    "start": 70.767,
+    "end": 71.347,
+    "conf": 0.999,
+    "phrase": 17
+  },
+  {
+    "i": 186,
+    "word": "it",
+    "start": 71.967,
+    "end": 72.067,
+    "conf": 0.989,
+    "phrase": 17
+  },
+  {
+    "i": 187,
+    "word": "paid",
+    "start": 72.067,
+    "end": 72.287,
+    "conf": 0.997,
+    "phrase": 17
+  },
+  {
+    "i": 188,
+    "word": "about",
+    "start": 72.287,
+    "end": 72.607,
+    "conf": 0.986,
+    "phrase": 17
+  },
+  {
+    "i": 189,
+    "word": "two",
+    "start": 72.607,
+    "end": 72.748,
+    "conf": 0.0,
+    "phrase": 17
+  },
+  {
+    "i": 190,
+    "word": "hundred",
+    "start": 72.748,
+    "end": 73.077,
+    "conf": 0.0,
+    "phrase": 17
+  },
+  {
+    "i": 191,
+    "word": "sixty-four",
+    "start": 73.077,
+    "end": 73.547,
+    "conf": 0.0,
+    "phrase": 17
+  },
+  {
+    "i": 192,
+    "word": "billion",
+    "start": 73.547,
+    "end": 74.367,
+    "conf": 0.985,
+    "phrase": 17
+  },
+  {
+    "i": 193,
+    "word": "dollars.",
+    "start": 74.367,
+    "end": 75.116,
+    "conf": 0.0,
+    "phrase": 17
+  },
+  {
+    "i": 194,
+    "word": "So",
+    "start": 75.466,
+    "end": 75.686,
+    "conf": 0.697,
+    "phrase": 18
+  },
+  {
+    "i": 195,
+    "word": "of",
+    "start": 75.686,
+    "end": 75.826,
+    "conf": 0.85,
+    "phrase": 18
+  },
+  {
+    "i": 196,
+    "word": "everything",
+    "start": 75.826,
+    "end": 76.226,
+    "conf": 0.996,
+    "phrase": 18
+  },
+  {
+    "i": 197,
+    "word": "you",
+    "start": 76.226,
+    "end": 76.506,
+    "conf": 0.998,
+    "phrase": 18
+  },
+  {
+    "i": 198,
+    "word": "spend,",
+    "start": 76.506,
+    "end": 76.866,
+    "conf": 0.994,
+    "phrase": 18
+  },
+  {
+    "i": 199,
+    "word": "only",
+    "start": 77.586,
+    "end": 77.686,
+    "conf": 0.993,
+    "phrase": 18
+  },
+  {
+    "i": 200,
+    "word": "about",
+    "start": 77.686,
+    "end": 78.046,
+    "conf": 0.997,
+    "phrase": 18
+  },
+  {
+    "i": 201,
+    "word": "eleven",
+    "start": 78.046,
+    "end": 78.434,
+    "conf": 0.0,
+    "phrase": 18
+  },
+  {
+    "i": 202,
+    "word": "percent",
+    "start": 78.434,
+    "end": 78.886,
+    "conf": 0.0,
+    "phrase": 18
+  },
+  {
+    "i": 203,
+    "word": "is",
+    "start": 78.886,
+    "end": 79.126,
+    "conf": 0.996,
+    "phrase": 18
+  },
+  {
+    "i": 204,
+    "word": "left",
+    "start": 79.126,
+    "end": 79.446,
+    "conf": 0.999,
+    "phrase": 18
+  },
+  {
+    "i": 205,
+    "word": "once",
+    "start": 79.446,
+    "end": 79.786,
+    "conf": 0.977,
+    "phrase": 18
+  },
+  {
+    "i": 206,
+    "word": "Costco",
+    "start": 79.786,
+    "end": 80.306,
+    "conf": 0.977,
+    "phrase": 18
+  },
+  {
+    "i": 207,
+    "word": "has",
+    "start": 80.306,
+    "end": 80.606,
+    "conf": 0.995,
+    "phrase": 18
+  },
+  {
+    "i": 208,
+    "word": "paid",
+    "start": 80.606,
+    "end": 80.846,
+    "conf": 0.998,
+    "phrase": 18
+  },
+  {
+    "i": 209,
+    "word": "for",
+    "start": 80.846,
+    "end": 81.066,
+    "conf": 0.998,
+    "phrase": 18
+  },
+  {
+    "i": 210,
+    "word": "the",
+    "start": 81.066,
+    "end": 81.186,
+    "conf": 0.996,
+    "phrase": 18
+  },
+  {
+    "i": 211,
+    "word": "goods.",
+    "start": 81.186,
+    "end": 81.426,
+    "conf": 0.998,
+    "phrase": 18
+  },
+  {
+    "i": 212,
+    "word": "That",
+    "start": 82.07,
+    "end": 82.25,
+    "conf": 0.537,
+    "phrase": 19
+  },
+  {
+    "i": 213,
+    "word": "leftover",
+    "start": 82.25,
+    "end": 82.75,
+    "conf": 0.878,
+    "phrase": 19
+  },
+  {
+    "i": 214,
+    "word": "is",
+    "start": 82.75,
+    "end": 83.23,
+    "conf": 0.987,
+    "phrase": 19
+  },
+  {
+    "i": 215,
+    "word": "called",
+    "start": 83.23,
+    "end": 83.49,
+    "conf": 0.997,
+    "phrase": 19
+  },
+  {
+    "i": 216,
+    "word": "the",
+    "start": 83.49,
+    "end": 83.69,
+    "conf": 0.954,
+    "phrase": 19
+  },
+  {
+    "i": 217,
+    "word": "gross",
+    "start": 83.69,
+    "end": 84.01,
+    "conf": 0.812,
+    "phrase": 19
+  },
+  {
+    "i": 218,
+    "word": "margin.",
+    "start": 84.01,
+    "end": 84.41,
+    "conf": 0.993,
+    "phrase": 19
+  },
+  {
+    "i": 219,
+    "word": "And",
+    "start": 85.078,
+    "end": 85.258,
+    "conf": 0.6,
+    "phrase": 20
+  },
+  {
+    "i": 220,
+    "word": "Costco",
+    "start": 85.258,
+    "end": 85.658,
+    "conf": 0.689,
+    "phrase": 20
+  },
+  {
+    "i": 221,
+    "word": "says",
+    "start": 85.658,
+    "end": 86.058,
+    "conf": 0.989,
+    "phrase": 20
+  },
+  {
+    "i": 222,
+    "word": "itself",
+    "start": 86.058,
+    "end": 86.558,
+    "conf": 0.977,
+    "phrase": 20
+  },
+  {
+    "i": 223,
+    "word": "that",
+    "start": 86.558,
+    "end": 87.158,
+    "conf": 0.882,
+    "phrase": 20
+  },
+  {
+    "i": 224,
+    "word": "it",
+    "start": 87.158,
+    "end": 87.278,
+    "conf": 0.981,
+    "phrase": 20
+  },
+  {
+    "i": 225,
+    "word": "runs",
+    "start": 87.278,
+    "end": 87.578,
+    "conf": 0.966,
+    "phrase": 20
+  },
+  {
+    "i": 226,
+    "word": "on",
+    "start": 87.578,
+    "end": 87.878,
+    "conf": 0.992,
+    "phrase": 20
+  },
+  {
+    "i": 227,
+    "word": "much",
+    "start": 87.878,
+    "end": 88.138,
+    "conf": 0.993,
+    "phrase": 20
+  },
+  {
+    "i": 228,
+    "word": "lower",
+    "start": 88.138,
+    "end": 88.518,
+    "conf": 0.989,
+    "phrase": 20
+  },
+  {
+    "i": 229,
+    "word": "margins",
+    "start": 88.518,
+    "end": 89.098,
+    "conf": 0.993,
+    "phrase": 20
+  },
+  {
+    "i": 230,
+    "word": "than",
+    "start": 89.098,
+    "end": 89.558,
+    "conf": 0.981,
+    "phrase": 20
+  },
+  {
+    "i": 231,
+    "word": "most",
+    "start": 89.558,
+    "end": 89.778,
+    "conf": 0.995,
+    "phrase": 20
+  },
+  {
+    "i": 232,
+    "word": "other",
+    "start": 89.778,
+    "end": 90.098,
+    "conf": 0.996,
+    "phrase": 20
+  },
+  {
+    "i": 233,
+    "word": "retailers.",
+    "start": 90.098,
+    "end": 90.538,
+    "conf": 0.998,
+    "phrase": 20
+  },
+  {
+    "i": 234,
+    "word": "Out",
+    "start": 91.291,
+    "end": 91.431,
+    "conf": 0.942,
+    "phrase": 21
+  },
+  {
+    "i": 235,
+    "word": "of",
+    "start": 91.431,
+    "end": 91.551,
+    "conf": 0.997,
+    "phrase": 21
+  },
+  {
+    "i": 236,
+    "word": "that",
+    "start": 91.551,
+    "end": 91.691,
+    "conf": 0.989,
+    "phrase": 21
+  },
+  {
+    "i": 237,
+    "word": "small",
+    "start": 91.691,
+    "end": 92.071,
+    "conf": 0.994,
+    "phrase": 21
+  },
+  {
+    "i": 238,
+    "word": "slice,",
+    "start": 92.071,
+    "end": 92.571,
+    "conf": 0.995,
+    "phrase": 21
+  },
+  {
+    "i": 239,
+    "word": "Costco",
+    "start": 93.091,
+    "end": 93.371,
+    "conf": 0.655,
+    "phrase": 21
+  },
+  {
+    "i": 240,
+    "word": "still",
+    "start": 93.371,
+    "end": 93.791,
+    "conf": 0.979,
+    "phrase": 21
+  },
+  {
+    "i": 241,
+    "word": "has",
+    "start": 93.791,
+    "end": 94.011,
+    "conf": 0.997,
+    "phrase": 21
+  },
+  {
+    "i": 242,
+    "word": "to",
+    "start": 94.011,
+    "end": 94.191,
+    "conf": 0.999,
+    "phrase": 21
+  },
+  {
+    "i": 243,
+    "word": "pay",
+    "start": 94.191,
+    "end": 94.391,
+    "conf": 0.999,
+    "phrase": 21
+  },
+  {
+    "i": 244,
+    "word": "its",
+    "start": 94.391,
+    "end": 94.591,
+    "conf": 0.976,
+    "phrase": 21
+  },
+  {
+    "i": 245,
+    "word": "staff,",
+    "start": 94.591,
+    "end": 95.031,
+    "conf": 0.999,
+    "phrase": 21
+  },
+  {
+    "i": 246,
+    "word": "run",
+    "start": 95.531,
+    "end": 95.731,
+    "conf": 0.997,
+    "phrase": 21
+  },
+  {
+    "i": 247,
+    "word": "its",
+    "start": 95.731,
+    "end": 95.911,
+    "conf": 0.981,
+    "phrase": 21
+  },
+  {
+    "i": 248,
+    "word": "warehouses,",
+    "start": 95.911,
+    "end": 96.391,
+    "conf": 0.998,
+    "phrase": 21
+  },
+  {
+    "i": 249,
+    "word": "and",
+    "start": 96.791,
+    "end": 96.851,
+    "conf": 0.998,
+    "phrase": 21
+  },
+  {
+    "i": 250,
+    "word": "keep",
+    "start": 96.851,
+    "end": 97.071,
+    "conf": 0.999,
+    "phrase": 21
+  },
+  {
+    "i": 251,
+    "word": "the",
+    "start": 97.071,
+    "end": 97.251,
+    "conf": 0.997,
+    "phrase": 21
+  },
+  {
+    "i": 252,
+    "word": "lights",
+    "start": 97.251,
+    "end": 97.471,
+    "conf": 0.998,
+    "phrase": 21
+  },
+  {
+    "i": 253,
+    "word": "on.",
+    "start": 97.471,
+    "end": 97.811,
+    "conf": 0.995,
+    "phrase": 21
+  },
+  {
+    "i": 254,
+    "word": "Those",
+    "start": 98.293,
+    "end": 98.533,
+    "conf": 0.733,
+    "phrase": 22
+  },
+  {
+    "i": 255,
+    "word": "running",
+    "start": 98.533,
+    "end": 98.913,
+    "conf": 0.994,
+    "phrase": 22
+  },
+  {
+    "i": 256,
+    "word": "costs",
+    "start": 98.913,
+    "end": 99.333,
+    "conf": 0.994,
+    "phrase": 22
+  },
+  {
+    "i": 257,
+    "word": "take",
+    "start": 99.333,
+    "end": 99.673,
+    "conf": 0.983,
+    "phrase": 22
+  },
+  {
+    "i": 258,
+    "word": "about",
+    "start": 99.673,
+    "end": 99.973,
+    "conf": 0.998,
+    "phrase": 22
+  },
+  {
+    "i": 259,
+    "word": "nine",
+    "start": 99.973,
+    "end": 100.162,
+    "conf": 0.0,
+    "phrase": 22
+  },
+  {
+    "i": 260,
+    "word": "dollars",
+    "start": 100.162,
+    "end": 100.493,
+    "conf": 0.0,
+    "phrase": 22
+  },
+  {
+    "i": 261,
+    "word": "of",
+    "start": 100.493,
+    "end": 101.073,
+    "conf": 0.832,
+    "phrase": 22
+  },
+  {
+    "i": 262,
+    "word": "every",
+    "start": 101.073,
+    "end": 101.513,
+    "conf": 0.997,
+    "phrase": 22
+  },
+  {
+    "i": 263,
+    "word": "hundred",
+    "start": 101.513,
+    "end": 101.753,
+    "conf": 0.0,
+    "phrase": 22
+  },
+  {
+    "i": 264,
+    "word": "dollars",
+    "start": 101.753,
+    "end": 101.993,
+    "conf": 0.0,
+    "phrase": 22
+  },
+  {
+    "i": 265,
+    "word": "you",
+    "start": 101.993,
+    "end": 102.493,
+    "conf": 0.989,
+    "phrase": 22
+  },
+  {
+    "i": 266,
+    "word": "spend.",
+    "start": 102.493,
+    "end": 102.833,
+    "conf": 0.994,
+    "phrase": 22
+  },
+  {
+    "i": 267,
+    "word": "So",
+    "start": 103.422,
+    "end": 103.582,
+    "conf": 0.896,
+    "phrase": 23
+  },
+  {
+    "i": 268,
+    "word": "what's",
+    "start": 103.582,
+    "end": 103.882,
+    "conf": 0.938,
+    "phrase": 23
+  },
+  {
+    "i": 269,
+    "word": "left",
+    "start": 103.882,
+    "end": 104.062,
+    "conf": 0.998,
+    "phrase": 23
+  },
+  {
+    "i": 270,
+    "word": "from",
+    "start": 104.062,
+    "end": 104.323,
+    "conf": 0.963,
+    "phrase": 23
+  },
+  {
+    "i": 271,
+    "word": "selling",
+    "start": 104.323,
+    "end": 104.642,
+    "conf": 0.997,
+    "phrase": 23
+  },
+  {
+    "i": 272,
+    "word": "goods?",
+    "start": 104.642,
+    "end": 104.983,
+    "conf": 0.994,
+    "phrase": 23
+  },
+  {
+    "i": 273,
+    "word": "Under",
+    "start": 105.657,
+    "end": 105.877,
+    "conf": 0.806,
+    "phrase": 24
+  },
+  {
+    "i": 274,
+    "word": "two",
+    "start": 105.877,
+    "end": 105.986,
+    "conf": 0.0,
+    "phrase": 24
+  },
+  {
+    "i": 275,
+    "word": "dollars.",
+    "start": 105.986,
+    "end": 106.277,
+    "conf": 0.0,
+    "phrase": 24
+  },
+  {
+    "i": 276,
+    "word": "Under",
+    "start": 107.196,
+    "end": 107.456,
+    "conf": 0.81,
+    "phrase": 25
+  },
+  {
+    "i": 277,
+    "word": "two",
+    "start": 107.456,
+    "end": 107.594,
+    "conf": 0.0,
+    "phrase": 25
+  },
+  {
+    "i": 278,
+    "word": "dollars",
+    "start": 107.594,
+    "end": 107.916,
+    "conf": 0.0,
+    "phrase": 25
+  },
+  {
+    "i": 279,
+    "word": "of",
+    "start": 107.916,
+    "end": 108.416,
+    "conf": 0.896,
+    "phrase": 25
+  },
+  {
+    "i": 280,
+    "word": "profit",
+    "start": 108.416,
+    "end": 108.876,
+    "conf": 0.995,
+    "phrase": 25
+  },
+  {
+    "i": 281,
+    "word": "for",
+    "start": 108.876,
+    "end": 109.236,
+    "conf": 0.943,
+    "phrase": 25
+  },
+  {
+    "i": 282,
+    "word": "every",
+    "start": 109.236,
+    "end": 109.596,
+    "conf": 0.997,
+    "phrase": 25
+  },
+  {
+    "i": 283,
+    "word": "hundred",
+    "start": 109.596,
+    "end": 109.846,
+    "conf": 0.0,
+    "phrase": 25
+  },
+  {
+    "i": 284,
+    "word": "dollars",
+    "start": 109.846,
+    "end": 110.096,
+    "conf": 0.0,
+    "phrase": 25
+  },
+  {
+    "i": 285,
+    "word": "of",
+    "start": 110.096,
+    "end": 110.616,
+    "conf": 0.991,
+    "phrase": 25
+  },
+  {
+    "i": 286,
+    "word": "shopping.",
+    "start": 110.616,
+    "end": 110.916,
+    "conf": 0.989,
+    "phrase": 25
+  },
+  {
+    "i": 287,
+    "word": "That's",
+    "start": 111.515,
+    "end": 111.855,
+    "conf": 0.865,
+    "phrase": 26
+  },
+  {
+    "i": 288,
+    "word": "thin.",
+    "start": 111.855,
+    "end": 112.095,
+    "conf": 0.921,
+    "phrase": 26
+  },
+  {
+    "i": 289,
+    "word": "If",
+    "start": 112.707,
+    "end": 112.867,
+    "conf": 0.868,
+    "phrase": 27
+  },
+  {
+    "i": 290,
+    "word": "Costco",
+    "start": 112.867,
+    "end": 113.307,
+    "conf": 0.782,
+    "phrase": 27
+  },
+  {
+    "i": 291,
+    "word": "were",
+    "start": 113.307,
+    "end": 113.647,
+    "conf": 0.992,
+    "phrase": 27
+  },
+  {
+    "i": 292,
+    "word": "only",
+    "start": 113.647,
+    "end": 113.947,
+    "conf": 0.997,
+    "phrase": 27
+  },
+  {
+    "i": 293,
+    "word": "a",
+    "start": 113.947,
+    "end": 114.167,
+    "conf": 0.998,
+    "phrase": 27
+  },
+  {
+    "i": 294,
+    "word": "shop,",
+    "start": 114.167,
+    "end": 114.447,
+    "conf": 0.958,
+    "phrase": 27
+  },
+  {
+    "i": 295,
+    "word": "it",
+    "start": 114.987,
+    "end": 115.047,
+    "conf": 0.992,
+    "phrase": 27
+  },
+  {
+    "i": 296,
+    "word": "would",
+    "start": 115.047,
+    "end": 115.167,
+    "conf": 0.996,
+    "phrase": 27
+  },
+  {
+    "i": 297,
+    "word": "be",
+    "start": 115.167,
+    "end": 115.307,
+    "conf": 0.998,
+    "phrase": 27
+  },
+  {
+    "i": 298,
+    "word": "a",
+    "start": 115.307,
+    "end": 115.427,
+    "conf": 0.99,
+    "phrase": 27
+  },
+  {
+    "i": 299,
+    "word": "very",
+    "start": 115.427,
+    "end": 115.747,
+    "conf": 0.997,
+    "phrase": 27
+  },
+  {
+    "i": 300,
+    "word": "ordinary",
+    "start": 115.747,
+    "end": 116.387,
+    "conf": 0.996,
+    "phrase": 27
+  },
+  {
+    "i": 301,
+    "word": "business.",
+    "start": 116.387,
+    "end": 116.847,
+    "conf": 0.999,
+    "phrase": 27
+  },
+  {
+    "i": 302,
+    "word": "So",
+    "start": 117.497,
+    "end": 117.717,
+    "conf": 0.853,
+    "phrase": 28
+  },
+  {
+    "i": 303,
+    "word": "where",
+    "start": 117.717,
+    "end": 117.937,
+    "conf": 0.84,
+    "phrase": 28
+  },
+  {
+    "i": 304,
+    "word": "does",
+    "start": 117.937,
+    "end": 118.137,
+    "conf": 0.991,
+    "phrase": 28
+  },
+  {
+    "i": 305,
+    "word": "the",
+    "start": 118.137,
+    "end": 118.317,
+    "conf": 0.995,
+    "phrase": 28
+  },
+  {
+    "i": 306,
+    "word": "rest",
+    "start": 118.317,
+    "end": 118.537,
+    "conf": 0.986,
+    "phrase": 28
+  },
+  {
+    "i": 307,
+    "word": "of",
+    "start": 118.537,
+    "end": 118.717,
+    "conf": 0.995,
+    "phrase": 28
+  },
+  {
+    "i": 308,
+    "word": "the",
+    "start": 118.717,
+    "end": 118.857,
+    "conf": 0.991,
+    "phrase": 28
+  },
+  {
+    "i": 309,
+    "word": "profit",
+    "start": 118.857,
+    "end": 119.157,
+    "conf": 0.0,
+    "phrase": 28
+  },
+  {
+    "i": 310,
+    "word": "come",
+    "start": 119.157,
+    "end": 119.497,
+    "conf": 0.991,
+    "phrase": 28
+  },
+  {
+    "i": 311,
+    "word": "from?",
+    "start": 119.497,
+    "end": 119.757,
+    "conf": 0.999,
+    "phrase": 28
+  },
+  {
+    "i": 312,
+    "word": "From",
+    "start": 120.676,
+    "end": 120.836,
+    "conf": 0.928,
+    "phrase": 29
+  },
+  {
+    "i": 313,
+    "word": "the",
+    "start": 120.836,
+    "end": 120.996,
+    "conf": 0.995,
+    "phrase": 29
+  },
+  {
+    "i": 314,
+    "word": "one",
+    "start": 120.996,
+    "end": 121.196,
+    "conf": 0.991,
+    "phrase": 29
+  },
+  {
+    "i": 315,
+    "word": "thing",
+    "start": 121.196,
+    "end": 121.456,
+    "conf": 0.998,
+    "phrase": 29
+  },
+  {
+    "i": 316,
+    "word": "in",
+    "start": 121.456,
+    "end": 121.616,
+    "conf": 0.996,
+    "phrase": 29
+  },
+  {
+    "i": 317,
+    "word": "your",
+    "start": 121.616,
+    "end": 121.756,
+    "conf": 0.997,
+    "phrase": 29
+  },
+  {
+    "i": 318,
+    "word": "wallet",
+    "start": 121.756,
+    "end": 122.156,
+    "conf": 0.995,
+    "phrase": 29
+  },
+  {
+    "i": 319,
+    "word": "that",
+    "start": 122.156,
+    "end": 122.576,
+    "conf": 0.961,
+    "phrase": 29
+  },
+  {
+    "i": 320,
+    "word": "has",
+    "start": 122.576,
+    "end": 122.736,
+    "conf": 0.998,
+    "phrase": 29
+  },
+  {
+    "i": 321,
+    "word": "nothing",
+    "start": 122.736,
+    "end": 123.036,
+    "conf": 0.997,
+    "phrase": 29
+  },
+  {
+    "i": 322,
+    "word": "on",
+    "start": 123.036,
+    "end": 123.356,
+    "conf": 0.998,
+    "phrase": 29
+  },
+  {
+    "i": 323,
+    "word": "its",
+    "start": 123.356,
+    "end": 123.496,
+    "conf": 0.923,
+    "phrase": 29
+  },
+  {
+    "i": 324,
+    "word": "shelf.",
+    "start": 123.496,
+    "end": 123.776,
+    "conf": 0.992,
+    "phrase": 29
+  },
+  {
+    "i": 325,
+    "word": "In",
+    "start": 124.354,
+    "end": 124.494,
+    "conf": 0.922,
+    "phrase": 30
+  },
+  {
+    "i": 326,
+    "word": "America,",
+    "start": 124.494,
+    "end": 124.914,
+    "conf": 0.997,
+    "phrase": 30
+  },
+  {
+    "i": 327,
+    "word": "a",
+    "start": 125.394,
+    "end": 125.454,
+    "conf": 0.996,
+    "phrase": 30
+  },
+  {
+    "i": 328,
+    "word": "basic",
+    "start": 125.454,
+    "end": 125.834,
+    "conf": 0.943,
+    "phrase": 30
+  },
+  {
+    "i": 329,
+    "word": "Costco",
+    "start": 125.834,
+    "end": 126.314,
+    "conf": 0.686,
+    "phrase": 30
+  },
+  {
+    "i": 330,
+    "word": "membership",
+    "start": 126.314,
+    "end": 126.854,
+    "conf": 0.998,
+    "phrase": 30
+  },
+  {
+    "i": 331,
+    "word": "costs",
+    "start": 126.854,
+    "end": 127.194,
+    "conf": 0.894,
+    "phrase": 30
+  },
+  {
+    "i": 332,
+    "word": "sixty-five",
+    "start": 127.194,
+    "end": 127.677,
+    "conf": 0.0,
+    "phrase": 30
+  },
+  {
+    "i": 333,
+    "word": "dollars",
+    "start": 127.677,
+    "end": 128.014,
+    "conf": 0.0,
+    "phrase": 30
+  },
+  {
+    "i": 334,
+    "word": "a",
+    "start": 128.014,
+    "end": 128.654,
+    "conf": 0.914,
+    "phrase": 30
+  },
+  {
+    "i": 335,
+    "word": "year.",
+    "start": 128.654,
+    "end": 128.934,
+    "conf": 0.999,
+    "phrase": 30
+  },
+  {
+    "i": 336,
+    "word": "At",
+    "start": 129.428,
+    "end": 129.568,
+    "conf": 0.916,
+    "phrase": 31
+  },
+  {
+    "i": 337,
+    "word": "the",
+    "start": 129.568,
+    "end": 129.688,
+    "conf": 0.999,
+    "phrase": 31
+  },
+  {
+    "i": 338,
+    "word": "end",
+    "start": 129.688,
+    "end": 129.888,
+    "conf": 1.0,
+    "phrase": 31
+  },
+  {
+    "i": 339,
+    "word": "of",
+    "start": 129.888,
+    "end": 130.028,
+    "conf": 0.998,
+    "phrase": 31
+  },
+  {
+    "i": 340,
+    "word": "its",
+    "start": 130.028,
+    "end": 130.148,
+    "conf": 0.989,
+    "phrase": 31
+  },
+  {
+    "i": 341,
+    "word": "twenty",
+    "start": 130.148,
+    "end": 130.486,
+    "conf": 0.0,
+    "phrase": 31
+  },
+  {
+    "i": 342,
+    "word": "twenty-six",
+    "start": 130.486,
+    "end": 131.048,
+    "conf": 0.0,
+    "phrase": 31
+  },
+  {
+    "i": 343,
+    "word": "fiscal",
+    "start": 131.048,
+    "end": 131.348,
+    "conf": 0.986,
+    "phrase": 31
+  },
+  {
+    "i": 344,
+    "word": "year,",
+    "start": 131.348,
+    "end": 131.928,
+    "conf": 0.999,
+    "phrase": 31
+  },
+  {
+    "i": 345,
+    "word": "Costco",
+    "start": 132.528,
+    "end": 132.748,
+    "conf": 0.871,
+    "phrase": 31
+  },
+  {
+    "i": 346,
+    "word": "had",
+    "start": 132.748,
+    "end": 133.188,
+    "conf": 0.994,
+    "phrase": 31
+  },
+  {
+    "i": 347,
+    "word": "about",
+    "start": 133.188,
+    "end": 133.468,
+    "conf": 0.997,
+    "phrase": 31
+  },
+  {
+    "i": 348,
+    "word": "eighty-four",
+    "start": 133.468,
+    "end": 134.406,
+    "conf": 0.0,
+    "phrase": 31
+  },
+  {
+    "i": 349,
+    "word": "point",
+    "start": 134.406,
+    "end": 134.832,
+    "conf": 0.0,
+    "phrase": 31
+  },
+  {
+    "i": 350,
+    "word": "one",
+    "start": 134.832,
+    "end": 135.088,
+    "conf": 0.0,
+    "phrase": 31
+  },
+  {
+    "i": 351,
+    "word": "million",
+    "start": 135.088,
+    "end": 135.408,
+    "conf": 0.986,
+    "phrase": 31
+  },
+  {
+    "i": 352,
+    "word": "paid",
+    "start": 135.408,
+    "end": 135.768,
+    "conf": 0.995,
+    "phrase": 31
+  },
+  {
+    "i": 353,
+    "word": "members.",
+    "start": 135.768,
+    "end": 136.208,
+    "conf": 0.997,
+    "phrase": 31
+  },
+  {
+    "i": 354,
+    "word": "Add",
+    "start": 136.808,
+    "end": 137.048,
+    "conf": 0.699,
+    "phrase": 32
+  },
+  {
+    "i": 355,
+    "word": "the",
+    "start": 137.048,
+    "end": 137.188,
+    "conf": 0.996,
+    "phrase": 32
+  },
+  {
+    "i": 356,
+    "word": "free",
+    "start": 137.188,
+    "end": 137.388,
+    "conf": 0.852,
+    "phrase": 32
+  },
+  {
+    "i": 357,
+    "word": "second",
+    "start": 137.388,
+    "end": 137.728,
+    "conf": 0.731,
+    "phrase": 32
+  },
+  {
+    "i": 358,
+    "word": "cards",
+    "start": 137.728,
+    "end": 138.168,
+    "conf": 0.967,
+    "phrase": 32
+  },
+  {
+    "i": 359,
+    "word": "for",
+    "start": 138.168,
+    "end": 138.448,
+    "conf": 0.992,
+    "phrase": 32
+  },
+  {
+    "i": 360,
+    "word": "people",
+    "start": 138.448,
+    "end": 138.768,
+    "conf": 0.993,
+    "phrase": 32
+  },
+  {
+    "i": 361,
+    "word": "in",
+    "start": 138.768,
+    "end": 139.028,
+    "conf": 0.997,
+    "phrase": 32
+  },
+  {
+    "i": 362,
+    "word": "the",
+    "start": 139.028,
+    "end": 139.168,
+    "conf": 0.998,
+    "phrase": 32
+  },
+  {
+    "i": 363,
+    "word": "same",
+    "start": 139.168,
+    "end": 139.428,
+    "conf": 0.997,
+    "phrase": 32
+  },
+  {
+    "i": 364,
+    "word": "household,",
+    "start": 139.428,
+    "end": 140.048,
+    "conf": 0.993,
+    "phrase": 32
+  },
+  {
+    "i": 365,
+    "word": "and",
+    "start": 140.628,
+    "end": 140.768,
+    "conf": 0.991,
+    "phrase": 32
+  },
+  {
+    "i": 366,
+    "word": "it's",
+    "start": 140.768,
+    "end": 140.948,
+    "conf": 0.981,
+    "phrase": 32
+  },
+  {
+    "i": 367,
+    "word": "about",
+    "start": 140.948,
+    "end": 141.168,
+    "conf": 0.996,
+    "phrase": 32
+  },
+  {
+    "i": 368,
+    "word": "a",
+    "start": 141.168,
+    "end": 141.225,
+    "conf": 0.0,
+    "phrase": 32
+  },
+  {
+    "i": 369,
+    "word": "hundred",
+    "start": 141.225,
+    "end": 141.618,
+    "conf": 0.0,
+    "phrase": 32
+  },
+  {
+    "i": 370,
+    "word": "and",
+    "start": 141.618,
+    "end": 141.787,
+    "conf": 0.0,
+    "phrase": 32
+  },
+  {
+    "i": 371,
+    "word": "fifty",
+    "start": 141.787,
+    "end": 142.068,
+    "conf": 0.0,
+    "phrase": 32
+  },
+  {
+    "i": 372,
+    "word": "million",
+    "start": 142.068,
+    "end": 142.588,
+    "conf": 0.906,
+    "phrase": 32
+  },
+  {
+    "i": 373,
+    "word": "cardholders.",
+    "start": 142.588,
+    "end": 143.448,
+    "conf": 0.0,
+    "phrase": 32
+  },
+  {
+    "i": 374,
+    "word": "All",
+    "start": 144.074,
+    "end": 144.294,
+    "conf": 0.574,
+    "phrase": 33
+  },
+  {
+    "i": 375,
+    "word": "those",
+    "start": 144.294,
+    "end": 144.594,
+    "conf": 0.993,
+    "phrase": 33
+  },
+  {
+    "i": 376,
+    "word": "fees",
+    "start": 144.594,
+    "end": 144.934,
+    "conf": 0.998,
+    "phrase": 33
+  },
+  {
+    "i": 377,
+    "word": "added",
+    "start": 144.934,
+    "end": 145.434,
+    "conf": 0.984,
+    "phrase": 33
+  },
+  {
+    "i": 378,
+    "word": "up",
+    "start": 145.434,
+    "end": 145.654,
+    "conf": 0.992,
+    "phrase": 33
+  },
+  {
+    "i": 379,
+    "word": "to",
+    "start": 145.654,
+    "end": 145.854,
+    "conf": 0.993,
+    "phrase": 33
+  },
+  {
+    "i": 380,
+    "word": "five",
+    "start": 145.854,
+    "end": 146.162,
+    "conf": 0.0,
+    "phrase": 33
+  },
+  {
+    "i": 381,
+    "word": "point",
+    "start": 146.162,
+    "end": 146.547,
+    "conf": 0.0,
+    "phrase": 33
+  },
+  {
+    "i": 382,
+    "word": "nine",
+    "start": 146.547,
+    "end": 146.854,
+    "conf": 0.0,
+    "phrase": 33
+  },
+  {
+    "i": 383,
+    "word": "billion",
+    "start": 146.854,
+    "end": 147.114,
+    "conf": 0.977,
+    "phrase": 33
+  },
+  {
+    "i": 384,
+    "word": "dollars",
+    "start": 147.114,
+    "end": 147.114,
+    "conf": 0.0,
+    "phrase": 33
+  },
+  {
+    "i": 385,
+    "word": "in",
+    "start": 147.114,
+    "end": 147.934,
+    "conf": 0.898,
+    "phrase": 33
+  },
+  {
+    "i": 386,
+    "word": "one",
+    "start": 147.934,
+    "end": 148.174,
+    "conf": 0.961,
+    "phrase": 33
+  },
+  {
+    "i": 387,
+    "word": "year.",
+    "start": 148.174,
+    "end": 148.434,
+    "conf": 0.998,
+    "phrase": 33
+  },
+  {
+    "i": 388,
+    "word": "And",
+    "start": 148.891,
+    "end": 149.071,
+    "conf": 0.684,
+    "phrase": 34
+  },
+  {
+    "i": 389,
+    "word": "that",
+    "start": 149.071,
+    "end": 149.231,
+    "conf": 0.994,
+    "phrase": 34
+  },
+  {
+    "i": 390,
+    "word": "number",
+    "start": 149.231,
+    "end": 149.55,
+    "conf": 0.999,
+    "phrase": 34
+  },
+  {
+    "i": 391,
+    "word": "keeps",
+    "start": 149.55,
+    "end": 149.851,
+    "conf": 0.999,
+    "phrase": 34
+  },
+  {
+    "i": 392,
+    "word": "climbing.",
+    "start": 149.851,
+    "end": 150.231,
+    "conf": 0.999,
+    "phrase": 34
+  },
+  {
+    "i": 393,
+    "word": "Two",
+    "start": 150.826,
+    "end": 150.986,
+    "conf": 0.627,
+    "phrase": 35
+  },
+  {
+    "i": 394,
+    "word": "years",
+    "start": 150.986,
+    "end": 151.186,
+    "conf": 0.996,
+    "phrase": 35
+  },
+  {
+    "i": 395,
+    "word": "earlier,",
+    "start": 151.186,
+    "end": 151.666,
+    "conf": 0.997,
+    "phrase": 35
+  },
+  {
+    "i": 396,
+    "word": "it",
+    "start": 152.066,
+    "end": 152.106,
+    "conf": 0.989,
+    "phrase": 35
+  },
+  {
+    "i": 397,
+    "word": "was",
+    "start": 152.106,
+    "end": 152.206,
+    "conf": 0.999,
+    "phrase": 35
+  },
+  {
+    "i": 398,
+    "word": "about",
+    "start": 152.206,
+    "end": 152.506,
+    "conf": 0.994,
+    "phrase": 35
+  },
+  {
+    "i": 399,
+    "word": "four",
+    "start": 152.506,
+    "end": 152.786,
+    "conf": 0.0,
+    "phrase": 35
+  },
+  {
+    "i": 400,
+    "word": "point",
+    "start": 152.786,
+    "end": 153.136,
+    "conf": 0.0,
+    "phrase": 35
+  },
+  {
+    "i": 401,
+    "word": "eight",
+    "start": 153.136,
+    "end": 153.486,
+    "conf": 0.0,
+    "phrase": 35
+  },
+  {
+    "i": 402,
+    "word": "billion",
+    "start": 153.486,
+    "end": 153.886,
+    "conf": 0.986,
+    "phrase": 35
+  },
+  {
+    "i": 403,
+    "word": "dollars.",
+    "start": 153.886,
+    "end": 154.645,
+    "conf": 0.0,
+    "phrase": 35
+  },
+  {
+    "i": 404,
+    "word": "The",
+    "start": 154.995,
+    "end": 155.115,
+    "conf": 0.491,
+    "phrase": 36
+  },
+  {
+    "i": 405,
+    "word": "year",
+    "start": 155.115,
+    "end": 155.255,
+    "conf": 0.998,
+    "phrase": 36
+  },
+  {
+    "i": 406,
+    "word": "after",
+    "start": 155.255,
+    "end": 155.575,
+    "conf": 0.998,
+    "phrase": 36
+  },
+  {
+    "i": 407,
+    "word": "that,",
+    "start": 155.575,
+    "end": 155.915,
+    "conf": 0.983,
+    "phrase": 36
+  },
+  {
+    "i": 408,
+    "word": "about",
+    "start": 156.215,
+    "end": 156.415,
+    "conf": 0.995,
+    "phrase": 36
+  },
+  {
+    "i": 409,
+    "word": "five",
+    "start": 156.415,
+    "end": 156.706,
+    "conf": 0.0,
+    "phrase": 36
+  },
+  {
+    "i": 410,
+    "word": "point",
+    "start": 156.706,
+    "end": 157.07,
+    "conf": 0.0,
+    "phrase": 36
+  },
+  {
+    "i": 411,
+    "word": "three",
+    "start": 157.07,
+    "end": 157.435,
+    "conf": 0.0,
+    "phrase": 36
+  },
+  {
+    "i": 412,
+    "word": "billion",
+    "start": 157.435,
+    "end": 157.835,
+    "conf": 0.988,
+    "phrase": 36
+  },
+  {
+    "i": 413,
+    "word": "dollars.",
+    "start": 157.835,
+    "end": 158.602,
+    "conf": 0.0,
+    "phrase": 36
+  },
+  {
+    "i": 414,
+    "word": "Now",
+    "start": 158.952,
+    "end": 159.212,
+    "conf": 0.953,
+    "phrase": 37
+  },
+  {
+    "i": 415,
+    "word": "compare",
+    "start": 159.212,
+    "end": 159.652,
+    "conf": 0.918,
+    "phrase": 37
+  },
+  {
+    "i": 416,
+    "word": "that",
+    "start": 159.652,
+    "end": 159.932,
+    "conf": 0.996,
+    "phrase": 37
+  },
+  {
+    "i": 417,
+    "word": "with",
+    "start": 159.932,
+    "end": 160.172,
+    "conf": 0.997,
+    "phrase": 37
+  },
+  {
+    "i": 418,
+    "word": "Costco's",
+    "start": 160.172,
+    "end": 160.992,
+    "conf": 0.896,
+    "phrase": 37
+  },
+  {
+    "i": 419,
+    "word": "operating",
+    "start": 160.992,
+    "end": 161.392,
+    "conf": 0.883,
+    "phrase": 37
+  },
+  {
+    "i": 420,
+    "word": "profit,",
+    "start": 161.392,
+    "end": 161.972,
+    "conf": 0.998,
+    "phrase": 37
+  },
+  {
+    "i": 421,
+    "word": "the",
+    "start": 162.472,
+    "end": 162.672,
+    "conf": 0.996,
+    "phrase": 37
+  },
+  {
+    "i": 422,
+    "word": "money",
+    "start": 162.672,
+    "end": 162.872,
+    "conf": 1.0,
+    "phrase": 37
+  },
+  {
+    "i": 423,
+    "word": "it",
+    "start": 162.872,
+    "end": 163.072,
+    "conf": 0.996,
+    "phrase": 37
+  },
+  {
+    "i": 424,
+    "word": "makes",
+    "start": 163.072,
+    "end": 163.332,
+    "conf": 0.998,
+    "phrase": 37
+  },
+  {
+    "i": 425,
+    "word": "from",
+    "start": 163.332,
+    "end": 163.592,
+    "conf": 0.994,
+    "phrase": 37
+  },
+  {
+    "i": 426,
+    "word": "running",
+    "start": 163.592,
+    "end": 163.872,
+    "conf": 0.998,
+    "phrase": 37
+  },
+  {
+    "i": 427,
+    "word": "the",
+    "start": 163.872,
+    "end": 164.112,
+    "conf": 0.998,
+    "phrase": 37
+  },
+  {
+    "i": 428,
+    "word": "business,",
+    "start": 164.112,
+    "end": 164.492,
+    "conf": 0.998,
+    "phrase": 37
+  },
+  {
+    "i": 429,
+    "word": "before",
+    "start": 164.492,
+    "end": 165.192,
+    "conf": 0.37,
+    "phrase": 37
+  },
+  {
+    "i": 430,
+    "word": "interest",
+    "start": 165.192,
+    "end": 165.712,
+    "conf": 0.998,
+    "phrase": 37
+  },
+  {
+    "i": 431,
+    "word": "and",
+    "start": 165.712,
+    "end": 165.992,
+    "conf": 0.0,
+    "phrase": 37
+  },
+  {
+    "i": 432,
+    "word": "tax.",
+    "start": 165.992,
+    "end": 166.292,
+    "conf": 0.991,
+    "phrase": 37
+  },
+  {
+    "i": 433,
+    "word": "That",
+    "start": 166.951,
+    "end": 167.091,
+    "conf": 0.699,
+    "phrase": 38
+  },
+  {
+    "i": 434,
+    "word": "was",
+    "start": 167.091,
+    "end": 167.211,
+    "conf": 0.996,
+    "phrase": 38
+  },
+  {
+    "i": 435,
+    "word": "eleven",
+    "start": 167.211,
+    "end": 167.623,
+    "conf": 0.0,
+    "phrase": 38
+  },
+  {
+    "i": 436,
+    "word": "point",
+    "start": 167.623,
+    "end": 167.967,
+    "conf": 0.0,
+    "phrase": 38
+  },
+  {
+    "i": 437,
+    "word": "seven",
+    "start": 167.967,
+    "end": 168.311,
+    "conf": 0.0,
+    "phrase": 38
+  },
+  {
+    "i": 438,
+    "word": "billion",
+    "start": 168.311,
+    "end": 168.651,
+    "conf": 0.972,
+    "phrase": 38
+  },
+  {
+    "i": 439,
+    "word": "dollars.",
+    "start": 168.651,
+    "end": 169.405,
+    "conf": 0.0,
+    "phrase": 38
+  },
+  {
+    "i": 440,
+    "word": "So",
+    "start": 169.755,
+    "end": 169.915,
+    "conf": 0.743,
+    "phrase": 39
+  },
+  {
+    "i": 441,
+    "word": "the",
+    "start": 169.915,
+    "end": 170.055,
+    "conf": 0.914,
+    "phrase": 39
+  },
+  {
+    "i": 442,
+    "word": "membership",
+    "start": 170.055,
+    "end": 170.454,
+    "conf": 0.988,
+    "phrase": 39
+  },
+  {
+    "i": 443,
+    "word": "fees",
+    "start": 170.454,
+    "end": 170.835,
+    "conf": 0.998,
+    "phrase": 39
+  },
+  {
+    "i": 444,
+    "word": "are",
+    "start": 170.835,
+    "end": 171.174,
+    "conf": 0.997,
+    "phrase": 39
+  },
+  {
+    "i": 445,
+    "word": "as",
+    "start": 171.174,
+    "end": 171.315,
+    "conf": 0.989,
+    "phrase": 39
+  },
+  {
+    "i": 446,
+    "word": "big",
+    "start": 171.315,
+    "end": 171.635,
+    "conf": 0.999,
+    "phrase": 39
+  },
+  {
+    "i": 447,
+    "word": "as",
+    "start": 171.635,
+    "end": 171.894,
+    "conf": 0.994,
+    "phrase": 39
+  },
+  {
+    "i": 448,
+    "word": "about",
+    "start": 171.894,
+    "end": 172.195,
+    "conf": 0.993,
+    "phrase": 39
+  },
+  {
+    "i": 449,
+    "word": "half",
+    "start": 172.195,
+    "end": 172.755,
+    "conf": 0.99,
+    "phrase": 39
+  },
+  {
+    "i": 450,
+    "word": "of",
+    "start": 172.755,
+    "end": 172.954,
+    "conf": 0.991,
+    "phrase": 39
+  },
+  {
+    "i": 451,
+    "word": "all",
+    "start": 172.954,
+    "end": 173.115,
+    "conf": 0.99,
+    "phrase": 39
+  },
+  {
+    "i": 452,
+    "word": "that",
+    "start": 173.115,
+    "end": 173.355,
+    "conf": 0.964,
+    "phrase": 39
+  },
+  {
+    "i": 453,
+    "word": "profit.",
+    "start": 173.355,
+    "end": 173.635,
+    "conf": 0.956,
+    "phrase": 39
+  },
+  {
+    "i": 454,
+    "word": "To",
+    "start": 174.22,
+    "end": 174.34,
+    "conf": 0.953,
+    "phrase": 40
+  },
+  {
+    "i": 455,
+    "word": "be",
+    "start": 174.34,
+    "end": 174.46,
+    "conf": 0.998,
+    "phrase": 40
+  },
+  {
+    "i": 456,
+    "word": "fair,",
+    "start": 174.46,
+    "end": 174.94,
+    "conf": 0.999,
+    "phrase": 40
+  },
+  {
+    "i": 457,
+    "word": "Costco",
+    "start": 175.42,
+    "end": 175.6,
+    "conf": 0.501,
+    "phrase": 40
+  },
+  {
+    "i": 458,
+    "word": "doesn't",
+    "start": 175.6,
+    "end": 176.12,
+    "conf": 0.987,
+    "phrase": 40
+  },
+  {
+    "i": 459,
+    "word": "split",
+    "start": 176.12,
+    "end": 176.34,
+    "conf": 0.999,
+    "phrase": 40
+  },
+  {
+    "i": 460,
+    "word": "its",
+    "start": 176.34,
+    "end": 176.52,
+    "conf": 0.968,
+    "phrase": 40
+  },
+  {
+    "i": 461,
+    "word": "profit",
+    "start": 176.52,
+    "end": 176.9,
+    "conf": 0.993,
+    "phrase": 40
+  },
+  {
+    "i": 462,
+    "word": "by",
+    "start": 176.9,
+    "end": 177.2,
+    "conf": 0.994,
+    "phrase": 40
+  },
+  {
+    "i": 463,
+    "word": "where",
+    "start": 177.2,
+    "end": 177.42,
+    "conf": 0.997,
+    "phrase": 40
+  },
+  {
+    "i": 464,
+    "word": "it",
+    "start": 177.42,
+    "end": 177.56,
+    "conf": 0.997,
+    "phrase": 40
+  },
+  {
+    "i": 465,
+    "word": "comes",
+    "start": 177.56,
+    "end": 177.76,
+    "conf": 0.995,
+    "phrase": 40
+  },
+  {
+    "i": 466,
+    "word": "from.",
+    "start": 177.76,
+    "end": 178.08,
+    "conf": 0.999,
+    "phrase": 40
+  },
+  {
+    "i": 467,
+    "word": "This",
+    "start": 178.525,
+    "end": 178.725,
+    "conf": 0.875,
+    "phrase": 41
+  },
+  {
+    "i": 468,
+    "word": "is",
+    "start": 178.725,
+    "end": 178.886,
+    "conf": 0.996,
+    "phrase": 41
+  },
+  {
+    "i": 469,
+    "word": "a",
+    "start": 178.886,
+    "end": 179.025,
+    "conf": 0.991,
+    "phrase": 41
+  },
+  {
+    "i": 470,
+    "word": "comparison",
+    "start": 179.025,
+    "end": 179.425,
+    "conf": 0.996,
+    "phrase": 41
+  },
+  {
+    "i": 471,
+    "word": "of",
+    "start": 179.425,
+    "end": 179.745,
+    "conf": 0.998,
+    "phrase": 41
+  },
+  {
+    "i": 472,
+    "word": "sizes,",
+    "start": 179.745,
+    "end": 180.225,
+    "conf": 0.994,
+    "phrase": 41
+  },
+  {
+    "i": 473,
+    "word": "not",
+    "start": 180.706,
+    "end": 180.945,
+    "conf": 0.996,
+    "phrase": 41
+  },
+  {
+    "i": 474,
+    "word": "an",
+    "start": 180.945,
+    "end": 181.085,
+    "conf": 0.992,
+    "phrase": 41
+  },
+  {
+    "i": 475,
+    "word": "official",
+    "start": 181.085,
+    "end": 181.425,
+    "conf": 0.997,
+    "phrase": 41
+  },
+  {
+    "i": 476,
+    "word": "breakdown.",
+    "start": 181.425,
+    "end": 181.845,
+    "conf": 0.979,
+    "phrase": 41
+  },
+  {
+    "i": 477,
+    "word": "But",
+    "start": 182.56,
+    "end": 182.66,
+    "conf": 0.583,
+    "phrase": 42
+  },
+  {
+    "i": 478,
+    "word": "it",
+    "start": 182.66,
+    "end": 182.78,
+    "conf": 0.993,
+    "phrase": 42
+  },
+  {
+    "i": 479,
+    "word": "tells",
+    "start": 182.78,
+    "end": 183.0,
+    "conf": 0.998,
+    "phrase": 42
+  },
+  {
+    "i": 480,
+    "word": "you",
+    "start": 183.0,
+    "end": 183.32,
+    "conf": 0.998,
+    "phrase": 42
+  },
+  {
+    "i": 481,
+    "word": "what",
+    "start": 183.32,
+    "end": 183.58,
+    "conf": 0.992,
+    "phrase": 42
+  },
+  {
+    "i": 482,
+    "word": "the",
+    "start": 183.58,
+    "end": 183.72,
+    "conf": 0.997,
+    "phrase": 42
+  },
+  {
+    "i": 483,
+    "word": "whole",
+    "start": 183.72,
+    "end": 184.02,
+    "conf": 0.999,
+    "phrase": 42
+  },
+  {
+    "i": 484,
+    "word": "business",
+    "start": 184.02,
+    "end": 184.4,
+    "conf": 0.997,
+    "phrase": 42
+  },
+  {
+    "i": 485,
+    "word": "is",
+    "start": 184.4,
+    "end": 184.74,
+    "conf": 0.974,
+    "phrase": 42
+  },
+  {
+    "i": 486,
+    "word": "built",
+    "start": 184.74,
+    "end": 184.96,
+    "conf": 0.996,
+    "phrase": 42
+  },
+  {
+    "i": 487,
+    "word": "around.",
+    "start": 184.96,
+    "end": 185.36,
+    "conf": 0.997,
+    "phrase": 42
+  },
+  {
+    "i": 488,
+    "word": "Here's",
+    "start": 185.971,
+    "end": 186.331,
+    "conf": 0.946,
+    "phrase": 43
+  },
+  {
+    "i": 489,
+    "word": "why",
+    "start": 186.331,
+    "end": 186.511,
+    "conf": 0.976,
+    "phrase": 43
+  },
+  {
+    "i": 490,
+    "word": "that",
+    "start": 186.511,
+    "end": 186.751,
+    "conf": 0.996,
+    "phrase": 43
+  },
+  {
+    "i": 491,
+    "word": "matters.",
+    "start": 186.751,
+    "end": 187.091,
+    "conf": 0.998,
+    "phrase": 43
+  },
+  {
+    "i": 492,
+    "word": "Unlike",
+    "start": 187.702,
+    "end": 187.982,
+    "conf": 0.955,
+    "phrase": 44
+  },
+  {
+    "i": 493,
+    "word": "a",
+    "start": 187.982,
+    "end": 188.182,
+    "conf": 0.994,
+    "phrase": 44
+  },
+  {
+    "i": 494,
+    "word": "TV,",
+    "start": 188.182,
+    "end": 188.582,
+    "conf": 0.967,
+    "phrase": 44
+  },
+  {
+    "i": 495,
+    "word": "a",
+    "start": 189.282,
+    "end": 189.322,
+    "conf": 0.996,
+    "phrase": 44
+  },
+  {
+    "i": 496,
+    "word": "membership",
+    "start": 189.322,
+    "end": 189.662,
+    "conf": 0.991,
+    "phrase": 44
+  },
+  {
+    "i": 497,
+    "word": "doesn't",
+    "start": 189.662,
+    "end": 190.162,
+    "conf": 0.994,
+    "phrase": 44
+  },
+  {
+    "i": 498,
+    "word": "need",
+    "start": 190.162,
+    "end": 190.382,
+    "conf": 0.999,
+    "phrase": 44
+  },
+  {
+    "i": 499,
+    "word": "a",
+    "start": 190.382,
+    "end": 190.542,
+    "conf": 0.997,
+    "phrase": 44
+  },
+  {
+    "i": 500,
+    "word": "box",
+    "start": 190.542,
+    "end": 190.842,
+    "conf": 0.997,
+    "phrase": 44
+  },
+  {
+    "i": 501,
+    "word": "shipped",
+    "start": 190.842,
+    "end": 191.162,
+    "conf": 0.992,
+    "phrase": 44
+  },
+  {
+    "i": 502,
+    "word": "or",
+    "start": 191.162,
+    "end": 191.422,
+    "conf": 0.949,
+    "phrase": 44
+  },
+  {
+    "i": 503,
+    "word": "a",
+    "start": 191.422,
+    "end": 191.522,
+    "conf": 0.943,
+    "phrase": 44
+  },
+  {
+    "i": 504,
+    "word": "shelf",
+    "start": 191.522,
+    "end": 191.762,
+    "conf": 0.999,
+    "phrase": 44
+  },
+  {
+    "i": 505,
+    "word": "stocked.",
+    "start": 191.762,
+    "end": 192.182,
+    "conf": 0.881,
+    "phrase": 44
+  },
+  {
+    "i": 506,
+    "word": "So",
+    "start": 192.777,
+    "end": 192.977,
+    "conf": 0.858,
+    "phrase": 45
+  },
+  {
+    "i": 507,
+    "word": "take",
+    "start": 192.977,
+    "end": 193.217,
+    "conf": 0.892,
+    "phrase": 45
+  },
+  {
+    "i": 508,
+    "word": "the",
+    "start": 193.217,
+    "end": 193.417,
+    "conf": 0.997,
+    "phrase": 45
+  },
+  {
+    "i": 509,
+    "word": "fees",
+    "start": 193.417,
+    "end": 193.697,
+    "conf": 0.997,
+    "phrase": 45
+  },
+  {
+    "i": 510,
+    "word": "away,",
+    "start": 193.697,
+    "end": 194.117,
+    "conf": 0.998,
+    "phrase": 45
+  },
+  {
+    "i": 511,
+    "word": "and",
+    "start": 194.657,
+    "end": 194.777,
+    "conf": 0.995,
+    "phrase": 45
+  },
+  {
+    "i": 512,
+    "word": "on",
+    "start": 194.777,
+    "end": 194.917,
+    "conf": 0.987,
+    "phrase": 45
+  },
+  {
+    "i": 513,
+    "word": "paper",
+    "start": 194.917,
+    "end": 195.237,
+    "conf": 0.996,
+    "phrase": 45
+  },
+  {
+    "i": 514,
+    "word": "the",
+    "start": 195.237,
+    "end": 195.517,
+    "conf": 0.735,
+    "phrase": 45
+  },
+  {
+    "i": 515,
+    "word": "operating",
+    "start": 195.517,
+    "end": 196.017,
+    "conf": 0.947,
+    "phrase": 45
+  },
+  {
+    "i": 516,
+    "word": "profit",
+    "start": 196.017,
+    "end": 196.537,
+    "conf": 0.989,
+    "phrase": 45
+  },
+  {
+    "i": 517,
+    "word": "drops",
+    "start": 196.537,
+    "end": 196.897,
+    "conf": 0.998,
+    "phrase": 45
+  },
+  {
+    "i": 518,
+    "word": "to",
+    "start": 196.897,
+    "end": 197.177,
+    "conf": 0.996,
+    "phrase": 45
+  },
+  {
+    "i": 519,
+    "word": "about",
+    "start": 197.177,
+    "end": 197.457,
+    "conf": 0.989,
+    "phrase": 45
+  },
+  {
+    "i": 520,
+    "word": "five",
+    "start": 197.457,
+    "end": 197.794,
+    "conf": 0.0,
+    "phrase": 45
+  },
+  {
+    "i": 521,
+    "word": "point",
+    "start": 197.794,
+    "end": 198.216,
+    "conf": 0.0,
+    "phrase": 45
+  },
+  {
+    "i": 522,
+    "word": "eight",
+    "start": 198.216,
+    "end": 198.637,
+    "conf": 0.0,
+    "phrase": 45
+  },
+  {
+    "i": 523,
+    "word": "billion",
+    "start": 198.637,
+    "end": 198.997,
+    "conf": 0.954,
+    "phrase": 45
+  },
+  {
+    "i": 524,
+    "word": "dollars.",
+    "start": 198.997,
+    "end": 199.773,
+    "conf": 0.0,
+    "phrase": 45
+  },
+  {
+    "i": 525,
+    "word": "That's",
+    "start": 200.123,
+    "end": 200.383,
+    "conf": 0.928,
+    "phrase": 46
+  },
+  {
+    "i": 526,
+    "word": "the",
+    "start": 200.383,
+    "end": 200.503,
+    "conf": 0.997,
+    "phrase": 46
+  },
+  {
+    "i": 527,
+    "word": "trick",
+    "start": 200.503,
+    "end": 200.683,
+    "conf": 0.998,
+    "phrase": 46
+  },
+  {
+    "i": 528,
+    "word": "hiding",
+    "start": 200.683,
+    "end": 201.063,
+    "conf": 0.979,
+    "phrase": 46
+  },
+  {
+    "i": 529,
+    "word": "in",
+    "start": 201.063,
+    "end": 201.363,
+    "conf": 0.996,
+    "phrase": 46
+  },
+  {
+    "i": 530,
+    "word": "plain",
+    "start": 201.363,
+    "end": 201.583,
+    "conf": 0.989,
+    "phrase": 46
+  },
+  {
+    "i": 531,
+    "word": "sight.",
+    "start": 201.583,
+    "end": 201.943,
+    "conf": 0.999,
+    "phrase": 46
+  },
+  {
+    "i": 532,
+    "word": "Costco",
+    "start": 202.468,
+    "end": 202.848,
+    "conf": 0.98,
+    "phrase": 47
+  },
+  {
+    "i": 533,
+    "word": "sells",
+    "start": 202.848,
+    "end": 203.228,
+    "conf": 0.984,
+    "phrase": 47
+  },
+  {
+    "i": 534,
+    "word": "you",
+    "start": 203.228,
+    "end": 203.468,
+    "conf": 0.992,
+    "phrase": 47
+  },
+  {
+    "i": 535,
+    "word": "the",
+    "start": 203.468,
+    "end": 203.608,
+    "conf": 0.989,
+    "phrase": 47
+  },
+  {
+    "i": 536,
+    "word": "goods",
+    "start": 203.608,
+    "end": 203.928,
+    "conf": 0.983,
+    "phrase": 47
+  },
+  {
+    "i": 537,
+    "word": "at",
+    "start": 203.928,
+    "end": 204.348,
+    "conf": 0.945,
+    "phrase": 47
+  },
+  {
+    "i": 538,
+    "word": "almost",
+    "start": 204.348,
+    "end": 204.668,
+    "conf": 0.996,
+    "phrase": 47
+  },
+  {
+    "i": 539,
+    "word": "no",
+    "start": 204.668,
+    "end": 204.948,
+    "conf": 0.999,
+    "phrase": 47
+  },
+  {
+    "i": 540,
+    "word": "profit.",
+    "start": 204.948,
+    "end": 205.348,
+    "conf": 0.98,
+    "phrase": 47
+  },
+  {
+    "i": 541,
+    "word": "And",
+    "start": 205.878,
+    "end": 206.018,
+    "conf": 0.918,
+    "phrase": 48
+  },
+  {
+    "i": 542,
+    "word": "sells",
+    "start": 206.018,
+    "end": 206.278,
+    "conf": 0.988,
+    "phrase": 48
+  },
+  {
+    "i": 543,
+    "word": "you",
+    "start": 206.278,
+    "end": 206.518,
+    "conf": 0.987,
+    "phrase": 48
+  },
+  {
+    "i": 544,
+    "word": "the",
+    "start": 206.518,
+    "end": 206.618,
+    "conf": 0.994,
+    "phrase": 48
+  },
+  {
+    "i": 545,
+    "word": "right",
+    "start": 206.618,
+    "end": 206.818,
+    "conf": 0.998,
+    "phrase": 48
+  },
+  {
+    "i": 546,
+    "word": "to",
+    "start": 206.818,
+    "end": 207.038,
+    "conf": 0.995,
+    "phrase": 48
+  },
+  {
+    "i": 547,
+    "word": "shop",
+    "start": 207.038,
+    "end": 207.318,
+    "conf": 0.996,
+    "phrase": 48
+  },
+  {
+    "i": 548,
+    "word": "there",
+    "start": 207.318,
+    "end": 207.658,
+    "conf": 0.972,
+    "phrase": 48
+  },
+  {
+    "i": 549,
+    "word": "at",
+    "start": 207.658,
+    "end": 208.038,
+    "conf": 0.923,
+    "phrase": 48
+  },
+  {
+    "i": 550,
+    "word": "a",
+    "start": 208.038,
+    "end": 208.178,
+    "conf": 0.995,
+    "phrase": 48
+  },
+  {
+    "i": 551,
+    "word": "very",
+    "start": 208.178,
+    "end": 208.418,
+    "conf": 0.99,
+    "phrase": 48
+  },
+  {
+    "i": 552,
+    "word": "healthy",
+    "start": 208.418,
+    "end": 208.778,
+    "conf": 0.996,
+    "phrase": 48
+  },
+  {
+    "i": 553,
+    "word": "one.",
+    "start": 208.778,
+    "end": 209.138,
+    "conf": 0.992,
+    "phrase": 48
+  },
+  {
+    "i": 554,
+    "word": "You",
+    "start": 209.593,
+    "end": 209.753,
+    "conf": 0.592,
+    "phrase": 49
+  },
+  {
+    "i": 555,
+    "word": "might",
+    "start": 209.753,
+    "end": 209.933,
+    "conf": 0.994,
+    "phrase": 49
+  },
+  {
+    "i": 556,
+    "word": "be",
+    "start": 209.933,
+    "end": 210.153,
+    "conf": 0.997,
+    "phrase": 49
+  },
+  {
+    "i": 557,
+    "word": "thinking,",
+    "start": 210.153,
+    "end": 210.613,
+    "conf": 0.999,
+    "phrase": 49
+  },
+  {
+    "i": 558,
+    "word": "isn't",
+    "start": 211.013,
+    "end": 211.353,
+    "conf": 0.674,
+    "phrase": 49
+  },
+  {
+    "i": 559,
+    "word": "that",
+    "start": 211.353,
+    "end": 211.493,
+    "conf": 0.993,
+    "phrase": 49
+  },
+  {
+    "i": 560,
+    "word": "just",
+    "start": 211.493,
+    "end": 211.733,
+    "conf": 0.988,
+    "phrase": 49
+  },
+  {
+    "i": 561,
+    "word": "a",
+    "start": 211.733,
+    "end": 211.933,
+    "conf": 0.992,
+    "phrase": 49
+  },
+  {
+    "i": 562,
+    "word": "subscription?",
+    "start": 211.933,
+    "end": 212.333,
+    "conf": 0.985,
+    "phrase": 49
+  },
+  {
+    "i": 563,
+    "word": "Sort",
+    "start": 213.061,
+    "end": 213.321,
+    "conf": 0.51,
+    "phrase": 50
+  },
+  {
+    "i": 564,
+    "word": "of,",
+    "start": 213.321,
+    "end": 213.461,
+    "conf": 0.992,
+    "phrase": 50
+  },
+  {
+    "i": 565,
+    "word": "but",
+    "start": 213.521,
+    "end": 213.621,
+    "conf": 0.999,
+    "phrase": 50
+  },
+  {
+    "i": 566,
+    "word": "with",
+    "start": 213.621,
+    "end": 213.761,
+    "conf": 0.996,
+    "phrase": 50
+  },
+  {
+    "i": 567,
+    "word": "a",
+    "start": 213.761,
+    "end": 213.881,
+    "conf": 0.996,
+    "phrase": 50
+  },
+  {
+    "i": 568,
+    "word": "twist.",
+    "start": 213.881,
+    "end": 214.141,
+    "conf": 0.995,
+    "phrase": 50
+  },
+  {
+    "i": 569,
+    "word": "With",
+    "start": 214.773,
+    "end": 214.913,
+    "conf": 0.892,
+    "phrase": 51
+  },
+  {
+    "i": 570,
+    "word": "most",
+    "start": 214.913,
+    "end": 215.153,
+    "conf": 0.995,
+    "phrase": 51
+  },
+  {
+    "i": 571,
+    "word": "subscriptions,",
+    "start": 215.153,
+    "end": 215.653,
+    "conf": 0.993,
+    "phrase": 51
+  },
+  {
+    "i": 572,
+    "word": "you",
+    "start": 216.033,
+    "end": 216.113,
+    "conf": 0.999,
+    "phrase": 51
+  },
+  {
+    "i": 573,
+    "word": "pay",
+    "start": 216.113,
+    "end": 216.293,
+    "conf": 0.997,
+    "phrase": 51
+  },
+  {
+    "i": 574,
+    "word": "for",
+    "start": 216.293,
+    "end": 216.473,
+    "conf": 0.998,
+    "phrase": 51
+  },
+  {
+    "i": 575,
+    "word": "the",
+    "start": 216.473,
+    "end": 216.593,
+    "conf": 0.997,
+    "phrase": 51
+  },
+  {
+    "i": 576,
+    "word": "thing",
+    "start": 216.593,
+    "end": 216.753,
+    "conf": 0.997,
+    "phrase": 51
+  },
+  {
+    "i": 577,
+    "word": "itself,",
+    "start": 216.753,
+    "end": 217.173,
+    "conf": 0.996,
+    "phrase": 51
+  },
+  {
+    "i": 578,
+    "word": "like",
+    "start": 217.653,
+    "end": 217.873,
+    "conf": 0.998,
+    "phrase": 51
+  },
+  {
+    "i": 579,
+    "word": "shows",
+    "start": 217.873,
+    "end": 218.253,
+    "conf": 0.998,
+    "phrase": 51
+  },
+  {
+    "i": 580,
+    "word": "or",
+    "start": 218.253,
+    "end": 218.553,
+    "conf": 0.986,
+    "phrase": 51
+  },
+  {
+    "i": 581,
+    "word": "music.",
+    "start": 218.553,
+    "end": 218.833,
+    "conf": 0.999,
+    "phrase": 51
+  },
+  {
+    "i": 582,
+    "word": "At",
+    "start": 219.441,
+    "end": 219.621,
+    "conf": 0.817,
+    "phrase": 52
+  },
+  {
+    "i": 583,
+    "word": "Costco,",
+    "start": 219.621,
+    "end": 220.081,
+    "conf": 0.843,
+    "phrase": 52
+  },
+  {
+    "i": 584,
+    "word": "you",
+    "start": 220.661,
+    "end": 220.821,
+    "conf": 0.995,
+    "phrase": 52
+  },
+  {
+    "i": 585,
+    "word": "pay",
+    "start": 220.821,
+    "end": 221.001,
+    "conf": 0.998,
+    "phrase": 52
+  },
+  {
+    "i": 586,
+    "word": "for",
+    "start": 221.001,
+    "end": 221.201,
+    "conf": 0.995,
+    "phrase": 52
+  },
+  {
+    "i": 587,
+    "word": "the",
+    "start": 221.201,
+    "end": 221.301,
+    "conf": 0.998,
+    "phrase": 52
+  },
+  {
+    "i": 588,
+    "word": "right",
+    "start": 221.301,
+    "end": 221.521,
+    "conf": 0.999,
+    "phrase": 52
+  },
+  {
+    "i": 589,
+    "word": "to",
+    "start": 221.521,
+    "end": 221.701,
+    "conf": 0.998,
+    "phrase": 52
+  },
+  {
+    "i": 590,
+    "word": "buy",
+    "start": 221.701,
+    "end": 221.901,
+    "conf": 0.998,
+    "phrase": 52
+  },
+  {
+    "i": 591,
+    "word": "things",
+    "start": 221.901,
+    "end": 222.201,
+    "conf": 0.995,
+    "phrase": 52
+  },
+  {
+    "i": 592,
+    "word": "at",
+    "start": 222.201,
+    "end": 222.421,
+    "conf": 0.983,
+    "phrase": 52
+  },
+  {
+    "i": 593,
+    "word": "almost",
+    "start": 222.421,
+    "end": 222.741,
+    "conf": 0.998,
+    "phrase": 52
+  },
+  {
+    "i": 594,
+    "word": "no",
+    "start": 222.741,
+    "end": 223.081,
+    "conf": 0.999,
+    "phrase": 52
+  },
+  {
+    "i": 595,
+    "word": "markup.",
+    "start": 223.081,
+    "end": 223.421,
+    "conf": 0.785,
+    "phrase": 52
+  },
+  {
+    "i": 596,
+    "word": "So",
+    "start": 224.108,
+    "end": 224.268,
+    "conf": 0.804,
+    "phrase": 53
+  },
+  {
+    "i": 597,
+    "word": "the",
+    "start": 224.268,
+    "end": 224.388,
+    "conf": 0.925,
+    "phrase": 53
+  },
+  {
+    "i": 598,
+    "word": "better",
+    "start": 224.388,
+    "end": 224.548,
+    "conf": 0.999,
+    "phrase": 53
+  },
+  {
+    "i": 599,
+    "word": "the",
+    "start": 224.548,
+    "end": 224.768,
+    "conf": 0.992,
+    "phrase": 53
+  },
+  {
+    "i": 600,
+    "word": "deal",
+    "start": 224.768,
+    "end": 225.028,
+    "conf": 0.988,
+    "phrase": 53
+  },
+  {
+    "i": 601,
+    "word": "on",
+    "start": 225.028,
+    "end": 225.248,
+    "conf": 0.996,
+    "phrase": 53
+  },
+  {
+    "i": 602,
+    "word": "the",
+    "start": 225.248,
+    "end": 225.408,
+    "conf": 0.996,
+    "phrase": 53
+  },
+  {
+    "i": 603,
+    "word": "shelves,",
+    "start": 225.408,
+    "end": 225.788,
+    "conf": 0.996,
+    "phrase": 53
+  },
+  {
+    "i": 604,
+    "word": "the",
+    "start": 226.308,
+    "end": 226.468,
+    "conf": 0.995,
+    "phrase": 53
+  },
+  {
+    "i": 605,
+    "word": "more",
+    "start": 226.468,
+    "end": 226.668,
+    "conf": 0.998,
+    "phrase": 53
+  },
+  {
+    "i": 606,
+    "word": "the",
+    "start": 226.668,
+    "end": 226.828,
+    "conf": 0.988,
+    "phrase": 53
+  },
+  {
+    "i": 607,
+    "word": "subscription",
+    "start": 226.828,
+    "end": 227.288,
+    "conf": 0.99,
+    "phrase": 53
+  },
+  {
+    "i": 608,
+    "word": "is",
+    "start": 227.288,
+    "end": 227.648,
+    "conf": 0.998,
+    "phrase": 53
+  },
+  {
+    "i": 609,
+    "word": "worth.",
+    "start": 227.648,
+    "end": 227.908,
+    "conf": 0.999,
+    "phrase": 53
+  },
+  {
+    "i": 610,
+    "word": "The",
+    "start": 228.51,
+    "end": 228.649,
+    "conf": 0.715,
+    "phrase": 54
+  },
+  {
+    "i": 611,
+    "word": "shop",
+    "start": 228.649,
+    "end": 228.889,
+    "conf": 0.946,
+    "phrase": 54
+  },
+  {
+    "i": 612,
+    "word": "and",
+    "start": 228.889,
+    "end": 229.049,
+    "conf": 0.898,
+    "phrase": 54
+  },
+  {
+    "i": 613,
+    "word": "the",
+    "start": 229.049,
+    "end": 229.169,
+    "conf": 0.993,
+    "phrase": 54
+  },
+  {
+    "i": 614,
+    "word": "card",
+    "start": 229.169,
+    "end": 229.57,
+    "conf": 0.972,
+    "phrase": 54
+  },
+  {
+    "i": 615,
+    "word": "aren't",
+    "start": 229.57,
+    "end": 230.109,
+    "conf": 0.986,
+    "phrase": 54
+  },
+  {
+    "i": 616,
+    "word": "two",
+    "start": 230.109,
+    "end": 230.29,
+    "conf": 0.979,
+    "phrase": 54
+  },
+  {
+    "i": 617,
+    "word": "businesses.",
+    "start": 230.29,
+    "end": 230.669,
+    "conf": 0.99,
+    "phrase": 54
+  },
+  {
+    "i": 618,
+    "word": "They're",
+    "start": 231.405,
+    "end": 231.685,
+    "conf": 0.648,
+    "phrase": 55
+  },
+  {
+    "i": 619,
+    "word": "one",
+    "start": 231.685,
+    "end": 231.885,
+    "conf": 0.992,
+    "phrase": 55
+  },
+  {
+    "i": 620,
+    "word": "machine,",
+    "start": 231.885,
+    "end": 232.365,
+    "conf": 0.996,
+    "phrase": 55
+  },
+  {
+    "i": 621,
+    "word": "and",
+    "start": 232.845,
+    "end": 232.925,
+    "conf": 0.994,
+    "phrase": 55
+  },
+  {
+    "i": 622,
+    "word": "each",
+    "start": 232.925,
+    "end": 233.145,
+    "conf": 0.998,
+    "phrase": 55
+  },
+  {
+    "i": 623,
+    "word": "half",
+    "start": 233.145,
+    "end": 233.425,
+    "conf": 0.994,
+    "phrase": 55
+  },
+  {
+    "i": 624,
+    "word": "feeds",
+    "start": 233.425,
+    "end": 233.745,
+    "conf": 0.975,
+    "phrase": 55
+  },
+  {
+    "i": 625,
+    "word": "the",
+    "start": 233.745,
+    "end": 234.045,
+    "conf": 0.998,
+    "phrase": 55
+  },
+  {
+    "i": 626,
+    "word": "other.",
+    "start": 234.045,
+    "end": 234.265,
+    "conf": 0.999,
+    "phrase": 55
+  },
+  {
+    "i": 627,
+    "word": "Costco",
+    "start": 234.755,
+    "end": 235.155,
+    "conf": 0.615,
+    "phrase": 56
+  },
+  {
+    "i": 628,
+    "word": "says",
+    "start": 235.155,
+    "end": 235.575,
+    "conf": 0.993,
+    "phrase": 56
+  },
+  {
+    "i": 629,
+    "word": "it",
+    "start": 235.575,
+    "end": 235.755,
+    "conf": 0.994,
+    "phrase": 56
+  },
+  {
+    "i": 630,
+    "word": "plainly",
+    "start": 235.755,
+    "end": 236.115,
+    "conf": 0.989,
+    "phrase": 56
+  },
+  {
+    "i": 631,
+    "word": "in",
+    "start": 236.115,
+    "end": 236.435,
+    "conf": 0.992,
+    "phrase": 56
+  },
+  {
+    "i": 632,
+    "word": "its",
+    "start": 236.435,
+    "end": 236.575,
+    "conf": 0.981,
+    "phrase": 56
+  },
+  {
+    "i": 633,
+    "word": "own",
+    "start": 236.575,
+    "end": 236.815,
+    "conf": 0.997,
+    "phrase": 56
+  },
+  {
+    "i": 634,
+    "word": "report:",
+    "start": 236.815,
+    "end": 237.295,
+    "conf": 0.996,
+    "phrase": 56
+  },
+  {
+    "i": 635,
+    "word": "the",
+    "start": 237.955,
+    "end": 238.055,
+    "conf": 0.99,
+    "phrase": 56
+  },
+  {
+    "i": 636,
+    "word": "membership",
+    "start": 238.055,
+    "end": 238.495,
+    "conf": 0.981,
+    "phrase": 56
+  },
+  {
+    "i": 637,
+    "word": "format",
+    "start": 238.495,
+    "end": 239.015,
+    "conf": 0.993,
+    "phrase": 56
+  },
+  {
+    "i": 638,
+    "word": "is",
+    "start": 239.015,
+    "end": 239.275,
+    "conf": 0.997,
+    "phrase": 56
+  },
+  {
+    "i": 639,
+    "word": "integral",
+    "start": 239.275,
+    "end": 239.715,
+    "conf": 0.999,
+    "phrase": 56
+  },
+  {
+    "i": 640,
+    "word": "to",
+    "start": 239.715,
+    "end": 240.035,
+    "conf": 0.999,
+    "phrase": 56
+  },
+  {
+    "i": 641,
+    "word": "its",
+    "start": 240.035,
+    "end": 240.195,
+    "conf": 0.994,
+    "phrase": 56
+  },
+  {
+    "i": 642,
+    "word": "business",
+    "start": 240.195,
+    "end": 240.695,
+    "conf": 0.994,
+    "phrase": 56
+  },
+  {
+    "i": 643,
+    "word": "and",
+    "start": 240.695,
+    "end": 241.095,
+    "conf": 0.995,
+    "phrase": 56
+  },
+  {
+    "i": 644,
+    "word": "profitability.",
+    "start": 241.095,
+    "end": 241.575,
+    "conf": 0.999,
+    "phrase": 56
+  },
+  {
+    "i": 645,
+    "word": "But",
+    "start": 242.791,
+    "end": 242.911,
+    "conf": 0.471,
+    "phrase": 57
+  },
+  {
+    "i": 646,
+    "word": "a",
+    "start": 242.911,
+    "end": 243.011,
+    "conf": 0.986,
+    "phrase": 57
+  },
+  {
+    "i": 647,
+    "word": "fee",
+    "start": 243.011,
+    "end": 243.271,
+    "conf": 0.997,
+    "phrase": 57
+  },
+  {
+    "i": 648,
+    "word": "only",
+    "start": 243.271,
+    "end": 243.631,
+    "conf": 0.994,
+    "phrase": 57
+  },
+  {
+    "i": 649,
+    "word": "works",
+    "start": 243.631,
+    "end": 243.971,
+    "conf": 0.999,
+    "phrase": 57
+  },
+  {
+    "i": 650,
+    "word": "if",
+    "start": 243.971,
+    "end": 244.211,
+    "conf": 0.994,
+    "phrase": 57
+  },
+  {
+    "i": 651,
+    "word": "people",
+    "start": 244.211,
+    "end": 244.511,
+    "conf": 0.997,
+    "phrase": 57
+  },
+  {
+    "i": 652,
+    "word": "keep",
+    "start": 244.511,
+    "end": 244.831,
+    "conf": 0.996,
+    "phrase": 57
+  },
+  {
+    "i": 653,
+    "word": "paying",
+    "start": 244.831,
+    "end": 245.151,
+    "conf": 0.998,
+    "phrase": 57
+  },
+  {
+    "i": 654,
+    "word": "it.",
+    "start": 245.151,
+    "end": 245.431,
+    "conf": 0.995,
+    "phrase": 57
+  },
+  {
+    "i": 655,
+    "word": "So",
+    "start": 245.801,
+    "end": 246.001,
+    "conf": 0.909,
+    "phrase": 58
+  },
+  {
+    "i": 656,
+    "word": "here's",
+    "start": 246.001,
+    "end": 246.341,
+    "conf": 0.923,
+    "phrase": 58
+  },
+  {
+    "i": 657,
+    "word": "the",
+    "start": 246.341,
+    "end": 246.481,
+    "conf": 0.997,
+    "phrase": 58
+  },
+  {
+    "i": 658,
+    "word": "loop",
+    "start": 246.481,
+    "end": 246.741,
+    "conf": 0.981,
+    "phrase": 58
+  },
+  {
+    "i": 659,
+    "word": "that",
+    "start": 246.741,
+    "end": 247.081,
+    "conf": 0.968,
+    "phrase": 58
+  },
+  {
+    "i": 660,
+    "word": "holds",
+    "start": 247.081,
+    "end": 247.381,
+    "conf": 0.994,
+    "phrase": 58
+  },
+  {
+    "i": 661,
+    "word": "the",
+    "start": 247.381,
+    "end": 247.581,
+    "conf": 0.994,
+    "phrase": 58
+  },
+  {
+    "i": 662,
+    "word": "whole",
+    "start": 247.581,
+    "end": 247.801,
+    "conf": 0.999,
+    "phrase": 58
+  },
+  {
+    "i": 663,
+    "word": "thing",
+    "start": 247.801,
+    "end": 248.061,
+    "conf": 0.997,
+    "phrase": 58
+  },
+  {
+    "i": 664,
+    "word": "together.",
+    "start": 248.061,
+    "end": 248.401,
+    "conf": 0.999,
+    "phrase": 58
+  },
+  {
+    "i": 665,
+    "word": "Low",
+    "start": 248.982,
+    "end": 249.242,
+    "conf": 0.548,
+    "phrase": 59
+  },
+  {
+    "i": 666,
+    "word": "prices",
+    "start": 249.242,
+    "end": 249.782,
+    "conf": 0.983,
+    "phrase": 59
+  },
+  {
+    "i": 667,
+    "word": "make",
+    "start": 249.782,
+    "end": 250.122,
+    "conf": 0.993,
+    "phrase": 59
+  },
+  {
+    "i": 668,
+    "word": "the",
+    "start": 250.122,
+    "end": 250.302,
+    "conf": 0.997,
+    "phrase": 59
+  },
+  {
+    "i": 669,
+    "word": "membership",
+    "start": 250.302,
+    "end": 250.682,
+    "conf": 0.995,
+    "phrase": 59
+  },
+  {
+    "i": 670,
+    "word": "feel",
+    "start": 250.682,
+    "end": 251.062,
+    "conf": 0.997,
+    "phrase": 59
+  },
+  {
+    "i": 671,
+    "word": "worth",
+    "start": 251.062,
+    "end": 251.302,
+    "conf": 0.998,
+    "phrase": 59
+  },
+  {
+    "i": 672,
+    "word": "it.",
+    "start": 251.302,
+    "end": 251.522,
+    "conf": 0.998,
+    "phrase": 59
+  },
+  {
+    "i": 673,
+    "word": "People",
+    "start": 251.898,
+    "end": 252.198,
+    "conf": 0.588,
+    "phrase": 60
+  },
+  {
+    "i": 674,
+    "word": "who",
+    "start": 252.198,
+    "end": 252.358,
+    "conf": 0.983,
+    "phrase": 60
+  },
+  {
+    "i": 675,
+    "word": "feel",
+    "start": 252.358,
+    "end": 252.558,
+    "conf": 0.997,
+    "phrase": 60
+  },
+  {
+    "i": 676,
+    "word": "it's",
+    "start": 252.558,
+    "end": 252.858,
+    "conf": 0.981,
+    "phrase": 60
+  },
+  {
+    "i": 677,
+    "word": "worth",
+    "start": 252.858,
+    "end": 253.018,
+    "conf": 0.998,
+    "phrase": 60
+  },
+  {
+    "i": 678,
+    "word": "it",
+    "start": 253.018,
+    "end": 253.258,
+    "conf": 0.997,
+    "phrase": 60
+  },
+  {
+    "i": 679,
+    "word": "renew.",
+    "start": 253.258,
+    "end": 253.478,
+    "conf": 0.978,
+    "phrase": 60
+  },
+  {
+    "i": 680,
+    "word": "And",
+    "start": 254.144,
+    "end": 254.384,
+    "conf": 0.751,
+    "phrase": 61
+  },
+  {
+    "i": 681,
+    "word": "renewals",
+    "start": 254.384,
+    "end": 255.024,
+    "conf": 0.97,
+    "phrase": 61
+  },
+  {
+    "i": 682,
+    "word": "are",
+    "start": 255.024,
+    "end": 255.244,
+    "conf": 0.993,
+    "phrase": 61
+  },
+  {
+    "i": 683,
+    "word": "the",
+    "start": 255.244,
+    "end": 255.364,
+    "conf": 0.997,
+    "phrase": 61
+  },
+  {
+    "i": 684,
+    "word": "profit.",
+    "start": 255.364,
+    "end": 255.624,
+    "conf": 0.524,
+    "phrase": 61
+  },
+  {
+    "i": 685,
+    "word": "How",
+    "start": 256.235,
+    "end": 256.415,
+    "conf": 0.781,
+    "phrase": 62
+  },
+  {
+    "i": 686,
+    "word": "many",
+    "start": 256.415,
+    "end": 256.595,
+    "conf": 0.998,
+    "phrase": 62
+  },
+  {
+    "i": 687,
+    "word": "actually",
+    "start": 256.595,
+    "end": 257.135,
+    "conf": 0.997,
+    "phrase": 62
+  },
+  {
+    "i": 688,
+    "word": "renew?",
+    "start": 257.135,
+    "end": 257.475,
+    "conf": 0.992,
+    "phrase": 62
+  },
+  {
+    "i": 689,
+    "word": "In",
+    "start": 258.026,
+    "end": 258.166,
+    "conf": 0.882,
+    "phrase": 63
+  },
+  {
+    "i": 690,
+    "word": "the",
+    "start": 258.166,
+    "end": 258.306,
+    "conf": 0.998,
+    "phrase": 63
+  },
+  {
+    "i": 691,
+    "word": "US",
+    "start": 258.306,
+    "end": 258.766,
+    "conf": 0.0,
+    "phrase": 63
+  },
+  {
+    "i": 692,
+    "word": "and",
+    "start": 258.766,
+    "end": 259.006,
+    "conf": 0.989,
+    "phrase": 63
+  },
+  {
+    "i": 693,
+    "word": "Canada,",
+    "start": 259.006,
+    "end": 259.466,
+    "conf": 0.996,
+    "phrase": 63
+  },
+  {
+    "i": 694,
+    "word": "the",
+    "start": 260.046,
+    "end": 260.086,
+    "conf": 0.992,
+    "phrase": 63
+  },
+  {
+    "i": 695,
+    "word": "renewal",
+    "start": 260.086,
+    "end": 260.406,
+    "conf": 0.992,
+    "phrase": 63
+  },
+  {
+    "i": 696,
+    "word": "rate",
+    "start": 260.406,
+    "end": 260.746,
+    "conf": 0.996,
+    "phrase": 63
+  },
+  {
+    "i": 697,
+    "word": "was",
+    "start": 260.746,
+    "end": 260.986,
+    "conf": 0.998,
+    "phrase": 63
+  },
+  {
+    "i": 698,
+    "word": "ninety-two",
+    "start": 260.986,
+    "end": 261.636,
+    "conf": 0.0,
+    "phrase": 63
+  },
+  {
+    "i": 699,
+    "word": "point",
+    "start": 261.636,
+    "end": 261.961,
+    "conf": 0.0,
+    "phrase": 63
+  },
+  {
+    "i": 700,
+    "word": "three",
+    "start": 261.961,
+    "end": 262.286,
+    "conf": 0.0,
+    "phrase": 63
+  },
+  {
+    "i": 701,
+    "word": "percent.",
+    "start": 262.286,
+    "end": 262.806,
+    "conf": 0.0,
+    "phrase": 63
+  },
+  {
+    "i": 702,
+    "word": "Worldwide,",
+    "start": 263.331,
+    "end": 263.871,
+    "conf": 0.68,
+    "phrase": 64
+  },
+  {
+    "i": 703,
+    "word": "it",
+    "start": 264.191,
+    "end": 264.211,
+    "conf": 0.992,
+    "phrase": 64
+  },
+  {
+    "i": 704,
+    "word": "was",
+    "start": 264.211,
+    "end": 264.331,
+    "conf": 0.998,
+    "phrase": 64
+  },
+  {
+    "i": 705,
+    "word": "nearly",
+    "start": 264.331,
+    "end": 264.651,
+    "conf": 0.998,
+    "phrase": 64
+  },
+  {
+    "i": 706,
+    "word": "ninety",
+    "start": 264.651,
+    "end": 265.091,
+    "conf": 0.0,
+    "phrase": 64
+  },
+  {
+    "i": 707,
+    "word": "percent.",
+    "start": 265.091,
+    "end": 265.391,
+    "conf": 0.274,
+    "phrase": 64
+  },
+  {
+    "i": 708,
+    "word": "Think",
+    "start": 266.046,
+    "end": 266.266,
+    "conf": 0.742,
+    "phrase": 65
+  },
+  {
+    "i": 709,
+    "word": "about",
+    "start": 266.266,
+    "end": 266.506,
+    "conf": 0.995,
+    "phrase": 65
+  },
+  {
+    "i": 710,
+    "word": "what",
+    "start": 266.506,
+    "end": 266.746,
+    "conf": 0.992,
+    "phrase": 65
+  },
+  {
+    "i": 711,
+    "word": "that",
+    "start": 266.746,
+    "end": 266.966,
+    "conf": 0.99,
+    "phrase": 65
+  },
+  {
+    "i": 712,
+    "word": "means.",
+    "start": 266.966,
+    "end": 267.286,
+    "conf": 0.998,
+    "phrase": 65
+  },
+  {
+    "i": 713,
+    "word": "Roughly",
+    "start": 267.918,
+    "end": 268.318,
+    "conf": 0.815,
+    "phrase": 66
+  },
+  {
+    "i": 714,
+    "word": "nine",
+    "start": 268.318,
+    "end": 268.638,
+    "conf": 0.0,
+    "phrase": 66
+  },
+  {
+    "i": 715,
+    "word": "out",
+    "start": 268.638,
+    "end": 268.858,
+    "conf": 0.973,
+    "phrase": 66
+  },
+  {
+    "i": 716,
+    "word": "of",
+    "start": 268.858,
+    "end": 268.998,
+    "conf": 0.987,
+    "phrase": 66
+  },
+  {
+    "i": 717,
+    "word": "ten",
+    "start": 268.998,
+    "end": 269.198,
+    "conf": 0.0,
+    "phrase": 66
+  },
+  {
+    "i": 718,
+    "word": "members",
+    "start": 269.198,
+    "end": 269.558,
+    "conf": 0.996,
+    "phrase": 66
+  },
+  {
+    "i": 719,
+    "word": "decide,",
+    "start": 269.558,
+    "end": 270.118,
+    "conf": 0.993,
+    "phrase": 66
+  },
+  {
+    "i": 720,
+    "word": "every",
+    "start": 270.518,
+    "end": 270.898,
+    "conf": 0.991,
+    "phrase": 66
+  },
+  {
+    "i": 721,
+    "word": "single",
+    "start": 270.898,
+    "end": 271.278,
+    "conf": 0.995,
+    "phrase": 66
+  },
+  {
+    "i": 722,
+    "word": "year,",
+    "start": 271.278,
+    "end": 271.638,
+    "conf": 0.997,
+    "phrase": 66
+  },
+  {
+    "i": 723,
+    "word": "to",
+    "start": 271.638,
+    "end": 271.858,
+    "conf": 0.326,
+    "phrase": 66
+  },
+  {
+    "i": 724,
+    "word": "pay",
+    "start": 271.858,
+    "end": 272.058,
+    "conf": 0.997,
+    "phrase": 66
+  },
+  {
+    "i": 725,
+    "word": "again.",
+    "start": 272.058,
+    "end": 272.398,
+    "conf": 0.995,
+    "phrase": 66
+  },
+  {
+    "i": 726,
+    "word": "If",
+    "start": 272.889,
+    "end": 273.069,
+    "conf": 0.953,
+    "phrase": 67
+  },
+  {
+    "i": 727,
+    "word": "Costco",
+    "start": 273.069,
+    "end": 273.489,
+    "conf": 0.99,
+    "phrase": 67
+  },
+  {
+    "i": 728,
+    "word": "raised",
+    "start": 273.489,
+    "end": 274.069,
+    "conf": 0.985,
+    "phrase": 67
+  },
+  {
+    "i": 729,
+    "word": "its",
+    "start": 274.069,
+    "end": 274.249,
+    "conf": 0.982,
+    "phrase": 67
+  },
+  {
+    "i": 730,
+    "word": "prices",
+    "start": 274.249,
+    "end": 274.689,
+    "conf": 0.993,
+    "phrase": 67
+  },
+  {
+    "i": 731,
+    "word": "on",
+    "start": 274.689,
+    "end": 275.009,
+    "conf": 0.999,
+    "phrase": 67
+  },
+  {
+    "i": 732,
+    "word": "goods",
+    "start": 275.009,
+    "end": 275.309,
+    "conf": 0.996,
+    "phrase": 67
+  },
+  {
+    "i": 733,
+    "word": "to",
+    "start": 275.309,
+    "end": 275.569,
+    "conf": 0.998,
+    "phrase": 67
+  },
+  {
+    "i": 734,
+    "word": "squeeze",
+    "start": 275.569,
+    "end": 275.889,
+    "conf": 0.995,
+    "phrase": 67
+  },
+  {
+    "i": 735,
+    "word": "out",
+    "start": 275.889,
+    "end": 276.189,
+    "conf": 0.995,
+    "phrase": 67
+  },
+  {
+    "i": 736,
+    "word": "more",
+    "start": 276.189,
+    "end": 276.429,
+    "conf": 0.999,
+    "phrase": 67
+  },
+  {
+    "i": 737,
+    "word": "profit,",
+    "start": 276.429,
+    "end": 276.929,
+    "conf": 0.999,
+    "phrase": 67
+  },
+  {
+    "i": 738,
+    "word": "the",
+    "start": 277.449,
+    "end": 277.509,
+    "conf": 0.995,
+    "phrase": 67
+  },
+  {
+    "i": 739,
+    "word": "deal",
+    "start": 277.509,
+    "end": 277.789,
+    "conf": 0.999,
+    "phrase": 67
+  },
+  {
+    "i": 740,
+    "word": "would",
+    "start": 277.789,
+    "end": 278.009,
+    "conf": 0.998,
+    "phrase": 67
+  },
+  {
+    "i": 741,
+    "word": "feel",
+    "start": 278.009,
+    "end": 278.309,
+    "conf": 0.999,
+    "phrase": 67
+  },
+  {
+    "i": 742,
+    "word": "worse.",
+    "start": 278.309,
+    "end": 278.609,
+    "conf": 0.997,
+    "phrase": 67
+  },
+  {
+    "i": 743,
+    "word": "Renewals",
+    "start": 279.269,
+    "end": 279.909,
+    "conf": 0.727,
+    "phrase": 68
+  },
+  {
+    "i": 744,
+    "word": "could",
+    "start": 279.909,
+    "end": 280.069,
+    "conf": 0.984,
+    "phrase": 68
+  },
+  {
+    "i": 745,
+    "word": "slip.",
+    "start": 280.069,
+    "end": 280.409,
+    "conf": 0.995,
+    "phrase": 68
+  },
+  {
+    "i": 746,
+    "word": "And",
+    "start": 280.95,
+    "end": 281.13,
+    "conf": 0.813,
+    "phrase": 69
+  },
+  {
+    "i": 747,
+    "word": "the",
+    "start": 281.13,
+    "end": 281.23,
+    "conf": 0.996,
+    "phrase": 69
+  },
+  {
+    "i": 748,
+    "word": "most",
+    "start": 281.23,
+    "end": 281.47,
+    "conf": 0.998,
+    "phrase": 69
+  },
+  {
+    "i": 749,
+    "word": "valuable",
+    "start": 281.47,
+    "end": 282.15,
+    "conf": 0.995,
+    "phrase": 69
+  },
+  {
+    "i": 750,
+    "word": "part",
+    "start": 282.15,
+    "end": 282.65,
+    "conf": 0.999,
+    "phrase": 69
+  },
+  {
+    "i": 751,
+    "word": "of",
+    "start": 282.65,
+    "end": 282.81,
+    "conf": 0.998,
+    "phrase": 69
+  },
+  {
+    "i": 752,
+    "word": "the",
+    "start": 282.81,
+    "end": 282.95,
+    "conf": 0.997,
+    "phrase": 69
+  },
+  {
+    "i": 753,
+    "word": "business",
+    "start": 282.95,
+    "end": 283.31,
+    "conf": 0.998,
+    "phrase": 69
+  },
+  {
+    "i": 754,
+    "word": "would",
+    "start": 283.31,
+    "end": 283.63,
+    "conf": 0.99,
+    "phrase": 69
+  },
+  {
+    "i": 755,
+    "word": "start",
+    "start": 283.63,
+    "end": 283.93,
+    "conf": 0.999,
+    "phrase": 69
+  },
+  {
+    "i": 756,
+    "word": "to",
+    "start": 283.93,
+    "end": 284.11,
+    "conf": 0.999,
+    "phrase": 69
+  },
+  {
+    "i": 757,
+    "word": "leak.",
+    "start": 284.11,
+    "end": 284.33,
+    "conf": 0.991,
+    "phrase": 69
+  },
+  {
+    "i": 758,
+    "word": "So",
+    "start": 284.872,
+    "end": 285.052,
+    "conf": 0.53,
+    "phrase": 70
+  },
+  {
+    "i": 759,
+    "word": "Costco",
+    "start": 285.052,
+    "end": 285.432,
+    "conf": 0.994,
+    "phrase": 70
+  },
+  {
+    "i": 760,
+    "word": "keeps",
+    "start": 285.432,
+    "end": 285.812,
+    "conf": 0.997,
+    "phrase": 70
+  },
+  {
+    "i": 761,
+    "word": "prices",
+    "start": 285.812,
+    "end": 286.272,
+    "conf": 0.999,
+    "phrase": 70
+  },
+  {
+    "i": 762,
+    "word": "low",
+    "start": 286.272,
+    "end": 286.592,
+    "conf": 0.998,
+    "phrase": 70
+  },
+  {
+    "i": 763,
+    "word": "on",
+    "start": 286.592,
+    "end": 286.832,
+    "conf": 0.994,
+    "phrase": 70
+  },
+  {
+    "i": 764,
+    "word": "purpose.",
+    "start": 286.832,
+    "end": 287.112,
+    "conf": 0.985,
+    "phrase": 70
+  },
+  {
+    "i": 765,
+    "word": "The",
+    "start": 287.811,
+    "end": 287.951,
+    "conf": 0.467,
+    "phrase": 71
+  },
+  {
+    "i": 766,
+    "word": "cheap",
+    "start": 287.951,
+    "end": 288.231,
+    "conf": 0.977,
+    "phrase": 71
+  },
+  {
+    "i": 767,
+    "word": "prices",
+    "start": 288.231,
+    "end": 288.791,
+    "conf": 0.996,
+    "phrase": 71
+  },
+  {
+    "i": 768,
+    "word": "aren't",
+    "start": 288.791,
+    "end": 289.271,
+    "conf": 0.988,
+    "phrase": 71
+  },
+  {
+    "i": 769,
+    "word": "the",
+    "start": 289.271,
+    "end": 289.391,
+    "conf": 0.998,
+    "phrase": 71
+  },
+  {
+    "i": 770,
+    "word": "cost",
+    "start": 289.391,
+    "end": 289.651,
+    "conf": 0.996,
+    "phrase": 71
+  },
+  {
+    "i": 771,
+    "word": "of",
+    "start": 289.651,
+    "end": 289.851,
+    "conf": 0.997,
+    "phrase": 71
+  },
+  {
+    "i": 772,
+    "word": "the",
+    "start": 289.851,
+    "end": 289.951,
+    "conf": 0.993,
+    "phrase": 71
+  },
+  {
+    "i": 773,
+    "word": "business.",
+    "start": 289.951,
+    "end": 290.271,
+    "conf": 0.999,
+    "phrase": 71
+  },
+  {
+    "i": 774,
+    "word": "They're",
+    "start": 290.864,
+    "end": 291.124,
+    "conf": 0.0,
+    "phrase": 72
+  },
+  {
+    "i": 775,
+    "word": "the",
+    "start": 291.124,
+    "end": 291.284,
+    "conf": 0.985,
+    "phrase": 72
+  },
+  {
+    "i": 776,
+    "word": "marketing",
+    "start": 291.284,
+    "end": 291.704,
+    "conf": 0.971,
+    "phrase": 72
+  },
+  {
+    "i": 777,
+    "word": "for",
+    "start": 291.704,
+    "end": 292.064,
+    "conf": 0.995,
+    "phrase": 72
+  },
+  {
+    "i": 778,
+    "word": "the",
+    "start": 292.064,
+    "end": 292.204,
+    "conf": 0.996,
+    "phrase": 72
+  },
+  {
+    "i": 779,
+    "word": "membership.",
+    "start": 292.204,
+    "end": 292.544,
+    "conf": 0.992,
+    "phrase": 72
+  },
+  {
+    "i": 780,
+    "word": "There's",
+    "start": 293.282,
+    "end": 293.542,
+    "conf": 0.731,
+    "phrase": 73
+  },
+  {
+    "i": 781,
+    "word": "one",
+    "start": 293.542,
+    "end": 293.702,
+    "conf": 0.994,
+    "phrase": 73
+  },
+  {
+    "i": 782,
+    "word": "more",
+    "start": 293.702,
+    "end": 293.982,
+    "conf": 0.999,
+    "phrase": 73
+  },
+  {
+    "i": 783,
+    "word": "quiet",
+    "start": 293.982,
+    "end": 294.362,
+    "conf": 0.987,
+    "phrase": 73
+  },
+  {
+    "i": 784,
+    "word": "advantage.",
+    "start": 294.362,
+    "end": 294.902,
+    "conf": 0.998,
+    "phrase": 73
+  },
+  {
+    "i": 785,
+    "word": "Members",
+    "start": 295.557,
+    "end": 295.857,
+    "conf": 0.51,
+    "phrase": 74
+  },
+  {
+    "i": 786,
+    "word": "pay",
+    "start": 295.857,
+    "end": 296.117,
+    "conf": 0.991,
+    "phrase": 74
+  },
+  {
+    "i": 787,
+    "word": "for",
+    "start": 296.117,
+    "end": 296.317,
+    "conf": 0.997,
+    "phrase": 74
+  },
+  {
+    "i": 788,
+    "word": "the",
+    "start": 296.317,
+    "end": 296.457,
+    "conf": 0.996,
+    "phrase": 74
+  },
+  {
+    "i": 789,
+    "word": "whole",
+    "start": 296.457,
+    "end": 296.737,
+    "conf": 0.994,
+    "phrase": 74
+  },
+  {
+    "i": 790,
+    "word": "year",
+    "start": 296.737,
+    "end": 296.997,
+    "conf": 0.998,
+    "phrase": 74
+  },
+  {
+    "i": 791,
+    "word": "up",
+    "start": 296.997,
+    "end": 297.217,
+    "conf": 0.652,
+    "phrase": 74
+  },
+  {
+    "i": 792,
+    "word": "front.",
+    "start": 297.217,
+    "end": 297.457,
+    "conf": 0.979,
+    "phrase": 74
+  },
+  {
+    "i": 793,
+    "word": "But",
+    "start": 298.012,
+    "end": 298.172,
+    "conf": 0.619,
+    "phrase": 75
+  },
+  {
+    "i": 794,
+    "word": "Costco",
+    "start": 298.172,
+    "end": 298.452,
+    "conf": 0.982,
+    "phrase": 75
+  },
+  {
+    "i": 795,
+    "word": "counts",
+    "start": 298.452,
+    "end": 298.872,
+    "conf": 0.984,
+    "phrase": 75
+  },
+  {
+    "i": 796,
+    "word": "that",
+    "start": 298.872,
+    "end": 299.112,
+    "conf": 0.978,
+    "phrase": 75
+  },
+  {
+    "i": 797,
+    "word": "fee",
+    "start": 299.112,
+    "end": 299.332,
+    "conf": 0.992,
+    "phrase": 75
+  },
+  {
+    "i": 798,
+    "word": "as",
+    "start": 299.332,
+    "end": 299.532,
+    "conf": 0.978,
+    "phrase": 75
+  },
+  {
+    "i": 799,
+    "word": "income",
+    "start": 299.532,
+    "end": 299.872,
+    "conf": 0.99,
+    "phrase": 75
+  },
+  {
+    "i": 800,
+    "word": "slowly,",
+    "start": 299.872,
+    "end": 300.512,
+    "conf": 0.937,
+    "phrase": 75
+  },
+  {
+    "i": 801,
+    "word": "evenly",
+    "start": 300.992,
+    "end": 301.252,
+    "conf": 0.985,
+    "phrase": 75
+  },
+  {
+    "i": 802,
+    "word": "across",
+    "start": 301.252,
+    "end": 301.712,
+    "conf": 0.955,
+    "phrase": 75
+  },
+  {
+    "i": 803,
+    "word": "the",
+    "start": 301.712,
+    "end": 301.952,
+    "conf": 0.998,
+    "phrase": 75
+  },
+  {
+    "i": 804,
+    "word": "year.",
+    "start": 301.952,
+    "end": 302.232,
+    "conf": 0.997,
+    "phrase": 75
+  },
+  {
+    "i": 805,
+    "word": "At",
+    "start": 302.699,
+    "end": 302.839,
+    "conf": 0.92,
+    "phrase": 76
+  },
+  {
+    "i": 806,
+    "word": "the",
+    "start": 302.839,
+    "end": 302.979,
+    "conf": 0.999,
+    "phrase": 76
+  },
+  {
+    "i": 807,
+    "word": "end",
+    "start": 302.979,
+    "end": 303.179,
+    "conf": 1.0,
+    "phrase": 76
+  },
+  {
+    "i": 808,
+    "word": "of",
+    "start": 303.179,
+    "end": 303.319,
+    "conf": 0.997,
+    "phrase": 76
+  },
+  {
+    "i": 809,
+    "word": "its",
+    "start": 303.319,
+    "end": 303.439,
+    "conf": 0.985,
+    "phrase": 76
+  },
+  {
+    "i": 810,
+    "word": "twenty",
+    "start": 303.439,
+    "end": 303.776,
+    "conf": 0.0,
+    "phrase": 76
+  },
+  {
+    "i": 811,
+    "word": "twenty-six",
+    "start": 303.776,
+    "end": 304.339,
+    "conf": 0.0,
+    "phrase": 76
+  },
+  {
+    "i": 812,
+    "word": "fiscal",
+    "start": 304.339,
+    "end": 304.639,
+    "conf": 0.99,
+    "phrase": 76
+  },
+  {
+    "i": 813,
+    "word": "year,",
+    "start": 304.639,
+    "end": 305.319,
+    "conf": 0.999,
+    "phrase": 76
+  },
+  {
+    "i": 814,
+    "word": "Costco",
+    "start": 305.839,
+    "end": 306.039,
+    "conf": 0.827,
+    "phrase": 76
+  },
+  {
+    "i": 815,
+    "word": "was",
+    "start": 306.039,
+    "end": 306.379,
+    "conf": 0.998,
+    "phrase": 76
+  },
+  {
+    "i": 816,
+    "word": "holding",
+    "start": 306.379,
+    "end": 306.799,
+    "conf": 0.998,
+    "phrase": 76
+  },
+  {
+    "i": 817,
+    "word": "about",
+    "start": 306.799,
+    "end": 307.159,
+    "conf": 0.997,
+    "phrase": 76
+  },
+  {
+    "i": 818,
+    "word": "three",
+    "start": 307.159,
+    "end": 307.659,
+    "conf": 0.0,
+    "phrase": 76
+  },
+  {
+    "i": 819,
+    "word": "billion",
+    "start": 307.659,
+    "end": 308.119,
+    "conf": 0.989,
+    "phrase": 76
+  },
+  {
+    "i": 820,
+    "word": "dollars",
+    "start": 308.119,
+    "end": 308.119,
+    "conf": 0.0,
+    "phrase": 76
+  },
+  {
+    "i": 821,
+    "word": "of",
+    "start": 308.119,
+    "end": 308.779,
+    "conf": 0.961,
+    "phrase": 76
+  },
+  {
+    "i": 822,
+    "word": "fees",
+    "start": 308.779,
+    "end": 309.139,
+    "conf": 0.999,
+    "phrase": 76
+  },
+  {
+    "i": 823,
+    "word": "it",
+    "start": 309.139,
+    "end": 309.419,
+    "conf": 0.992,
+    "phrase": 76
+  },
+  {
+    "i": 824,
+    "word": "had",
+    "start": 309.419,
+    "end": 309.539,
+    "conf": 0.987,
+    "phrase": 76
+  },
+  {
+    "i": 825,
+    "word": "collected",
+    "start": 309.539,
+    "end": 310.059,
+    "conf": 1.0,
+    "phrase": 76
+  },
+  {
+    "i": 826,
+    "word": "but",
+    "start": 310.459,
+    "end": 310.679,
+    "conf": 0.999,
+    "phrase": 76
+  },
+  {
+    "i": 827,
+    "word": "not",
+    "start": 310.679,
+    "end": 310.919,
+    "conf": 0.998,
+    "phrase": 76
+  },
+  {
+    "i": 828,
+    "word": "yet",
+    "start": 310.919,
+    "end": 311.139,
+    "conf": 0.997,
+    "phrase": 76
+  },
+  {
+    "i": 829,
+    "word": "counted",
+    "start": 311.139,
+    "end": 311.639,
+    "conf": 0.997,
+    "phrase": 76
+  },
+  {
+    "i": 830,
+    "word": "as",
+    "start": 311.639,
+    "end": 311.879,
+    "conf": 0.997,
+    "phrase": 76
+  },
+  {
+    "i": 831,
+    "word": "earned.",
+    "start": 311.879,
+    "end": 312.179,
+    "conf": 0.996,
+    "phrase": 76
+  },
+  {
+    "i": 832,
+    "word": "And",
+    "start": 312.764,
+    "end": 312.884,
+    "conf": 0.852,
+    "phrase": 77
+  },
+  {
+    "i": 833,
+    "word": "it",
+    "start": 312.884,
+    "end": 312.984,
+    "conf": 0.985,
+    "phrase": 77
+  },
+  {
+    "i": 834,
+    "word": "goes",
+    "start": 312.984,
+    "end": 313.164,
+    "conf": 0.998,
+    "phrase": 77
+  },
+  {
+    "i": 835,
+    "word": "further",
+    "start": 313.164,
+    "end": 313.544,
+    "conf": 0.995,
+    "phrase": 77
+  },
+  {
+    "i": 836,
+    "word": "with",
+    "start": 313.544,
+    "end": 313.824,
+    "conf": 0.997,
+    "phrase": 77
+  },
+  {
+    "i": 837,
+    "word": "its",
+    "start": 313.824,
+    "end": 313.944,
+    "conf": 0.975,
+    "phrase": 77
+  },
+  {
+    "i": 838,
+    "word": "suppliers.",
+    "start": 313.944,
+    "end": 314.364,
+    "conf": 0.996,
+    "phrase": 77
+  },
+  {
+    "i": 839,
+    "word": "Costco",
+    "start": 315.125,
+    "end": 315.525,
+    "conf": 0.536,
+    "phrase": 78
+  },
+  {
+    "i": 840,
+    "word": "says",
+    "start": 315.525,
+    "end": 315.985,
+    "conf": 0.992,
+    "phrase": 78
+  },
+  {
+    "i": 841,
+    "word": "it",
+    "start": 315.985,
+    "end": 316.345,
+    "conf": 0.957,
+    "phrase": 78
+  },
+  {
+    "i": 842,
+    "word": "often",
+    "start": 316.345,
+    "end": 316.645,
+    "conf": 0.995,
+    "phrase": 78
+  },
+  {
+    "i": 843,
+    "word": "sells",
+    "start": 316.645,
+    "end": 317.025,
+    "conf": 0.998,
+    "phrase": 78
+  },
+  {
+    "i": 844,
+    "word": "goods",
+    "start": 317.025,
+    "end": 317.385,
+    "conf": 0.997,
+    "phrase": 78
+  },
+  {
+    "i": 845,
+    "word": "before",
+    "start": 317.385,
+    "end": 317.865,
+    "conf": 0.991,
+    "phrase": 78
+  },
+  {
+    "i": 846,
+    "word": "it",
+    "start": 317.865,
+    "end": 318.085,
+    "conf": 0.992,
+    "phrase": 78
+  },
+  {
+    "i": 847,
+    "word": "even",
+    "start": 318.085,
+    "end": 318.305,
+    "conf": 0.993,
+    "phrase": 78
+  },
+  {
+    "i": 848,
+    "word": "has",
+    "start": 318.305,
+    "end": 318.525,
+    "conf": 0.998,
+    "phrase": 78
+  },
+  {
+    "i": 849,
+    "word": "to",
+    "start": 318.525,
+    "end": 318.705,
+    "conf": 0.999,
+    "phrase": 78
+  },
+  {
+    "i": 850,
+    "word": "pay",
+    "start": 318.705,
+    "end": 318.905,
+    "conf": 0.999,
+    "phrase": 78
+  },
+  {
+    "i": 851,
+    "word": "for",
+    "start": 318.905,
+    "end": 319.165,
+    "conf": 0.993,
+    "phrase": 78
+  },
+  {
+    "i": 852,
+    "word": "them.",
+    "start": 319.165,
+    "end": 319.365,
+    "conf": 0.998,
+    "phrase": 78
+  },
+  {
+    "i": 853,
+    "word": "So",
+    "start": 319.802,
+    "end": 319.962,
+    "conf": 0.59,
+    "phrase": 79
+  },
+  {
+    "i": 854,
+    "word": "your",
+    "start": 319.962,
+    "end": 320.122,
+    "conf": 0.876,
+    "phrase": 79
+  },
+  {
+    "i": 855,
+    "word": "money",
+    "start": 320.122,
+    "end": 320.342,
+    "conf": 0.999,
+    "phrase": 79
+  },
+  {
+    "i": 856,
+    "word": "arrives",
+    "start": 320.342,
+    "end": 320.882,
+    "conf": 0.996,
+    "phrase": 79
+  },
+  {
+    "i": 857,
+    "word": "early,",
+    "start": 320.882,
+    "end": 321.322,
+    "conf": 0.999,
+    "phrase": 79
+  },
+  {
+    "i": 858,
+    "word": "and",
+    "start": 321.322,
+    "end": 321.882,
+    "conf": 0.519,
+    "phrase": 79
+  },
+  {
+    "i": 859,
+    "word": "Costco's",
+    "start": 321.882,
+    "end": 322.622,
+    "conf": 0.912,
+    "phrase": 79
+  },
+  {
+    "i": 860,
+    "word": "bills",
+    "start": 322.622,
+    "end": 322.842,
+    "conf": 0.991,
+    "phrase": 79
+  },
+  {
+    "i": 861,
+    "word": "arrive",
+    "start": 322.842,
+    "end": 323.282,
+    "conf": 0.99,
+    "phrase": 79
+  },
+  {
+    "i": 862,
+    "word": "late.",
+    "start": 323.282,
+    "end": 323.582,
+    "conf": 0.998,
+    "phrase": 79
+  },
+  {
+    "i": 863,
+    "word": "You",
+    "start": 324.564,
+    "end": 324.684,
+    "conf": 0.505,
+    "phrase": 80
+  },
+  {
+    "i": 864,
+    "word": "can",
+    "start": 324.684,
+    "end": 324.844,
+    "conf": 0.998,
+    "phrase": 80
+  },
+  {
+    "i": 865,
+    "word": "see",
+    "start": 324.844,
+    "end": 325.044,
+    "conf": 0.996,
+    "phrase": 80
+  },
+  {
+    "i": 866,
+    "word": "the",
+    "start": 325.044,
+    "end": 325.164,
+    "conf": 0.996,
+    "phrase": 80
+  },
+  {
+    "i": 867,
+    "word": "whole",
+    "start": 325.164,
+    "end": 325.384,
+    "conf": 0.997,
+    "phrase": 80
+  },
+  {
+    "i": 868,
+    "word": "strategy",
+    "start": 325.384,
+    "end": 325.984,
+    "conf": 0.994,
+    "phrase": 80
+  },
+  {
+    "i": 869,
+    "word": "in",
+    "start": 325.984,
+    "end": 326.464,
+    "conf": 0.976,
+    "phrase": 80
+  },
+  {
+    "i": 870,
+    "word": "one",
+    "start": 326.464,
+    "end": 326.744,
+    "conf": 0.99,
+    "phrase": 80
+  },
+  {
+    "i": 871,
+    "word": "famous",
+    "start": 326.744,
+    "end": 327.184,
+    "conf": 0.998,
+    "phrase": 80
+  },
+  {
+    "i": 872,
+    "word": "item.",
+    "start": 327.184,
+    "end": 327.624,
+    "conf": 0.997,
+    "phrase": 80
+  },
+  {
+    "i": 873,
+    "word": "The",
+    "start": 328.117,
+    "end": 328.237,
+    "conf": 0.658,
+    "phrase": 81
+  },
+  {
+    "i": 874,
+    "word": "food",
+    "start": 328.237,
+    "end": 328.477,
+    "conf": 0.782,
+    "phrase": 81
+  },
+  {
+    "i": 875,
+    "word": "court",
+    "start": 328.477,
+    "end": 328.757,
+    "conf": 0.983,
+    "phrase": 81
+  },
+  {
+    "i": 876,
+    "word": "hot",
+    "start": 328.757,
+    "end": 329.057,
+    "conf": 0.969,
+    "phrase": 81
+  },
+  {
+    "i": 877,
+    "word": "dog",
+    "start": 329.057,
+    "end": 329.477,
+    "conf": 0.972,
+    "phrase": 81
+  },
+  {
+    "i": 878,
+    "word": "and",
+    "start": 329.477,
+    "end": 329.657,
+    "conf": 0.778,
+    "phrase": 81
+  },
+  {
+    "i": 879,
+    "word": "soda.",
+    "start": 329.657,
+    "end": 329.917,
+    "conf": 0.996,
+    "phrase": 81
+  },
+  {
+    "i": 880,
+    "word": "It",
+    "start": 330.473,
+    "end": 330.593,
+    "conf": 0.755,
+    "phrase": 82
+  },
+  {
+    "i": 881,
+    "word": "has",
+    "start": 330.593,
+    "end": 330.713,
+    "conf": 0.989,
+    "phrase": 82
+  },
+  {
+    "i": 882,
+    "word": "cost",
+    "start": 330.713,
+    "end": 330.993,
+    "conf": 0.997,
+    "phrase": 82
+  },
+  {
+    "i": 883,
+    "word": "a",
+    "start": 330.993,
+    "end": 331.056,
+    "conf": 0.0,
+    "phrase": 82
+  },
+  {
+    "i": 884,
+    "word": "dollar",
+    "start": 331.056,
+    "end": 331.436,
+    "conf": 0.0,
+    "phrase": 82
+  },
+  {
+    "i": 885,
+    "word": "fifty",
+    "start": 331.436,
+    "end": 331.753,
+    "conf": 0.0,
+    "phrase": 82
+  },
+  {
+    "i": 886,
+    "word": "since",
+    "start": 331.753,
+    "end": 332.133,
+    "conf": 0.987,
+    "phrase": 82
+  },
+  {
+    "i": 887,
+    "word": "nineteen",
+    "start": 332.133,
+    "end": 332.581,
+    "conf": 0.0,
+    "phrase": 82
+  },
+  {
+    "i": 888,
+    "word": "eighty-five,",
+    "start": 332.581,
+    "end": 333.253,
+    "conf": 0.0,
+    "phrase": 82
+  },
+  {
+    "i": 889,
+    "word": "according",
+    "start": 333.973,
+    "end": 334.313,
+    "conf": 0.997,
+    "phrase": 82
+  },
+  {
+    "i": 890,
+    "word": "to",
+    "start": 334.313,
+    "end": 334.613,
+    "conf": 0.999,
+    "phrase": 82
+  },
+  {
+    "i": 891,
+    "word": "news",
+    "start": 334.613,
+    "end": 334.833,
+    "conf": 0.932,
+    "phrase": 82
+  },
+  {
+    "i": 892,
+    "word": "reports.",
+    "start": 334.833,
+    "end": 335.333,
+    "conf": 0.999,
+    "phrase": 82
+  },
+  {
+    "i": 893,
+    "word": "In",
+    "start": 335.931,
+    "end": 336.071,
+    "conf": 0.895,
+    "phrase": 83
+  },
+  {
+    "i": 894,
+    "word": "twenty",
+    "start": 336.071,
+    "end": 336.291,
+    "conf": 0.0,
+    "phrase": 83
+  },
+  {
+    "i": 895,
+    "word": "twenty-four,",
+    "start": 336.291,
+    "end": 336.731,
+    "conf": 0.0,
+    "phrase": 83
+  },
+  {
+    "i": 896,
+    "word": "when",
+    "start": 337.471,
+    "end": 337.611,
+    "conf": 0.995,
+    "phrase": 83
+  },
+  {
+    "i": 897,
+    "word": "people",
+    "start": 337.611,
+    "end": 337.911,
+    "conf": 0.996,
+    "phrase": 83
+  },
+  {
+    "i": 898,
+    "word": "started",
+    "start": 337.911,
+    "end": 338.271,
+    "conf": 0.994,
+    "phrase": 83
+  },
+  {
+    "i": 899,
+    "word": "asking",
+    "start": 338.271,
+    "end": 338.751,
+    "conf": 0.999,
+    "phrase": 83
+  },
+  {
+    "i": 900,
+    "word": "if",
+    "start": 338.751,
+    "end": 339.031,
+    "conf": 0.996,
+    "phrase": 83
+  },
+  {
+    "i": 901,
+    "word": "that",
+    "start": 339.031,
+    "end": 339.251,
+    "conf": 0.989,
+    "phrase": 83
+  },
+  {
+    "i": 902,
+    "word": "price",
+    "start": 339.251,
+    "end": 339.611,
+    "conf": 0.999,
+    "phrase": 83
+  },
+  {
+    "i": 903,
+    "word": "would",
+    "start": 339.611,
+    "end": 339.871,
+    "conf": 0.998,
+    "phrase": 83
+  },
+  {
+    "i": 904,
+    "word": "finally",
+    "start": 339.871,
+    "end": 340.251,
+    "conf": 0.993,
+    "phrase": 83
+  },
+  {
+    "i": 905,
+    "word": "go",
+    "start": 340.251,
+    "end": 340.591,
+    "conf": 0.999,
+    "phrase": 83
+  },
+  {
+    "i": 906,
+    "word": "up,",
+    "start": 340.591,
+    "end": 340.951,
+    "conf": 1.0,
+    "phrase": 83
+  },
+  {
+    "i": 907,
+    "word": "Costco's",
+    "start": 341.591,
+    "end": 342.111,
+    "conf": 0.861,
+    "phrase": 83
+  },
+  {
+    "i": 908,
+    "word": "finance",
+    "start": 342.111,
+    "end": 342.491,
+    "conf": 0.566,
+    "phrase": 83
+  },
+  {
+    "i": 909,
+    "word": "chief",
+    "start": 342.491,
+    "end": 342.971,
+    "conf": 0.891,
+    "phrase": 83
+  },
+  {
+    "i": 910,
+    "word": "said",
+    "start": 342.971,
+    "end": 343.451,
+    "conf": 0.99,
+    "phrase": 83
+  },
+  {
+    "i": 911,
+    "word": "on",
+    "start": 343.451,
+    "end": 343.691,
+    "conf": 0.99,
+    "phrase": 83
+  },
+  {
+    "i": 912,
+    "word": "an",
+    "start": 343.691,
+    "end": 343.831,
+    "conf": 0.994,
+    "phrase": 83
+  },
+  {
+    "i": 913,
+    "word": "earnings",
+    "start": 343.831,
+    "end": 344.151,
+    "conf": 0.996,
+    "phrase": 83
+  },
+  {
+    "i": 914,
+    "word": "call",
+    "start": 344.151,
+    "end": 344.511,
+    "conf": 0.999,
+    "phrase": 83
+  },
+  {
+    "i": 915,
+    "word": "that",
+    "start": 344.511,
+    "end": 344.771,
+    "conf": 0.989,
+    "phrase": 83
+  },
+  {
+    "i": 916,
+    "word": "the",
+    "start": 344.771,
+    "end": 344.891,
+    "conf": 0.974,
+    "phrase": 83
+  },
+  {
+    "i": 917,
+    "word": "price",
+    "start": 344.891,
+    "end": 345.251,
+    "conf": 0.998,
+    "phrase": 83
+  },
+  {
+    "i": 918,
+    "word": "is",
+    "start": 345.251,
+    "end": 345.491,
+    "conf": 0.995,
+    "phrase": 83
+  },
+  {
+    "i": 919,
+    "word": "safe.",
+    "start": 345.491,
+    "end": 345.771,
+    "conf": 0.954,
+    "phrase": 83
+  },
+  {
+    "i": 920,
+    "word": "Costco",
+    "start": 346.4,
+    "end": 346.8,
+    "conf": 0.81,
+    "phrase": 84
+  },
+  {
+    "i": 921,
+    "word": "doesn't",
+    "start": 346.8,
+    "end": 347.3,
+    "conf": 0.984,
+    "phrase": 84
+  },
+  {
+    "i": 922,
+    "word": "report",
+    "start": 347.3,
+    "end": 347.64,
+    "conf": 0.997,
+    "phrase": 84
+  },
+  {
+    "i": 923,
+    "word": "how",
+    "start": 347.64,
+    "end": 347.92,
+    "conf": 0.998,
+    "phrase": 84
+  },
+  {
+    "i": 924,
+    "word": "much",
+    "start": 347.92,
+    "end": 348.12,
+    "conf": 0.998,
+    "phrase": 84
+  },
+  {
+    "i": 925,
+    "word": "it",
+    "start": 348.12,
+    "end": 348.3,
+    "conf": 0.998,
+    "phrase": 84
+  },
+  {
+    "i": 926,
+    "word": "makes",
+    "start": 348.3,
+    "end": 348.7,
+    "conf": 0.998,
+    "phrase": 84
+  },
+  {
+    "i": 927,
+    "word": "or",
+    "start": 348.7,
+    "end": 349.22,
+    "conf": 0.717,
+    "phrase": 84
+  },
+  {
+    "i": 928,
+    "word": "loses",
+    "start": 349.22,
+    "end": 349.68,
+    "conf": 0.963,
+    "phrase": 84
+  },
+  {
+    "i": 929,
+    "word": "on",
+    "start": 349.68,
+    "end": 350.02,
+    "conf": 0.999,
+    "phrase": 84
+  },
+  {
+    "i": 930,
+    "word": "hot",
+    "start": 350.02,
+    "end": 350.3,
+    "conf": 0.995,
+    "phrase": 84
+  },
+  {
+    "i": 931,
+    "word": "dogs.",
+    "start": 350.3,
+    "end": 350.7,
+    "conf": 0.979,
+    "phrase": 84
+  },
+  {
+    "i": 932,
+    "word": "But",
+    "start": 351.291,
+    "end": 351.411,
+    "conf": 0.648,
+    "phrase": 85
+  },
+  {
+    "i": 933,
+    "word": "the",
+    "start": 351.411,
+    "end": 351.531,
+    "conf": 0.972,
+    "phrase": 85
+  },
+  {
+    "i": 934,
+    "word": "point",
+    "start": 351.531,
+    "end": 351.811,
+    "conf": 0.978,
+    "phrase": 85
+  },
+  {
+    "i": 935,
+    "word": "isn't",
+    "start": 351.811,
+    "end": 352.211,
+    "conf": 0.989,
+    "phrase": 85
+  },
+  {
+    "i": 936,
+    "word": "the",
+    "start": 352.211,
+    "end": 352.331,
+    "conf": 0.995,
+    "phrase": 85
+  },
+  {
+    "i": 937,
+    "word": "hot",
+    "start": 352.331,
+    "end": 352.551,
+    "conf": 0.983,
+    "phrase": 85
+  },
+  {
+    "i": 938,
+    "word": "dog.",
+    "start": 352.551,
+    "end": 352.911,
+    "conf": 0.922,
+    "phrase": 85
+  },
+  {
+    "i": 939,
+    "word": "The",
+    "start": 353.508,
+    "end": 353.668,
+    "conf": 0.839,
+    "phrase": 86
+  },
+  {
+    "i": 940,
+    "word": "point",
+    "start": 353.668,
+    "end": 353.988,
+    "conf": 0.941,
+    "phrase": 86
+  },
+  {
+    "i": 941,
+    "word": "is",
+    "start": 353.988,
+    "end": 354.268,
+    "conf": 0.995,
+    "phrase": 86
+  },
+  {
+    "i": 942,
+    "word": "the",
+    "start": 354.268,
+    "end": 354.448,
+    "conf": 0.98,
+    "phrase": 86
+  },
+  {
+    "i": 943,
+    "word": "promise.",
+    "start": 354.448,
+    "end": 354.768,
+    "conf": 0.989,
+    "phrase": 86
+  },
+  {
+    "i": 944,
+    "word": "A",
+    "start": 355.432,
+    "end": 355.572,
+    "conf": 0.903,
+    "phrase": 87
+  },
+  {
+    "i": 945,
+    "word": "price",
+    "start": 355.572,
+    "end": 355.912,
+    "conf": 0.992,
+    "phrase": 87
+  },
+  {
+    "i": 946,
+    "word": "that",
+    "start": 355.912,
+    "end": 356.172,
+    "conf": 0.997,
+    "phrase": 87
+  },
+  {
+    "i": 947,
+    "word": "never",
+    "start": 356.172,
+    "end": 356.512,
+    "conf": 0.997,
+    "phrase": 87
+  },
+  {
+    "i": 948,
+    "word": "moves",
+    "start": 356.512,
+    "end": 356.932,
+    "conf": 0.995,
+    "phrase": 87
+  },
+  {
+    "i": 949,
+    "word": "tells",
+    "start": 356.932,
+    "end": 357.192,
+    "conf": 0.971,
+    "phrase": 87
+  },
+  {
+    "i": 950,
+    "word": "every",
+    "start": 357.192,
+    "end": 357.612,
+    "conf": 0.998,
+    "phrase": 87
+  },
+  {
+    "i": 951,
+    "word": "member",
+    "start": 357.612,
+    "end": 357.892,
+    "conf": 0.992,
+    "phrase": 87
+  },
+  {
+    "i": 952,
+    "word": "that",
+    "start": 357.892,
+    "end": 358.172,
+    "conf": 0.993,
+    "phrase": 87
+  },
+  {
+    "i": 953,
+    "word": "Costco",
+    "start": 358.172,
+    "end": 358.592,
+    "conf": 0.777,
+    "phrase": 87
+  },
+  {
+    "i": 954,
+    "word": "is",
+    "start": 358.592,
+    "end": 358.992,
+    "conf": 0.997,
+    "phrase": 87
+  },
+  {
+    "i": 955,
+    "word": "on",
+    "start": 358.992,
+    "end": 359.132,
+    "conf": 0.998,
+    "phrase": 87
+  },
+  {
+    "i": 956,
+    "word": "their",
+    "start": 359.132,
+    "end": 359.252,
+    "conf": 0.998,
+    "phrase": 87
+  },
+  {
+    "i": 957,
+    "word": "side.",
+    "start": 359.252,
+    "end": 359.592,
+    "conf": 0.999,
+    "phrase": 87
+  },
+  {
+    "i": 958,
+    "word": "And",
+    "start": 360.157,
+    "end": 360.337,
+    "conf": 0.863,
+    "phrase": 88
+  },
+  {
+    "i": 959,
+    "word": "members",
+    "start": 360.337,
+    "end": 360.657,
+    "conf": 0.991,
+    "phrase": 88
+  },
+  {
+    "i": 960,
+    "word": "who",
+    "start": 360.657,
+    "end": 360.917,
+    "conf": 0.994,
+    "phrase": 88
+  },
+  {
+    "i": 961,
+    "word": "believe",
+    "start": 360.917,
+    "end": 361.197,
+    "conf": 0.995,
+    "phrase": 88
+  },
+  {
+    "i": 962,
+    "word": "that",
+    "start": 361.197,
+    "end": 361.497,
+    "conf": 0.996,
+    "phrase": 88
+  },
+  {
+    "i": 963,
+    "word": "keep",
+    "start": 361.497,
+    "end": 361.737,
+    "conf": 0.983,
+    "phrase": 88
+  },
+  {
+    "i": 964,
+    "word": "renewing.",
+    "start": 361.737,
+    "end": 362.337,
+    "conf": 0.999,
+    "phrase": 88
+  },
+  {
+    "i": 965,
+    "word": "It's",
+    "start": 362.726,
+    "end": 362.946,
+    "conf": 0.901,
+    "phrase": 89
+  },
+  {
+    "i": 966,
+    "word": "not",
+    "start": 362.946,
+    "end": 363.126,
+    "conf": 0.989,
+    "phrase": 89
+  },
+  {
+    "i": 967,
+    "word": "a",
+    "start": 363.126,
+    "end": 363.286,
+    "conf": 0.998,
+    "phrase": 89
+  },
+  {
+    "i": 968,
+    "word": "snack.",
+    "start": 363.286,
+    "end": 363.566,
+    "conf": 0.982,
+    "phrase": 89
+  },
+  {
+    "i": 969,
+    "word": "It's",
+    "start": 364.188,
+    "end": 364.408,
+    "conf": 0.898,
+    "phrase": 90
+  },
+  {
+    "i": 970,
+    "word": "a",
+    "start": 364.408,
+    "end": 364.508,
+    "conf": 0.997,
+    "phrase": 90
+  },
+  {
+    "i": 971,
+    "word": "signal.",
+    "start": 364.508,
+    "end": 364.828,
+    "conf": 0.979,
+    "phrase": 90
+  },
+  {
+    "i": 972,
+    "word": "But",
+    "start": 365.905,
+    "end": 366.025,
+    "conf": 0.743,
+    "phrase": 91
+  },
+  {
+    "i": 973,
+    "word": "here's",
+    "start": 366.025,
+    "end": 366.305,
+    "conf": 0.965,
+    "phrase": 91
+  },
+  {
+    "i": 974,
+    "word": "the",
+    "start": 366.305,
+    "end": 366.465,
+    "conf": 0.998,
+    "phrase": 91
+  },
+  {
+    "i": 975,
+    "word": "part",
+    "start": 366.465,
+    "end": 366.705,
+    "conf": 0.998,
+    "phrase": 91
+  },
+  {
+    "i": 976,
+    "word": "most",
+    "start": 366.705,
+    "end": 366.945,
+    "conf": 0.99,
+    "phrase": 91
+  },
+  {
+    "i": 977,
+    "word": "people",
+    "start": 366.945,
+    "end": 367.325,
+    "conf": 0.999,
+    "phrase": 91
+  },
+  {
+    "i": 978,
+    "word": "miss.",
+    "start": 367.325,
+    "end": 367.625,
+    "conf": 0.998,
+    "phrase": 91
+  },
+  {
+    "i": 979,
+    "word": "The",
+    "start": 368.207,
+    "end": 368.347,
+    "conf": 0.576,
+    "phrase": 92
+  },
+  {
+    "i": 980,
+    "word": "cheapest",
+    "start": 368.347,
+    "end": 368.727,
+    "conf": 0.957,
+    "phrase": 92
+  },
+  {
+    "i": 981,
+    "word": "membership",
+    "start": 368.727,
+    "end": 369.347,
+    "conf": 0.999,
+    "phrase": 92
+  },
+  {
+    "i": 982,
+    "word": "isn't",
+    "start": 369.347,
+    "end": 369.727,
+    "conf": 0.997,
+    "phrase": 92
+  },
+  {
+    "i": 983,
+    "word": "where",
+    "start": 369.727,
+    "end": 369.847,
+    "conf": 0.998,
+    "phrase": 92
+  },
+  {
+    "i": 984,
+    "word": "the",
+    "start": 369.847,
+    "end": 369.967,
+    "conf": 0.997,
+    "phrase": 92
+  },
+  {
+    "i": 985,
+    "word": "story",
+    "start": 369.967,
+    "end": 370.287,
+    "conf": 0.998,
+    "phrase": 92
+  },
+  {
+    "i": 986,
+    "word": "ends.",
+    "start": 370.287,
+    "end": 370.667,
+    "conf": 1.0,
+    "phrase": 92
+  },
+  {
+    "i": 987,
+    "word": "Costco",
+    "start": 371.289,
+    "end": 371.689,
+    "conf": 0.522,
+    "phrase": 93
+  },
+  {
+    "i": 988,
+    "word": "also",
+    "start": 371.689,
+    "end": 372.229,
+    "conf": 0.993,
+    "phrase": 93
+  },
+  {
+    "i": 989,
+    "word": "sells",
+    "start": 372.229,
+    "end": 372.589,
+    "conf": 0.997,
+    "phrase": 93
+  },
+  {
+    "i": 990,
+    "word": "an",
+    "start": 372.589,
+    "end": 372.829,
+    "conf": 0.993,
+    "phrase": 93
+  },
+  {
+    "i": 991,
+    "word": "upgrade",
+    "start": 372.829,
+    "end": 373.329,
+    "conf": 0.997,
+    "phrase": 93
+  },
+  {
+    "i": 992,
+    "word": "called",
+    "start": 373.329,
+    "end": 373.809,
+    "conf": 0.975,
+    "phrase": 93
+  },
+  {
+    "i": 993,
+    "word": "Executive",
+    "start": 373.809,
+    "end": 374.609,
+    "conf": 0.498,
+    "phrase": 93
+  },
+  {
+    "i": 994,
+    "word": "membership.",
+    "start": 374.609,
+    "end": 375.069,
+    "conf": 0.995,
+    "phrase": 93
+  },
+  {
+    "i": 995,
+    "word": "In",
+    "start": 375.65,
+    "end": 375.77,
+    "conf": 0.878,
+    "phrase": 94
+  },
+  {
+    "i": 996,
+    "word": "America,",
+    "start": 375.77,
+    "end": 376.15,
+    "conf": 0.997,
+    "phrase": 94
+  },
+  {
+    "i": 997,
+    "word": "it",
+    "start": 376.61,
+    "end": 376.65,
+    "conf": 0.987,
+    "phrase": 94
+  },
+  {
+    "i": 998,
+    "word": "costs",
+    "start": 376.65,
+    "end": 376.91,
+    "conf": 0.976,
+    "phrase": 94
+  },
+  {
+    "i": 999,
+    "word": "a",
+    "start": 376.91,
+    "end": 376.953,
+    "conf": 0.0,
+    "phrase": 94
+  },
+  {
+    "i": 1000,
+    "word": "hundred",
+    "start": 376.953,
+    "end": 377.25,
+    "conf": 0.0,
+    "phrase": 94
+  },
+  {
+    "i": 1001,
+    "word": "and",
+    "start": 377.25,
+    "end": 377.378,
+    "conf": 0.0,
+    "phrase": 94
+  },
+  {
+    "i": 1002,
+    "word": "thirty",
+    "start": 377.378,
+    "end": 377.633,
+    "conf": 0.0,
+    "phrase": 94
+  },
+  {
+    "i": 1003,
+    "word": "dollars",
+    "start": 377.633,
+    "end": 377.93,
+    "conf": 0.0,
+    "phrase": 94
+  },
+  {
+    "i": 1004,
+    "word": "a",
+    "start": 377.93,
+    "end": 378.63,
+    "conf": 0.932,
+    "phrase": 94
+  },
+  {
+    "i": 1005,
+    "word": "year,",
+    "start": 378.63,
+    "end": 378.95,
+    "conf": 0.998,
+    "phrase": 94
+  },
+  {
+    "i": 1006,
+    "word": "double",
+    "start": 379.31,
+    "end": 379.63,
+    "conf": 0.995,
+    "phrase": 94
+  },
+  {
+    "i": 1007,
+    "word": "the",
+    "start": 379.63,
+    "end": 379.83,
+    "conf": 0.999,
+    "phrase": 94
+  },
+  {
+    "i": 1008,
+    "word": "basic",
+    "start": 379.83,
+    "end": 380.17,
+    "conf": 0.998,
+    "phrase": 94
+  },
+  {
+    "i": 1009,
+    "word": "fee.",
+    "start": 380.17,
+    "end": 380.53,
+    "conf": 0.976,
+    "phrase": 94
+  },
+  {
+    "i": 1010,
+    "word": "In",
+    "start": 381.063,
+    "end": 381.203,
+    "conf": 0.96,
+    "phrase": 95
+  },
+  {
+    "i": 1011,
+    "word": "return,",
+    "start": 381.203,
+    "end": 381.703,
+    "conf": 0.999,
+    "phrase": 95
+  },
+  {
+    "i": 1012,
+    "word": "members",
+    "start": 382.223,
+    "end": 382.403,
+    "conf": 0.955,
+    "phrase": 95
+  },
+  {
+    "i": 1013,
+    "word": "get",
+    "start": 382.403,
+    "end": 382.703,
+    "conf": 0.997,
+    "phrase": 95
+  },
+  {
+    "i": 1014,
+    "word": "back",
+    "start": 382.703,
+    "end": 383.023,
+    "conf": 0.998,
+    "phrase": 95
+  },
+  {
+    "i": 1015,
+    "word": "a",
+    "start": 383.023,
+    "end": 383.203,
+    "conf": 0.993,
+    "phrase": 95
+  },
+  {
+    "i": 1016,
+    "word": "two",
+    "start": 383.203,
+    "end": 383.401,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1017,
+    "word": "percent",
+    "start": 383.401,
+    "end": 383.863,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1018,
+    "word": "reward",
+    "start": 383.863,
+    "end": 384.303,
+    "conf": 0.99,
+    "phrase": 95
+  },
+  {
+    "i": 1019,
+    "word": "on",
+    "start": 384.303,
+    "end": 384.563,
+    "conf": 0.997,
+    "phrase": 95
+  },
+  {
+    "i": 1020,
+    "word": "qualifying",
+    "start": 384.563,
+    "end": 385.183,
+    "conf": 0.994,
+    "phrase": 95
+  },
+  {
+    "i": 1021,
+    "word": "purchases,",
+    "start": 385.183,
+    "end": 385.843,
+    "conf": 0.998,
+    "phrase": 95
+  },
+  {
+    "i": 1022,
+    "word": "up",
+    "start": 386.383,
+    "end": 386.563,
+    "conf": 0.994,
+    "phrase": 95
+  },
+  {
+    "i": 1023,
+    "word": "to",
+    "start": 386.563,
+    "end": 386.743,
+    "conf": 0.993,
+    "phrase": 95
+  },
+  {
+    "i": 1024,
+    "word": "twelve",
+    "start": 386.743,
+    "end": 386.893,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1025,
+    "word": "hundred",
+    "start": 386.893,
+    "end": 387.068,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1026,
+    "word": "and",
+    "start": 387.068,
+    "end": 387.143,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1027,
+    "word": "fifty",
+    "start": 387.143,
+    "end": 387.268,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1028,
+    "word": "dollars",
+    "start": 387.268,
+    "end": 387.443,
+    "conf": 0.0,
+    "phrase": 95
+  },
+  {
+    "i": 1029,
+    "word": "a",
+    "start": 387.443,
+    "end": 388.503,
+    "conf": 0.894,
+    "phrase": 95
+  },
+  {
+    "i": 1030,
+    "word": "year.",
+    "start": 388.503,
+    "end": 388.783,
+    "conf": 0.999,
+    "phrase": 95
+  },
+  {
+    "i": 1031,
+    "word": "So",
+    "start": 389.264,
+    "end": 389.424,
+    "conf": 0.82,
+    "phrase": 96
+  },
+  {
+    "i": 1032,
+    "word": "why",
+    "start": 389.424,
+    "end": 389.664,
+    "conf": 0.93,
+    "phrase": 96
+  },
+  {
+    "i": 1033,
+    "word": "would",
+    "start": 389.664,
+    "end": 389.864,
+    "conf": 0.998,
+    "phrase": 96
+  },
+  {
+    "i": 1034,
+    "word": "Costco",
+    "start": 389.864,
+    "end": 390.224,
+    "conf": 0.994,
+    "phrase": 96
+  },
+  {
+    "i": 1035,
+    "word": "pay",
+    "start": 390.224,
+    "end": 390.684,
+    "conf": 0.991,
+    "phrase": 96
+  },
+  {
+    "i": 1036,
+    "word": "people",
+    "start": 390.684,
+    "end": 391.064,
+    "conf": 0.994,
+    "phrase": 96
+  },
+  {
+    "i": 1037,
+    "word": "to",
+    "start": 391.064,
+    "end": 391.284,
+    "conf": 0.998,
+    "phrase": 96
+  },
+  {
+    "i": 1038,
+    "word": "shop?",
+    "start": 391.284,
+    "end": 391.544,
+    "conf": 0.995,
+    "phrase": 96
+  },
+  {
+    "i": 1039,
+    "word": "Look",
+    "start": 392.089,
+    "end": 392.309,
+    "conf": 0.589,
+    "phrase": 97
+  },
+  {
+    "i": 1040,
+    "word": "at",
+    "start": 392.309,
+    "end": 392.489,
+    "conf": 0.998,
+    "phrase": 97
+  },
+  {
+    "i": 1041,
+    "word": "who",
+    "start": 392.489,
+    "end": 392.689,
+    "conf": 0.991,
+    "phrase": 97
+  },
+  {
+    "i": 1042,
+    "word": "these",
+    "start": 392.689,
+    "end": 392.969,
+    "conf": 0.995,
+    "phrase": 97
+  },
+  {
+    "i": 1043,
+    "word": "members",
+    "start": 392.969,
+    "end": 393.249,
+    "conf": 0.979,
+    "phrase": 97
+  },
+  {
+    "i": 1044,
+    "word": "are.",
+    "start": 393.249,
+    "end": 393.629,
+    "conf": 0.997,
+    "phrase": 97
+  },
+  {
+    "i": 1045,
+    "word": "At",
+    "start": 394.08,
+    "end": 394.24,
+    "conf": 0.911,
+    "phrase": 98
+  },
+  {
+    "i": 1046,
+    "word": "the",
+    "start": 394.24,
+    "end": 394.36,
+    "conf": 0.999,
+    "phrase": 98
+  },
+  {
+    "i": 1047,
+    "word": "end",
+    "start": 394.36,
+    "end": 394.58,
+    "conf": 1.0,
+    "phrase": 98
+  },
+  {
+    "i": 1048,
+    "word": "of",
+    "start": 394.58,
+    "end": 394.76,
+    "conf": 0.994,
+    "phrase": 98
+  },
+  {
+    "i": 1049,
+    "word": "fiscal",
+    "start": 394.76,
+    "end": 395.04,
+    "conf": 0.798,
+    "phrase": 98
+  },
+  {
+    "i": 1050,
+    "word": "twenty",
+    "start": 395.04,
+    "end": 395.428,
+    "conf": 0.0,
+    "phrase": 98
+  },
+  {
+    "i": 1051,
+    "word": "twenty-six,",
+    "start": 395.428,
+    "end": 396.14,
+    "conf": 0.0,
+    "phrase": 98
+  },
+  {
+    "i": 1052,
+    "word": "there",
+    "start": 396.72,
+    "end": 396.8,
+    "conf": 0.994,
+    "phrase": 98
+  },
+  {
+    "i": 1053,
+    "word": "were",
+    "start": 396.8,
+    "end": 396.94,
+    "conf": 0.996,
+    "phrase": 98
+  },
+  {
+    "i": 1054,
+    "word": "about",
+    "start": 396.94,
+    "end": 397.26,
+    "conf": 0.996,
+    "phrase": 98
+  },
+  {
+    "i": 1055,
+    "word": "forty-two",
+    "start": 397.26,
+    "end": 398.027,
+    "conf": 0.0,
+    "phrase": 98
+  },
+  {
+    "i": 1056,
+    "word": "point",
+    "start": 398.027,
+    "end": 398.453,
+    "conf": 0.0,
+    "phrase": 98
+  },
+  {
+    "i": 1057,
+    "word": "three",
+    "start": 398.453,
+    "end": 398.88,
+    "conf": 0.0,
+    "phrase": 98
+  },
+  {
+    "i": 1058,
+    "word": "million",
+    "start": 398.88,
+    "end": 399.28,
+    "conf": 0.991,
+    "phrase": 98
+  },
+  {
+    "i": 1059,
+    "word": "Executive",
+    "start": 399.28,
+    "end": 399.68,
+    "conf": 0.953,
+    "phrase": 98
+  },
+  {
+    "i": 1060,
+    "word": "members.",
+    "start": 399.68,
+    "end": 400.24,
+    "conf": 0.998,
+    "phrase": 98
+  },
+  {
+    "i": 1061,
+    "word": "That's",
+    "start": 400.85,
+    "end": 401.09,
+    "conf": 0.879,
+    "phrase": 99
+  },
+  {
+    "i": 1062,
+    "word": "about",
+    "start": 401.09,
+    "end": 401.29,
+    "conf": 0.999,
+    "phrase": 99
+  },
+  {
+    "i": 1063,
+    "word": "half",
+    "start": 401.29,
+    "end": 401.63,
+    "conf": 0.995,
+    "phrase": 99
+  },
+  {
+    "i": 1064,
+    "word": "of",
+    "start": 401.63,
+    "end": 401.83,
+    "conf": 0.996,
+    "phrase": 99
+  },
+  {
+    "i": 1065,
+    "word": "all",
+    "start": 401.83,
+    "end": 402.11,
+    "conf": 0.997,
+    "phrase": 99
+  },
+  {
+    "i": 1066,
+    "word": "paid",
+    "start": 402.11,
+    "end": 402.37,
+    "conf": 0.975,
+    "phrase": 99
+  },
+  {
+    "i": 1067,
+    "word": "members.",
+    "start": 402.37,
+    "end": 402.77,
+    "conf": 0.997,
+    "phrase": 99
+  },
+  {
+    "i": 1068,
+    "word": "But",
+    "start": 403.37,
+    "end": 403.47,
+    "conf": 0.702,
+    "phrase": 100
+  },
+  {
+    "i": 1069,
+    "word": "they",
+    "start": 403.47,
+    "end": 403.59,
+    "conf": 0.988,
+    "phrase": 100
+  },
+  {
+    "i": 1070,
+    "word": "made",
+    "start": 403.59,
+    "end": 403.81,
+    "conf": 0.997,
+    "phrase": 100
+  },
+  {
+    "i": 1071,
+    "word": "about",
+    "start": 403.81,
+    "end": 404.09,
+    "conf": 0.986,
+    "phrase": 100
+  },
+  {
+    "i": 1072,
+    "word": "seventy-five",
+    "start": 404.09,
+    "end": 404.961,
+    "conf": 0.0,
+    "phrase": 100
+  },
+  {
+    "i": 1073,
+    "word": "point",
+    "start": 404.961,
+    "end": 405.324,
+    "conf": 0.0,
+    "phrase": 100
+  },
+  {
+    "i": 1074,
+    "word": "two",
+    "start": 405.324,
+    "end": 405.542,
+    "conf": 0.0,
+    "phrase": 100
+  },
+  {
+    "i": 1075,
+    "word": "percent",
+    "start": 405.542,
+    "end": 406.05,
+    "conf": 0.0,
+    "phrase": 100
+  },
+  {
+    "i": 1076,
+    "word": "of",
+    "start": 406.05,
+    "end": 406.21,
+    "conf": 0.986,
+    "phrase": 100
+  },
+  {
+    "i": 1077,
+    "word": "Costco's",
+    "start": 406.21,
+    "end": 406.67,
+    "conf": 0.0,
+    "phrase": 100
+  },
+  {
+    "i": 1078,
+    "word": "sales",
+    "start": 406.67,
+    "end": 407.23,
+    "conf": 0.728,
+    "phrase": 100
+  },
+  {
+    "i": 1079,
+    "word": "worldwide.",
+    "start": 407.23,
+    "end": 407.69,
+    "conf": 0.99,
+    "phrase": 100
+  },
+  {
+    "i": 1080,
+    "word": "Spend",
+    "start": 408.458,
+    "end": 408.738,
+    "conf": 0.729,
+    "phrase": 101
+  },
+  {
+    "i": 1081,
+    "word": "about",
+    "start": 408.738,
+    "end": 409.038,
+    "conf": 0.993,
+    "phrase": 101
+  },
+  {
+    "i": 1082,
+    "word": "three",
+    "start": 409.038,
+    "end": 409.28,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1083,
+    "word": "thousand",
+    "start": 409.28,
+    "end": 409.667,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1084,
+    "word": "two",
+    "start": 409.667,
+    "end": 409.813,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1085,
+    "word": "hundred",
+    "start": 409.813,
+    "end": 410.152,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1086,
+    "word": "and",
+    "start": 410.152,
+    "end": 410.297,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1087,
+    "word": "fifty",
+    "start": 410.297,
+    "end": 410.539,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1088,
+    "word": "dollars",
+    "start": 410.539,
+    "end": 410.878,
+    "conf": 0.0,
+    "phrase": 101
+  },
+  {
+    "i": 1089,
+    "word": "a",
+    "start": 410.878,
+    "end": 411.518,
+    "conf": 0.931,
+    "phrase": 101
+  },
+  {
+    "i": 1090,
+    "word": "year,",
+    "start": 411.518,
+    "end": 411.818,
+    "conf": 0.999,
+    "phrase": 101
+  },
+  {
+    "i": 1091,
+    "word": "and",
+    "start": 412.258,
+    "end": 412.498,
+    "conf": 0.996,
+    "phrase": 101
+  },
+  {
+    "i": 1092,
+    "word": "the",
+    "start": 412.498,
+    "end": 412.598,
+    "conf": 0.996,
+    "phrase": 101
+  },
+  {
+    "i": 1093,
+    "word": "reward",
+    "start": 412.598,
+    "end": 412.998,
+    "conf": 0.984,
+    "phrase": 101
+  },
+  {
+    "i": 1094,
+    "word": "pays",
+    "start": 412.998,
+    "end": 413.358,
+    "conf": 0.995,
+    "phrase": 101
+  },
+  {
+    "i": 1095,
+    "word": "back",
+    "start": 413.358,
+    "end": 413.718,
+    "conf": 0.998,
+    "phrase": 101
+  },
+  {
+    "i": 1096,
+    "word": "the",
+    "start": 413.718,
+    "end": 413.918,
+    "conf": 0.997,
+    "phrase": 101
+  },
+  {
+    "i": 1097,
+    "word": "extra",
+    "start": 413.918,
+    "end": 414.298,
+    "conf": 0.999,
+    "phrase": 101
+  },
+  {
+    "i": 1098,
+    "word": "fee.",
+    "start": 414.298,
+    "end": 414.618,
+    "conf": 0.99,
+    "phrase": 101
+  },
+  {
+    "i": 1099,
+    "word": "Shop",
+    "start": 415.15,
+    "end": 415.45,
+    "conf": 0.947,
+    "phrase": 102
+  },
+  {
+    "i": 1100,
+    "word": "more",
+    "start": 415.45,
+    "end": 415.69,
+    "conf": 0.998,
+    "phrase": 102
+  },
+  {
+    "i": 1101,
+    "word": "than",
+    "start": 415.69,
+    "end": 415.87,
+    "conf": 0.992,
+    "phrase": 102
+  },
+  {
+    "i": 1102,
+    "word": "that,",
+    "start": 415.87,
+    "end": 416.17,
+    "conf": 0.998,
+    "phrase": 102
+  },
+  {
+    "i": 1103,
+    "word": "and",
+    "start": 416.17,
+    "end": 416.47,
+    "conf": 0.522,
+    "phrase": 102
+  },
+  {
+    "i": 1104,
+    "word": "the",
+    "start": 416.47,
+    "end": 416.57,
+    "conf": 0.989,
+    "phrase": 102
+  },
+  {
+    "i": 1105,
+    "word": "upgrade",
+    "start": 416.57,
+    "end": 416.97,
+    "conf": 0.996,
+    "phrase": 102
+  },
+  {
+    "i": 1106,
+    "word": "feels",
+    "start": 416.97,
+    "end": 417.31,
+    "conf": 0.996,
+    "phrase": 102
+  },
+  {
+    "i": 1107,
+    "word": "free.",
+    "start": 417.31,
+    "end": 417.67,
+    "conf": 0.978,
+    "phrase": 102
+  },
+  {
+    "i": 1108,
+    "word": "So",
+    "start": 418.216,
+    "end": 418.356,
+    "conf": 0.667,
+    "phrase": 103
+  },
+  {
+    "i": 1109,
+    "word": "the",
+    "start": 418.356,
+    "end": 418.496,
+    "conf": 0.981,
+    "phrase": 103
+  },
+  {
+    "i": 1110,
+    "word": "people",
+    "start": 418.496,
+    "end": 418.776,
+    "conf": 0.998,
+    "phrase": 103
+  },
+  {
+    "i": 1111,
+    "word": "who",
+    "start": 418.776,
+    "end": 419.036,
+    "conf": 0.998,
+    "phrase": 103
+  },
+  {
+    "i": 1112,
+    "word": "shop",
+    "start": 419.036,
+    "end": 419.296,
+    "conf": 0.772,
+    "phrase": 103
+  },
+  {
+    "i": 1113,
+    "word": "the",
+    "start": 419.296,
+    "end": 419.496,
+    "conf": 0.992,
+    "phrase": 103
+  },
+  {
+    "i": 1114,
+    "word": "most",
+    "start": 419.496,
+    "end": 419.736,
+    "conf": 0.999,
+    "phrase": 103
+  },
+  {
+    "i": 1115,
+    "word": "lock",
+    "start": 419.736,
+    "end": 420.056,
+    "conf": 0.846,
+    "phrase": 103
+  },
+  {
+    "i": 1116,
+    "word": "themselves",
+    "start": 420.056,
+    "end": 420.576,
+    "conf": 0.996,
+    "phrase": 103
+  },
+  {
+    "i": 1117,
+    "word": "in",
+    "start": 420.576,
+    "end": 420.876,
+    "conf": 0.984,
+    "phrase": 103
+  },
+  {
+    "i": 1118,
+    "word": "the",
+    "start": 420.876,
+    "end": 421.016,
+    "conf": 0.998,
+    "phrase": 103
+  },
+  {
+    "i": 1119,
+    "word": "hardest.",
+    "start": 421.016,
+    "end": 421.436,
+    "conf": 0.99,
+    "phrase": 103
+  },
+  {
+    "i": 1120,
+    "word": "In",
+    "start": 422.002,
+    "end": 422.142,
+    "conf": 0.844,
+    "phrase": 104
+  },
+  {
+    "i": 1121,
+    "word": "twenty",
+    "start": 422.142,
+    "end": 422.473,
+    "conf": 0.0,
+    "phrase": 104
+  },
+  {
+    "i": 1122,
+    "word": "twenty-six,",
+    "start": 422.473,
+    "end": 423.082,
+    "conf": 0.0,
+    "phrase": 104
+  },
+  {
+    "i": 1123,
+    "word": "those",
+    "start": 423.522,
+    "end": 423.822,
+    "conf": 0.997,
+    "phrase": 104
+  },
+  {
+    "i": 1124,
+    "word": "rewards",
+    "start": 423.822,
+    "end": 424.382,
+    "conf": 0.999,
+    "phrase": 104
+  },
+  {
+    "i": 1125,
+    "word": "cost",
+    "start": 424.382,
+    "end": 424.781,
+    "conf": 0.996,
+    "phrase": 104
+  },
+  {
+    "i": 1126,
+    "word": "Costco",
+    "start": 424.781,
+    "end": 425.341,
+    "conf": 0.929,
+    "phrase": 104
+  },
+  {
+    "i": 1127,
+    "word": "about",
+    "start": 425.341,
+    "end": 425.722,
+    "conf": 0.996,
+    "phrase": 104
+  },
+  {
+    "i": 1128,
+    "word": "three",
+    "start": 425.722,
+    "end": 426.122,
+    "conf": 0.0,
+    "phrase": 104
+  },
+  {
+    "i": 1129,
+    "word": "point",
+    "start": 426.122,
+    "end": 426.522,
+    "conf": 0.0,
+    "phrase": 104
+  },
+  {
+    "i": 1130,
+    "word": "four",
+    "start": 426.522,
+    "end": 426.841,
+    "conf": 0.0,
+    "phrase": 104
+  },
+  {
+    "i": 1131,
+    "word": "billion",
+    "start": 426.841,
+    "end": 427.362,
+    "conf": 0.989,
+    "phrase": 104
+  },
+  {
+    "i": 1132,
+    "word": "dollars,",
+    "start": 427.362,
+    "end": 428.142,
+    "conf": 0.0,
+    "phrase": 104
+  },
+  {
+    "i": 1133,
+    "word": "taken",
+    "start": 428.142,
+    "end": 428.482,
+    "conf": 0.743,
+    "phrase": 104
+  },
+  {
+    "i": 1134,
+    "word": "straight",
+    "start": 428.482,
+    "end": 428.901,
+    "conf": 0.988,
+    "phrase": 104
+  },
+  {
+    "i": 1135,
+    "word": "off",
+    "start": 428.901,
+    "end": 429.142,
+    "conf": 0.993,
+    "phrase": 104
+  },
+  {
+    "i": 1136,
+    "word": "its",
+    "start": 429.142,
+    "end": 429.341,
+    "conf": 0.981,
+    "phrase": 104
+  },
+  {
+    "i": 1137,
+    "word": "sales.",
+    "start": 429.341,
+    "end": 429.702,
+    "conf": 0.888,
+    "phrase": 104
+  },
+  {
+    "i": 1138,
+    "word": "That's",
+    "start": 430.335,
+    "end": 430.675,
+    "conf": 0.884,
+    "phrase": 105
+  },
+  {
+    "i": 1139,
+    "word": "a",
+    "start": 430.675,
+    "end": 430.755,
+    "conf": 0.995,
+    "phrase": 105
+  },
+  {
+    "i": 1140,
+    "word": "lot",
+    "start": 430.755,
+    "end": 430.955,
+    "conf": 0.995,
+    "phrase": 105
+  },
+  {
+    "i": 1141,
+    "word": "to",
+    "start": 430.955,
+    "end": 431.175,
+    "conf": 0.998,
+    "phrase": 105
+  },
+  {
+    "i": 1142,
+    "word": "give",
+    "start": 431.175,
+    "end": 431.335,
+    "conf": 0.992,
+    "phrase": 105
+  },
+  {
+    "i": 1143,
+    "word": "away.",
+    "start": 431.335,
+    "end": 431.615,
+    "conf": 0.996,
+    "phrase": 105
+  },
+  {
+    "i": 1144,
+    "word": "But",
+    "start": 432.178,
+    "end": 432.278,
+    "conf": 0.508,
+    "phrase": 106
+  },
+  {
+    "i": 1145,
+    "word": "it",
+    "start": 432.278,
+    "end": 432.378,
+    "conf": 0.979,
+    "phrase": 106
+  },
+  {
+    "i": 1146,
+    "word": "buys",
+    "start": 432.378,
+    "end": 432.718,
+    "conf": 0.999,
+    "phrase": 106
+  },
+  {
+    "i": 1147,
+    "word": "Costco",
+    "start": 432.718,
+    "end": 433.238,
+    "conf": 0.991,
+    "phrase": 106
+  },
+  {
+    "i": 1148,
+    "word": "its",
+    "start": 433.238,
+    "end": 433.498,
+    "conf": 0.957,
+    "phrase": 106
+  },
+  {
+    "i": 1149,
+    "word": "biggest",
+    "start": 433.498,
+    "end": 433.858,
+    "conf": 0.999,
+    "phrase": 106
+  },
+  {
+    "i": 1150,
+    "word": "and",
+    "start": 433.858,
+    "end": 434.238,
+    "conf": 0.965,
+    "phrase": 106
+  },
+  {
+    "i": 1151,
+    "word": "most",
+    "start": 434.238,
+    "end": 434.438,
+    "conf": 0.996,
+    "phrase": 106
+  },
+  {
+    "i": 1152,
+    "word": "loyal",
+    "start": 434.438,
+    "end": 434.878,
+    "conf": 0.996,
+    "phrase": 106
+  },
+  {
+    "i": 1153,
+    "word": "shoppers.",
+    "start": 434.878,
+    "end": 435.298,
+    "conf": 0.987,
+    "phrase": 106
+  },
+  {
+    "i": 1154,
+    "word": "So",
+    "start": 436.411,
+    "end": 436.591,
+    "conf": 0.693,
+    "phrase": 107
+  },
+  {
+    "i": 1155,
+    "word": "is",
+    "start": 436.591,
+    "end": 436.75,
+    "conf": 0.824,
+    "phrase": 107
+  },
+  {
+    "i": 1156,
+    "word": "this",
+    "start": 436.75,
+    "end": 436.93,
+    "conf": 0.989,
+    "phrase": 107
+  },
+  {
+    "i": 1157,
+    "word": "model",
+    "start": 436.93,
+    "end": 437.43,
+    "conf": 0.996,
+    "phrase": 107
+  },
+  {
+    "i": 1158,
+    "word": "unbreakable?",
+    "start": 437.43,
+    "end": 438.291,
+    "conf": 0.956,
+    "phrase": 107
+  },
+  {
+    "i": 1159,
+    "word": "Not",
+    "start": 438.767,
+    "end": 439.007,
+    "conf": 0.497,
+    "phrase": 108
+  },
+  {
+    "i": 1160,
+    "word": "quite,",
+    "start": 439.007,
+    "end": 439.367,
+    "conf": 0.998,
+    "phrase": 108
+  },
+  {
+    "i": 1161,
+    "word": "and",
+    "start": 439.767,
+    "end": 439.907,
+    "conf": 0.97,
+    "phrase": 108
+  },
+  {
+    "i": 1162,
+    "word": "Costco",
+    "start": 439.907,
+    "end": 440.227,
+    "conf": 0.479,
+    "phrase": 108
+  },
+  {
+    "i": 1163,
+    "word": "knows",
+    "start": 440.227,
+    "end": 440.687,
+    "conf": 0.989,
+    "phrase": 108
+  },
+  {
+    "i": 1164,
+    "word": "exactly",
+    "start": 440.687,
+    "end": 441.147,
+    "conf": 0.992,
+    "phrase": 108
+  },
+  {
+    "i": 1165,
+    "word": "where",
+    "start": 441.147,
+    "end": 441.487,
+    "conf": 0.997,
+    "phrase": 108
+  },
+  {
+    "i": 1166,
+    "word": "the",
+    "start": 441.487,
+    "end": 441.627,
+    "conf": 0.999,
+    "phrase": 108
+  },
+  {
+    "i": 1167,
+    "word": "pressure",
+    "start": 441.627,
+    "end": 441.847,
+    "conf": 0.999,
+    "phrase": 108
+  },
+  {
+    "i": 1168,
+    "word": "is.",
+    "start": 441.847,
+    "end": 442.207,
+    "conf": 0.997,
+    "phrase": 108
+  },
+  {
+    "i": 1169,
+    "word": "In",
+    "start": 442.738,
+    "end": 442.918,
+    "conf": 0.907,
+    "phrase": 109
+  },
+  {
+    "i": 1170,
+    "word": "September",
+    "start": 442.918,
+    "end": 443.278,
+    "conf": 0.989,
+    "phrase": 109
+  },
+  {
+    "i": 1171,
+    "word": "twenty",
+    "start": 443.278,
+    "end": 443.605,
+    "conf": 0.0,
+    "phrase": 109
+  },
+  {
+    "i": 1172,
+    "word": "twenty-four,",
+    "start": 443.605,
+    "end": 444.258,
+    "conf": 0.0,
+    "phrase": 109
+  },
+  {
+    "i": 1173,
+    "word": "it",
+    "start": 444.958,
+    "end": 444.998,
+    "conf": 0.989,
+    "phrase": 109
+  },
+  {
+    "i": 1174,
+    "word": "raised",
+    "start": 444.998,
+    "end": 445.398,
+    "conf": 0.993,
+    "phrase": 109
+  },
+  {
+    "i": 1175,
+    "word": "the",
+    "start": 445.398,
+    "end": 445.638,
+    "conf": 0.998,
+    "phrase": 109
+  },
+  {
+    "i": 1176,
+    "word": "basic",
+    "start": 445.638,
+    "end": 445.978,
+    "conf": 0.982,
+    "phrase": 109
+  },
+  {
+    "i": 1177,
+    "word": "fee",
+    "start": 445.978,
+    "end": 446.358,
+    "conf": 0.995,
+    "phrase": 109
+  },
+  {
+    "i": 1178,
+    "word": "in",
+    "start": 446.358,
+    "end": 446.578,
+    "conf": 0.996,
+    "phrase": 109
+  },
+  {
+    "i": 1179,
+    "word": "the",
+    "start": 446.578,
+    "end": 446.698,
+    "conf": 0.997,
+    "phrase": 109
+  },
+  {
+    "i": 1180,
+    "word": "US",
+    "start": 446.698,
+    "end": 447.198,
+    "conf": 0.0,
+    "phrase": 109
+  },
+  {
+    "i": 1181,
+    "word": "and",
+    "start": 447.198,
+    "end": 447.438,
+    "conf": 0.995,
+    "phrase": 109
+  },
+  {
+    "i": 1182,
+    "word": "Canada",
+    "start": 447.438,
+    "end": 447.878,
+    "conf": 0.998,
+    "phrase": 109
+  },
+  {
+    "i": 1183,
+    "word": "by",
+    "start": 447.878,
+    "end": 448.138,
+    "conf": 0.994,
+    "phrase": 109
+  },
+  {
+    "i": 1184,
+    "word": "five",
+    "start": 448.138,
+    "end": 448.311,
+    "conf": 0.0,
+    "phrase": 109
+  },
+  {
+    "i": 1185,
+    "word": "dollars.",
+    "start": 448.311,
+    "end": 448.658,
+    "conf": 0.0,
+    "phrase": 109
+  },
+  {
+    "i": 1186,
+    "word": "The",
+    "start": 449.518,
+    "end": 449.638,
+    "conf": 0.643,
+    "phrase": 110
+  },
+  {
+    "i": 1187,
+    "word": "Executive",
+    "start": 449.638,
+    "end": 450.118,
+    "conf": 0.958,
+    "phrase": 110
+  },
+  {
+    "i": 1188,
+    "word": "fee",
+    "start": 450.118,
+    "end": 450.598,
+    "conf": 0.991,
+    "phrase": 110
+  },
+  {
+    "i": 1189,
+    "word": "went",
+    "start": 450.598,
+    "end": 450.878,
+    "conf": 0.997,
+    "phrase": 110
+  },
+  {
+    "i": 1190,
+    "word": "from",
+    "start": 450.878,
+    "end": 451.078,
+    "conf": 0.996,
+    "phrase": 110
+  },
+  {
+    "i": 1191,
+    "word": "a",
+    "start": 451.078,
+    "end": 451.111,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1192,
+    "word": "hundred",
+    "start": 451.111,
+    "end": 451.345,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1193,
+    "word": "and",
+    "start": 451.345,
+    "end": 451.445,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1194,
+    "word": "twenty",
+    "start": 451.445,
+    "end": 451.645,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1195,
+    "word": "dollars",
+    "start": 451.645,
+    "end": 451.878,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1196,
+    "word": "to",
+    "start": 451.878,
+    "end": 453.038,
+    "conf": 0.951,
+    "phrase": 110
+  },
+  {
+    "i": 1197,
+    "word": "a",
+    "start": 453.038,
+    "end": 453.091,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1198,
+    "word": "hundred",
+    "start": 453.091,
+    "end": 453.465,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1199,
+    "word": "and",
+    "start": 453.465,
+    "end": 453.625,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1200,
+    "word": "thirty.",
+    "start": 453.625,
+    "end": 453.998,
+    "conf": 0.0,
+    "phrase": 110
+  },
+  {
+    "i": 1201,
+    "word": "In",
+    "start": 454.622,
+    "end": 454.782,
+    "conf": 0.812,
+    "phrase": 111
+  },
+  {
+    "i": 1202,
+    "word": "fiscal",
+    "start": 454.782,
+    "end": 455.082,
+    "conf": 0.92,
+    "phrase": 111
+  },
+  {
+    "i": 1203,
+    "word": "twenty",
+    "start": 455.082,
+    "end": 455.471,
+    "conf": 0.0,
+    "phrase": 111
+  },
+  {
+    "i": 1204,
+    "word": "twenty-six,",
+    "start": 455.471,
+    "end": 456.182,
+    "conf": 0.0,
+    "phrase": 111
+  },
+  {
+    "i": 1205,
+    "word": "fee",
+    "start": 456.622,
+    "end": 456.822,
+    "conf": 0.977,
+    "phrase": 111
+  },
+  {
+    "i": 1206,
+    "word": "revenue",
+    "start": 456.822,
+    "end": 457.282,
+    "conf": 0.998,
+    "phrase": 111
+  },
+  {
+    "i": 1207,
+    "word": "grew",
+    "start": 457.282,
+    "end": 457.602,
+    "conf": 0.999,
+    "phrase": 111
+  },
+  {
+    "i": 1208,
+    "word": "eleven",
+    "start": 457.602,
+    "end": 457.997,
+    "conf": 0.0,
+    "phrase": 111
+  },
+  {
+    "i": 1209,
+    "word": "percent.",
+    "start": 457.997,
+    "end": 458.522,
+    "conf": 0.0,
+    "phrase": 111
+  },
+  {
+    "i": 1210,
+    "word": "But",
+    "start": 458.959,
+    "end": 459.079,
+    "conf": 0.702,
+    "phrase": 112
+  },
+  {
+    "i": 1211,
+    "word": "only",
+    "start": 459.079,
+    "end": 459.379,
+    "conf": 0.996,
+    "phrase": 112
+  },
+  {
+    "i": 1212,
+    "word": "about",
+    "start": 459.379,
+    "end": 459.759,
+    "conf": 0.995,
+    "phrase": 112
+  },
+  {
+    "i": 1213,
+    "word": "thirty",
+    "start": 459.759,
+    "end": 460.165,
+    "conf": 0.0,
+    "phrase": 112
+  },
+  {
+    "i": 1214,
+    "word": "percent",
+    "start": 460.165,
+    "end": 460.639,
+    "conf": 0.0,
+    "phrase": 112
+  },
+  {
+    "i": 1215,
+    "word": "of",
+    "start": 460.639,
+    "end": 460.779,
+    "conf": 0.998,
+    "phrase": 112
+  },
+  {
+    "i": 1216,
+    "word": "that",
+    "start": 460.779,
+    "end": 460.978,
+    "conf": 0.992,
+    "phrase": 112
+  },
+  {
+    "i": 1217,
+    "word": "growth",
+    "start": 460.978,
+    "end": 461.339,
+    "conf": 0.999,
+    "phrase": 112
+  },
+  {
+    "i": 1218,
+    "word": "came",
+    "start": 461.339,
+    "end": 461.679,
+    "conf": 0.997,
+    "phrase": 112
+  },
+  {
+    "i": 1219,
+    "word": "from",
+    "start": 461.679,
+    "end": 461.899,
+    "conf": 0.999,
+    "phrase": 112
+  },
+  {
+    "i": 1220,
+    "word": "the",
+    "start": 461.899,
+    "end": 462.019,
+    "conf": 0.996,
+    "phrase": 112
+  },
+  {
+    "i": 1221,
+    "word": "higher",
+    "start": 462.019,
+    "end": 462.319,
+    "conf": 0.998,
+    "phrase": 112
+  },
+  {
+    "i": 1222,
+    "word": "price.",
+    "start": 462.319,
+    "end": 462.679,
+    "conf": 0.949,
+    "phrase": 112
+  },
+  {
+    "i": 1223,
+    "word": "The",
+    "start": 463.329,
+    "end": 463.45,
+    "conf": 0.786,
+    "phrase": 113
+  },
+  {
+    "i": 1224,
+    "word": "rest",
+    "start": 463.45,
+    "end": 463.69,
+    "conf": 0.996,
+    "phrase": 113
+  },
+  {
+    "i": 1225,
+    "word": "came",
+    "start": 463.69,
+    "end": 463.969,
+    "conf": 0.995,
+    "phrase": 113
+  },
+  {
+    "i": 1226,
+    "word": "from",
+    "start": 463.969,
+    "end": 464.209,
+    "conf": 0.989,
+    "phrase": 113
+  },
+  {
+    "i": 1227,
+    "word": "more",
+    "start": 464.209,
+    "end": 464.49,
+    "conf": 0.996,
+    "phrase": 113
+  },
+  {
+    "i": 1228,
+    "word": "members",
+    "start": 464.49,
+    "end": 464.829,
+    "conf": 0.975,
+    "phrase": 113
+  },
+  {
+    "i": 1229,
+    "word": "joining",
+    "start": 464.829,
+    "end": 465.31,
+    "conf": 0.994,
+    "phrase": 113
+  },
+  {
+    "i": 1230,
+    "word": "and",
+    "start": 465.31,
+    "end": 465.99,
+    "conf": 0.577,
+    "phrase": 113
+  },
+  {
+    "i": 1231,
+    "word": "more",
+    "start": 465.99,
+    "end": 466.209,
+    "conf": 0.997,
+    "phrase": 113
+  },
+  {
+    "i": 1232,
+    "word": "of",
+    "start": 466.209,
+    "end": 466.31,
+    "conf": 0.995,
+    "phrase": 113
+  },
+  {
+    "i": 1233,
+    "word": "them",
+    "start": 466.31,
+    "end": 466.49,
+    "conf": 0.999,
+    "phrase": 113
+  },
+  {
+    "i": 1234,
+    "word": "upgrading.",
+    "start": 466.49,
+    "end": 466.99,
+    "conf": 0.987,
+    "phrase": 113
+  },
+  {
+    "i": 1235,
+    "word": "That's",
+    "start": 467.612,
+    "end": 467.892,
+    "conf": 0.919,
+    "phrase": 114
+  },
+  {
+    "i": 1236,
+    "word": "the",
+    "start": 467.892,
+    "end": 468.032,
+    "conf": 0.984,
+    "phrase": 114
+  },
+  {
+    "i": 1237,
+    "word": "real",
+    "start": 468.032,
+    "end": 468.312,
+    "conf": 0.927,
+    "phrase": 114
+  },
+  {
+    "i": 1238,
+    "word": "engine.",
+    "start": 468.312,
+    "end": 468.672,
+    "conf": 0.927,
+    "phrase": 114
+  },
+  {
+    "i": 1239,
+    "word": "And",
+    "start": 469.299,
+    "end": 469.439,
+    "conf": 0.813,
+    "phrase": 115
+  },
+  {
+    "i": 1240,
+    "word": "notice",
+    "start": 469.439,
+    "end": 469.699,
+    "conf": 0.993,
+    "phrase": 115
+  },
+  {
+    "i": 1241,
+    "word": "the",
+    "start": 469.699,
+    "end": 469.939,
+    "conf": 0.998,
+    "phrase": 115
+  },
+  {
+    "i": 1242,
+    "word": "gap",
+    "start": 469.939,
+    "end": 470.199,
+    "conf": 0.997,
+    "phrase": 115
+  },
+  {
+    "i": 1243,
+    "word": "between",
+    "start": 470.199,
+    "end": 470.539,
+    "conf": 0.998,
+    "phrase": 115
+  },
+  {
+    "i": 1244,
+    "word": "the",
+    "start": 470.539,
+    "end": 470.719,
+    "conf": 0.992,
+    "phrase": 115
+  },
+  {
+    "i": 1245,
+    "word": "two",
+    "start": 470.719,
+    "end": 470.919,
+    "conf": 0.924,
+    "phrase": 115
+  },
+  {
+    "i": 1246,
+    "word": "renewal",
+    "start": 470.919,
+    "end": 471.319,
+    "conf": 0.997,
+    "phrase": 115
+  },
+  {
+    "i": 1247,
+    "word": "rates.",
+    "start": 471.319,
+    "end": 471.699,
+    "conf": 0.997,
+    "phrase": 115
+  },
+  {
+    "i": 1248,
+    "word": "Costco",
+    "start": 472.281,
+    "end": 472.681,
+    "conf": 0.722,
+    "phrase": 116
+  },
+  {
+    "i": 1249,
+    "word": "says",
+    "start": 472.681,
+    "end": 473.121,
+    "conf": 0.988,
+    "phrase": 116
+  },
+  {
+    "i": 1250,
+    "word": "its",
+    "start": 473.121,
+    "end": 473.381,
+    "conf": 0.969,
+    "phrase": 116
+  },
+  {
+    "i": 1251,
+    "word": "worldwide",
+    "start": 473.381,
+    "end": 473.961,
+    "conf": 0.977,
+    "phrase": 116
+  },
+  {
+    "i": 1252,
+    "word": "rate",
+    "start": 473.961,
+    "end": 474.301,
+    "conf": 0.998,
+    "phrase": 116
+  },
+  {
+    "i": 1253,
+    "word": "is",
+    "start": 474.301,
+    "end": 474.541,
+    "conf": 0.998,
+    "phrase": 116
+  },
+  {
+    "i": 1254,
+    "word": "pulled",
+    "start": 474.541,
+    "end": 474.801,
+    "conf": 0.985,
+    "phrase": 116
+  },
+  {
+    "i": 1255,
+    "word": "down",
+    "start": 474.801,
+    "end": 475.161,
+    "conf": 0.993,
+    "phrase": 116
+  },
+  {
+    "i": 1256,
+    "word": "by",
+    "start": 475.161,
+    "end": 475.401,
+    "conf": 0.997,
+    "phrase": 116
+  },
+  {
+    "i": 1257,
+    "word": "fast",
+    "start": 475.401,
+    "end": 475.821,
+    "conf": 0.989,
+    "phrase": 116
+  },
+  {
+    "i": 1258,
+    "word": "growth",
+    "start": 475.821,
+    "end": 476.221,
+    "conf": 0.992,
+    "phrase": 116
+  },
+  {
+    "i": 1259,
+    "word": "in",
+    "start": 476.221,
+    "end": 476.501,
+    "conf": 0.997,
+    "phrase": 116
+  },
+  {
+    "i": 1260,
+    "word": "some",
+    "start": 476.501,
+    "end": 476.741,
+    "conf": 0.999,
+    "phrase": 116
+  },
+  {
+    "i": 1261,
+    "word": "newer",
+    "start": 476.741,
+    "end": 477.041,
+    "conf": 0.975,
+    "phrase": 116
+  },
+  {
+    "i": 1262,
+    "word": "countries,",
+    "start": 477.041,
+    "end": 477.541,
+    "conf": 0.996,
+    "phrase": 116
+  },
+  {
+    "i": 1263,
+    "word": "and",
+    "start": 477.541,
+    "end": 478.281,
+    "conf": 0.581,
+    "phrase": 116
+  },
+  {
+    "i": 1264,
+    "word": "by",
+    "start": 478.281,
+    "end": 478.441,
+    "conf": 0.998,
+    "phrase": 116
+  },
+  {
+    "i": 1265,
+    "word": "memberships",
+    "start": 478.441,
+    "end": 478.861,
+    "conf": 0.0,
+    "phrase": 116
+  },
+  {
+    "i": 1266,
+    "word": "sold",
+    "start": 478.861,
+    "end": 479.381,
+    "conf": 0.998,
+    "phrase": 116
+  },
+  {
+    "i": 1267,
+    "word": "online,",
+    "start": 479.381,
+    "end": 479.961,
+    "conf": 0.99,
+    "phrase": 116
+  },
+  {
+    "i": 1268,
+    "word": "which",
+    "start": 480.401,
+    "end": 480.681,
+    "conf": 0.999,
+    "phrase": 116
+  },
+  {
+    "i": 1269,
+    "word": "renew",
+    "start": 480.681,
+    "end": 481.041,
+    "conf": 0.996,
+    "phrase": 116
+  },
+  {
+    "i": 1270,
+    "word": "a",
+    "start": 481.041,
+    "end": 481.341,
+    "conf": 0.974,
+    "phrase": 116
+  },
+  {
+    "i": 1271,
+    "word": "little",
+    "start": 481.341,
+    "end": 481.481,
+    "conf": 0.998,
+    "phrase": 116
+  },
+  {
+    "i": 1272,
+    "word": "less",
+    "start": 481.481,
+    "end": 481.801,
+    "conf": 0.999,
+    "phrase": 116
+  },
+  {
+    "i": 1273,
+    "word": "often.",
+    "start": 481.801,
+    "end": 482.201,
+    "conf": 0.999,
+    "phrase": 116
+  },
+  {
+    "i": 1274,
+    "word": "So",
+    "start": 482.724,
+    "end": 482.904,
+    "conf": 0.826,
+    "phrase": 117
+  },
+  {
+    "i": 1275,
+    "word": "as",
+    "start": 482.904,
+    "end": 483.144,
+    "conf": 0.837,
+    "phrase": 117
+  },
+  {
+    "i": 1276,
+    "word": "Costco",
+    "start": 483.144,
+    "end": 483.584,
+    "conf": 0.869,
+    "phrase": 117
+  },
+  {
+    "i": 1277,
+    "word": "grows",
+    "start": 483.584,
+    "end": 484.044,
+    "conf": 0.996,
+    "phrase": 117
+  },
+  {
+    "i": 1278,
+    "word": "into",
+    "start": 484.044,
+    "end": 484.344,
+    "conf": 0.993,
+    "phrase": 117
+  },
+  {
+    "i": 1279,
+    "word": "new",
+    "start": 484.344,
+    "end": 484.564,
+    "conf": 0.996,
+    "phrase": 117
+  },
+  {
+    "i": 1280,
+    "word": "places,",
+    "start": 484.564,
+    "end": 485.024,
+    "conf": 0.999,
+    "phrase": 117
+  },
+  {
+    "i": 1281,
+    "word": "keeping",
+    "start": 485.684,
+    "end": 485.885,
+    "conf": 0.994,
+    "phrase": 117
+  },
+  {
+    "i": 1282,
+    "word": "that",
+    "start": 485.885,
+    "end": 486.164,
+    "conf": 0.998,
+    "phrase": 117
+  },
+  {
+    "i": 1283,
+    "word": "loyalty",
+    "start": 486.164,
+    "end": 486.644,
+    "conf": 0.992,
+    "phrase": 117
+  },
+  {
+    "i": 1284,
+    "word": "is",
+    "start": 486.644,
+    "end": 487.064,
+    "conf": 0.988,
+    "phrase": 117
+  },
+  {
+    "i": 1285,
+    "word": "not",
+    "start": 487.064,
+    "end": 487.344,
+    "conf": 0.999,
+    "phrase": 117
+  },
+  {
+    "i": 1286,
+    "word": "automatic.",
+    "start": 487.344,
+    "end": 487.864,
+    "conf": 0.997,
+    "phrase": 117
+  },
+  {
+    "i": 1287,
+    "word": "Raising",
+    "start": 488.53,
+    "end": 488.93,
+    "conf": 0.895,
+    "phrase": 118
+  },
+  {
+    "i": 1288,
+    "word": "the",
+    "start": 488.93,
+    "end": 489.09,
+    "conf": 0.992,
+    "phrase": 118
+  },
+  {
+    "i": 1289,
+    "word": "fee",
+    "start": 489.09,
+    "end": 489.31,
+    "conf": 0.989,
+    "phrase": 118
+  },
+  {
+    "i": 1290,
+    "word": "is",
+    "start": 489.31,
+    "end": 489.47,
+    "conf": 0.997,
+    "phrase": 118
+  },
+  {
+    "i": 1291,
+    "word": "easy.",
+    "start": 489.47,
+    "end": 489.81,
+    "conf": 0.987,
+    "phrase": 118
+  },
+  {
+    "i": 1292,
+    "word": "Keeping",
+    "start": 490.421,
+    "end": 490.721,
+    "conf": 0.727,
+    "phrase": 119
+  },
+  {
+    "i": 1293,
+    "word": "people",
+    "start": 490.721,
+    "end": 491.121,
+    "conf": 0.997,
+    "phrase": 119
+  },
+  {
+    "i": 1294,
+    "word": "happy",
+    "start": 491.121,
+    "end": 491.461,
+    "conf": 0.997,
+    "phrase": 119
+  },
+  {
+    "i": 1295,
+    "word": "enough",
+    "start": 491.461,
+    "end": 491.781,
+    "conf": 0.998,
+    "phrase": 119
+  },
+  {
+    "i": 1296,
+    "word": "to",
+    "start": 491.781,
+    "end": 491.981,
+    "conf": 0.998,
+    "phrase": 119
+  },
+  {
+    "i": 1297,
+    "word": "pay",
+    "start": 491.981,
+    "end": 492.181,
+    "conf": 0.997,
+    "phrase": 119
+  },
+  {
+    "i": 1298,
+    "word": "it",
+    "start": 492.181,
+    "end": 492.361,
+    "conf": 0.986,
+    "phrase": 119
+  },
+  {
+    "i": 1299,
+    "word": "is",
+    "start": 492.361,
+    "end": 492.641,
+    "conf": 0.946,
+    "phrase": 119
+  },
+  {
+    "i": 1300,
+    "word": "the",
+    "start": 492.641,
+    "end": 492.801,
+    "conf": 0.999,
+    "phrase": 119
+  },
+  {
+    "i": 1301,
+    "word": "hard",
+    "start": 492.801,
+    "end": 493.081,
+    "conf": 0.995,
+    "phrase": 119
+  },
+  {
+    "i": 1302,
+    "word": "part.",
+    "start": 493.081,
+    "end": 493.401,
+    "conf": 1.0,
+    "phrase": 119
+  },
+  {
+    "i": 1303,
+    "word": "If",
+    "start": 493.913,
+    "end": 494.073,
+    "conf": 0.934,
+    "phrase": 120
+  },
+  {
+    "i": 1304,
+    "word": "renewals",
+    "start": 494.073,
+    "end": 494.613,
+    "conf": 0.985,
+    "phrase": 120
+  },
+  {
+    "i": 1305,
+    "word": "ever",
+    "start": 494.613,
+    "end": 494.833,
+    "conf": 0.989,
+    "phrase": 120
+  },
+  {
+    "i": 1306,
+    "word": "fall,",
+    "start": 494.833,
+    "end": 495.273,
+    "conf": 0.998,
+    "phrase": 120
+  },
+  {
+    "i": 1307,
+    "word": "the",
+    "start": 495.673,
+    "end": 495.753,
+    "conf": 0.996,
+    "phrase": 120
+  },
+  {
+    "i": 1308,
+    "word": "profit",
+    "start": 495.753,
+    "end": 496.053,
+    "conf": 0.88,
+    "phrase": 120
+  },
+  {
+    "i": 1309,
+    "word": "falls",
+    "start": 496.053,
+    "end": 496.433,
+    "conf": 0.994,
+    "phrase": 120
+  },
+  {
+    "i": 1310,
+    "word": "with",
+    "start": 496.433,
+    "end": 496.713,
+    "conf": 0.998,
+    "phrase": 120
+  },
+  {
+    "i": 1311,
+    "word": "them,",
+    "start": 496.713,
+    "end": 497.033,
+    "conf": 0.999,
+    "phrase": 120
+  },
+  {
+    "i": 1312,
+    "word": "because",
+    "start": 497.333,
+    "end": 497.693,
+    "conf": 0.996,
+    "phrase": 120
+  },
+  {
+    "i": 1313,
+    "word": "so",
+    "start": 497.693,
+    "end": 498.073,
+    "conf": 0.993,
+    "phrase": 120
+  },
+  {
+    "i": 1314,
+    "word": "much",
+    "start": 498.073,
+    "end": 498.273,
+    "conf": 0.999,
+    "phrase": 120
+  },
+  {
+    "i": 1315,
+    "word": "of",
+    "start": 498.273,
+    "end": 498.413,
+    "conf": 0.991,
+    "phrase": 120
+  },
+  {
+    "i": 1316,
+    "word": "it",
+    "start": 498.413,
+    "end": 498.553,
+    "conf": 0.998,
+    "phrase": 120
+  },
+  {
+    "i": 1317,
+    "word": "rests",
+    "start": 498.553,
+    "end": 498.833,
+    "conf": 0.995,
+    "phrase": 120
+  },
+  {
+    "i": 1318,
+    "word": "on",
+    "start": 498.833,
+    "end": 499.093,
+    "conf": 0.997,
+    "phrase": 120
+  },
+  {
+    "i": 1319,
+    "word": "that",
+    "start": 499.093,
+    "end": 499.293,
+    "conf": 0.995,
+    "phrase": 120
+  },
+  {
+    "i": 1320,
+    "word": "one",
+    "start": 499.293,
+    "end": 499.493,
+    "conf": 0.991,
+    "phrase": 120
+  },
+  {
+    "i": 1321,
+    "word": "card.",
+    "start": 499.493,
+    "end": 499.833,
+    "conf": 0.997,
+    "phrase": 120
+  },
+  {
+    "i": 1322,
+    "word": "Costco's",
+    "start": 500.447,
+    "end": 501.087,
+    "conf": 0.816,
+    "phrase": 121
+  },
+  {
+    "i": 1323,
+    "word": "own",
+    "start": 501.087,
+    "end": 501.346,
+    "conf": 0.908,
+    "phrase": 121
+  },
+  {
+    "i": 1324,
+    "word": "report",
+    "start": 501.346,
+    "end": 501.786,
+    "conf": 0.986,
+    "phrase": 121
+  },
+  {
+    "i": 1325,
+    "word": "says",
+    "start": 501.786,
+    "end": 502.127,
+    "conf": 0.998,
+    "phrase": 121
+  },
+  {
+    "i": 1326,
+    "word": "it:",
+    "start": 502.127,
+    "end": 502.387,
+    "conf": 0.991,
+    "phrase": 121
+  },
+  {
+    "i": 1327,
+    "word": "sustaining",
+    "start": 502.906,
+    "end": 503.406,
+    "conf": 0.974,
+    "phrase": 121
+  },
+  {
+    "i": 1328,
+    "word": "high",
+    "start": 503.406,
+    "end": 503.846,
+    "conf": 0.996,
+    "phrase": 121
+  },
+  {
+    "i": 1329,
+    "word": "renewal",
+    "start": 503.846,
+    "end": 504.267,
+    "conf": 0.992,
+    "phrase": 121
+  },
+  {
+    "i": 1330,
+    "word": "rates",
+    "start": 504.267,
+    "end": 504.687,
+    "conf": 0.999,
+    "phrase": 121
+  },
+  {
+    "i": 1331,
+    "word": "materially",
+    "start": 504.687,
+    "end": 505.267,
+    "conf": 0.998,
+    "phrase": 121
+  },
+  {
+    "i": 1332,
+    "word": "influences",
+    "start": 505.267,
+    "end": 506.127,
+    "conf": 0.998,
+    "phrase": 121
+  },
+  {
+    "i": 1333,
+    "word": "its",
+    "start": 506.127,
+    "end": 506.427,
+    "conf": 0.994,
+    "phrase": 121
+  },
+  {
+    "i": 1334,
+    "word": "profitability.",
+    "start": 506.427,
+    "end": 506.947,
+    "conf": 0.998,
+    "phrase": 121
+  },
+  {
+    "i": 1335,
+    "word": "So",
+    "start": 507.724,
+    "end": 507.904,
+    "conf": 0.894,
+    "phrase": 122
+  },
+  {
+    "i": 1336,
+    "word": "if",
+    "start": 507.904,
+    "end": 508.004,
+    "conf": 0.86,
+    "phrase": 122
+  },
+  {
+    "i": 1337,
+    "word": "you",
+    "start": 508.004,
+    "end": 508.164,
+    "conf": 0.997,
+    "phrase": 122
+  },
+  {
+    "i": 1338,
+    "word": "ever",
+    "start": 508.164,
+    "end": 508.364,
+    "conf": 0.98,
+    "phrase": 122
+  },
+  {
+    "i": 1339,
+    "word": "want",
+    "start": 508.364,
+    "end": 508.564,
+    "conf": 0.746,
+    "phrase": 122
+  },
+  {
+    "i": 1340,
+    "word": "to",
+    "start": 508.564,
+    "end": 508.684,
+    "conf": 0.998,
+    "phrase": 122
+  },
+  {
+    "i": 1341,
+    "word": "know",
+    "start": 508.684,
+    "end": 508.844,
+    "conf": 0.997,
+    "phrase": 122
+  },
+  {
+    "i": 1342,
+    "word": "how",
+    "start": 508.844,
+    "end": 509.124,
+    "conf": 0.988,
+    "phrase": 122
+  },
+  {
+    "i": 1343,
+    "word": "Costco",
+    "start": 509.124,
+    "end": 509.584,
+    "conf": 0.897,
+    "phrase": 122
+  },
+  {
+    "i": 1344,
+    "word": "is",
+    "start": 509.584,
+    "end": 509.944,
+    "conf": 0.996,
+    "phrase": 122
+  },
+  {
+    "i": 1345,
+    "word": "really",
+    "start": 509.944,
+    "end": 510.244,
+    "conf": 0.966,
+    "phrase": 122
+  },
+  {
+    "i": 1346,
+    "word": "doing,",
+    "start": 510.244,
+    "end": 510.764,
+    "conf": 0.999,
+    "phrase": 122
+  },
+  {
+    "i": 1347,
+    "word": "don't",
+    "start": 511.244,
+    "end": 511.484,
+    "conf": 0.985,
+    "phrase": 122
+  },
+  {
+    "i": 1348,
+    "word": "watch",
+    "start": 511.484,
+    "end": 511.684,
+    "conf": 0.997,
+    "phrase": 122
+  },
+  {
+    "i": 1349,
+    "word": "the",
+    "start": 511.684,
+    "end": 511.944,
+    "conf": 0.889,
+    "phrase": 122
+  },
+  {
+    "i": 1350,
+    "word": "shelves.",
+    "start": 511.944,
+    "end": 512.244,
+    "conf": 0.993,
+    "phrase": 122
+  },
+  {
+    "i": 1351,
+    "word": "Watch",
+    "start": 512.919,
+    "end": 513.219,
+    "conf": 0.794,
+    "phrase": 123
+  },
+  {
+    "i": 1352,
+    "word": "the",
+    "start": 513.219,
+    "end": 513.439,
+    "conf": 0.972,
+    "phrase": 123
+  },
+  {
+    "i": 1353,
+    "word": "renewal",
+    "start": 513.439,
+    "end": 513.779,
+    "conf": 0.815,
+    "phrase": 123
+  },
+  {
+    "i": 1354,
+    "word": "rate.",
+    "start": 513.779,
+    "end": 514.099,
+    "conf": 0.998,
+    "phrase": 123
+  },
+  {
+    "i": 1355,
+    "word": "Remember",
+    "start": 515.119,
+    "end": 515.459,
+    "conf": 0.898,
+    "phrase": 124
+  },
+  {
+    "i": 1356,
+    "word": "that",
+    "start": 515.459,
+    "end": 515.719,
+    "conf": 0.984,
+    "phrase": 124
+  },
+  {
+    "i": 1357,
+    "word": "cart.",
+    "start": 515.719,
+    "end": 516.019,
+    "conf": 0.739,
+    "phrase": 124
+  },
+  {
+    "i": 1358,
+    "word": "Costco",
+    "start": 516.623,
+    "end": 517.043,
+    "conf": 0.9,
+    "phrase": 125
+  },
+  {
+    "i": 1359,
+    "word": "sold",
+    "start": 517.043,
+    "end": 517.543,
+    "conf": 0.992,
+    "phrase": 125
+  },
+  {
+    "i": 1360,
+    "word": "you",
+    "start": 517.543,
+    "end": 517.843,
+    "conf": 0.995,
+    "phrase": 125
+  },
+  {
+    "i": 1361,
+    "word": "almost",
+    "start": 517.843,
+    "end": 518.183,
+    "conf": 0.991,
+    "phrase": 125
+  },
+  {
+    "i": 1362,
+    "word": "everything",
+    "start": 518.183,
+    "end": 518.703,
+    "conf": 0.989,
+    "phrase": 125
+  },
+  {
+    "i": 1363,
+    "word": "in",
+    "start": 518.703,
+    "end": 519.023,
+    "conf": 0.993,
+    "phrase": 125
+  },
+  {
+    "i": 1364,
+    "word": "it",
+    "start": 519.023,
+    "end": 519.183,
+    "conf": 0.997,
+    "phrase": 125
+  },
+  {
+    "i": 1365,
+    "word": "for",
+    "start": 519.183,
+    "end": 519.423,
+    "conf": 0.815,
+    "phrase": 125
+  },
+  {
+    "i": 1366,
+    "word": "barely",
+    "start": 519.423,
+    "end": 519.743,
+    "conf": 0.998,
+    "phrase": 125
+  },
+  {
+    "i": 1367,
+    "word": "more",
+    "start": 519.743,
+    "end": 520.063,
+    "conf": 0.998,
+    "phrase": 125
+  },
+  {
+    "i": 1368,
+    "word": "than",
+    "start": 520.063,
+    "end": 520.243,
+    "conf": 0.99,
+    "phrase": 125
+  },
+  {
+    "i": 1369,
+    "word": "it",
+    "start": 520.243,
+    "end": 520.403,
+    "conf": 0.998,
+    "phrase": 125
+  },
+  {
+    "i": 1370,
+    "word": "paid.",
+    "start": 520.403,
+    "end": 520.663,
+    "conf": 0.993,
+    "phrase": 125
+  },
+  {
+    "i": 1371,
+    "word": "And",
+    "start": 521.244,
+    "end": 521.384,
+    "conf": 0.704,
+    "phrase": 126
+  },
+  {
+    "i": 1372,
+    "word": "it's",
+    "start": 521.384,
+    "end": 521.624,
+    "conf": 0.963,
+    "phrase": 126
+  },
+  {
+    "i": 1373,
+    "word": "happy",
+    "start": 521.624,
+    "end": 521.864,
+    "conf": 0.976,
+    "phrase": 126
+  },
+  {
+    "i": 1374,
+    "word": "to.",
+    "start": 521.864,
+    "end": 522.204,
+    "conf": 0.0,
+    "phrase": 126
+  },
+  {
+    "i": 1375,
+    "word": "Because",
+    "start": 522.728,
+    "end": 522.948,
+    "conf": 0.741,
+    "phrase": 127
+  },
+  {
+    "i": 1376,
+    "word": "the",
+    "start": 522.948,
+    "end": 523.148,
+    "conf": 0.992,
+    "phrase": 127
+  },
+  {
+    "i": 1377,
+    "word": "cart",
+    "start": 523.148,
+    "end": 523.448,
+    "conf": 0.965,
+    "phrase": 127
+  },
+  {
+    "i": 1378,
+    "word": "was",
+    "start": 523.448,
+    "end": 523.768,
+    "conf": 0.996,
+    "phrase": 127
+  },
+  {
+    "i": 1379,
+    "word": "never",
+    "start": 523.768,
+    "end": 524.088,
+    "conf": 0.997,
+    "phrase": 127
+  },
+  {
+    "i": 1380,
+    "word": "the",
+    "start": 524.088,
+    "end": 524.308,
+    "conf": 0.998,
+    "phrase": 127
+  },
+  {
+    "i": 1381,
+    "word": "product.",
+    "start": 524.308,
+    "end": 524.708,
+    "conf": 0.999,
+    "phrase": 127
+  },
+  {
+    "i": 1382,
+    "word": "The",
+    "start": 525.303,
+    "end": 525.483,
+    "conf": 0.751,
+    "phrase": 128
+  },
+  {
+    "i": 1383,
+    "word": "card",
+    "start": 525.483,
+    "end": 525.783,
+    "conf": 0.785,
+    "phrase": 128
+  },
+  {
+    "i": 1384,
+    "word": "was.",
+    "start": 525.783,
+    "end": 526.283,
+    "conf": 0.694,
+    "phrase": 128
+  },
+  {
+    "i": 1385,
+    "word": "Under",
+    "start": 526.656,
+    "end": 526.876,
+    "conf": 0.891,
+    "phrase": 129
+  },
+  {
+    "i": 1386,
+    "word": "two",
+    "start": 526.876,
+    "end": 527.086,
+    "conf": 0.0,
+    "phrase": 129
+  },
+  {
+    "i": 1387,
+    "word": "percent",
+    "start": 527.086,
+    "end": 527.576,
+    "conf": 0.0,
+    "phrase": 129
+  },
+  {
+    "i": 1388,
+    "word": "of",
+    "start": 527.576,
+    "end": 527.756,
+    "conf": 0.993,
+    "phrase": 129
+  },
+  {
+    "i": 1389,
+    "word": "the",
+    "start": 527.756,
+    "end": 527.876,
+    "conf": 0.998,
+    "phrase": 129
+  },
+  {
+    "i": 1390,
+    "word": "money.",
+    "start": 527.876,
+    "end": 528.076,
+    "conf": 0.997,
+    "phrase": 129
+  },
+  {
+    "i": 1391,
+    "word": "About",
+    "start": 528.63,
+    "end": 528.93,
+    "conf": 0.684,
+    "phrase": 130
+  },
+  {
+    "i": 1392,
+    "word": "half",
+    "start": 528.93,
+    "end": 529.23,
+    "conf": 0.986,
+    "phrase": 130
+  },
+  {
+    "i": 1393,
+    "word": "the",
+    "start": 529.23,
+    "end": 529.43,
+    "conf": 0.988,
+    "phrase": 130
+  },
+  {
+    "i": 1394,
+    "word": "profit.",
+    "start": 529.43,
+    "end": 529.67,
+    "conf": 0.981,
+    "phrase": 130
+  },
+  {
+    "i": 1395,
+    "word": "And",
+    "start": 530.359,
+    "end": 530.479,
+    "conf": 0.873,
+    "phrase": 131
+  },
+  {
+    "i": 1396,
+    "word": "a",
+    "start": 530.479,
+    "end": 530.599,
+    "conf": 0.984,
+    "phrase": 131
+  },
+  {
+    "i": 1397,
+    "word": "hot",
+    "start": 530.599,
+    "end": 530.839,
+    "conf": 0.979,
+    "phrase": 131
+  },
+  {
+    "i": 1398,
+    "word": "dog",
+    "start": 530.839,
+    "end": 531.219,
+    "conf": 0.922,
+    "phrase": 131
+  },
+  {
+    "i": 1399,
+    "word": "price",
+    "start": 531.219,
+    "end": 531.639,
+    "conf": 0.99,
+    "phrase": 131
+  },
+  {
+    "i": 1400,
+    "word": "that",
+    "start": 531.639,
+    "end": 531.919,
+    "conf": 0.989,
+    "phrase": 131
+  },
+  {
+    "i": 1401,
+    "word": "never",
+    "start": 531.919,
+    "end": 532.219,
+    "conf": 0.999,
+    "phrase": 131
+  },
+  {
+    "i": 1402,
+    "word": "moves,",
+    "start": 532.219,
+    "end": 532.759,
+    "conf": 0.998,
+    "phrase": 131
+  },
+  {
+    "i": 1403,
+    "word": "so",
+    "start": 533.079,
+    "end": 533.339,
+    "conf": 0.992,
+    "phrase": 131
+  },
+  {
+    "i": 1404,
+    "word": "you",
+    "start": 533.339,
+    "end": 533.479,
+    "conf": 0.992,
+    "phrase": 131
+  },
+  {
+    "i": 1405,
+    "word": "never",
+    "start": 533.479,
+    "end": 533.699,
+    "conf": 0.998,
+    "phrase": 131
+  },
+  {
+    "i": 1406,
+    "word": "stop",
+    "start": 533.699,
+    "end": 534.059,
+    "conf": 0.979,
+    "phrase": 131
+  },
+  {
+    "i": 1407,
+    "word": "believing",
+    "start": 534.059,
+    "end": 534.479,
+    "conf": 0.999,
+    "phrase": 131
+  },
+  {
+    "i": 1408,
+    "word": "the",
+    "start": 534.479,
+    "end": 534.759,
+    "conf": 0.997,
+    "phrase": 131
+  },
+  {
+    "i": 1409,
+    "word": "deal.",
+    "start": 534.759,
+    "end": 535.019,
+    "conf": 0.997,
+    "phrase": 131
+  },
+  {
+    "i": 1410,
+    "word": "Next",
+    "start": 535.998,
+    "end": 536.278,
+    "conf": 0.909,
+    "phrase": 132
+  },
+  {
+    "i": 1411,
+    "word": "time,",
+    "start": 536.278,
+    "end": 536.698,
+    "conf": 0.993,
+    "phrase": 132
+  },
+  {
+    "i": 1412,
+    "word": "we'll",
+    "start": 537.058,
+    "end": 537.218,
+    "conf": 0.976,
+    "phrase": 132
+  },
+  {
+    "i": 1413,
+    "word": "open",
+    "start": 537.218,
+    "end": 537.478,
+    "conf": 0.997,
+    "phrase": 132
+  },
+  {
+    "i": 1414,
+    "word": "the",
+    "start": 537.478,
+    "end": 537.658,
+    "conf": 0.994,
+    "phrase": 132
+  },
+  {
+    "i": 1415,
+    "word": "books",
+    "start": 537.658,
+    "end": 537.878,
+    "conf": 0.992,
+    "phrase": 132
+  },
+  {
+    "i": 1416,
+    "word": "on",
+    "start": 537.878,
+    "end": 538.138,
+    "conf": 0.996,
+    "phrase": 132
+  },
+  {
+    "i": 1417,
+    "word": "another",
+    "start": 538.138,
+    "end": 538.438,
+    "conf": 0.989,
+    "phrase": 132
+  },
+  {
+    "i": 1418,
+    "word": "business",
+    "start": 538.438,
+    "end": 538.858,
+    "conf": 0.995,
+    "phrase": 132
+  },
+  {
+    "i": 1419,
+    "word": "you",
+    "start": 538.858,
+    "end": 539.138,
+    "conf": 0.992,
+    "phrase": 132
+  },
+  {
+    "i": 1420,
+    "word": "use",
+    "start": 539.138,
+    "end": 539.438,
+    "conf": 0.997,
+    "phrase": 132
+  },
+  {
+    "i": 1421,
+    "word": "every",
+    "start": 539.438,
+    "end": 539.778,
+    "conf": 0.996,
+    "phrase": 132
+  },
+  {
+    "i": 1422,
+    "word": "week.",
+    "start": 539.778,
+    "end": 540.098,
+    "conf": 0.998,
+    "phrase": 132
+  }
+]

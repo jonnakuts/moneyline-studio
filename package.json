@@ -15,15 +15,27 @@
     "research": "tsx tools/research/cli.ts",
     "llm:ping": "tsx tools/llm/ping.ts",
     "llm:models": "tsx tools/llm/models.ts",
+    "audio:setup": "tsx tools/audio/run.ts setup",
+    "tts": "tsx tools/audio/run.ts tts",
+    "align": "tsx tools/audio/run.ts align",
+    "visemes": "tsx tools/audio/run.ts visemes",
+    "voice": "tsx tools/audio/run.ts voice",
+    "studio": "remotion studio engine/src/index.ts --config=engine/remotion.config.ts",
+    "render:sync": "tsx tools/render/sync-test.ts",
     "doctor": "powershell -ExecutionPolicy Bypass -File scripts/doctor.ps1",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@remotion/cli": "4.0.529",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.529",
     "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
+    "@types/react": "19.2.2",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vitest": "^5.0.5"

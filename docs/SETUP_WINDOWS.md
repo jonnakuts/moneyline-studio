@@ -51,9 +51,16 @@ Open a new window and run `claude --version`. Then run `claude` in any folder an
 [rhubarb-lip-sync releases page](https://github.com/DanielSWolf/rhubarb-lip-sync/releases), unzip it to
 `C:\tools\rhubarb\`, and later set `RHUBARB_PATH=C:\tools\rhubarb\rhubarb.exe` in `.env`.
 
-**eSpeak NG** (used by Kokoro to pronounce unusual words): install the Windows `.msi` from the
-[espeak-ng releases page](https://github.com/espeak-ng/espeak-ng/releases). Claude Code will confirm during
-Phase 2 whether the Kokoro build we choose needs it.
+**eSpeak NG**: not needed. The Kokoro ONNX build we use (`kokoro-onnx`) bundles its own copy.
+
+**Audio tools (Phase 2)**: one command creates a Python 3.11 environment in `tools\audio\.venv`, installs
+Kokoro (voice) and faster-whisper (word timing), and downloads the voice model (about 350 MB, once):
+
+```powershell
+npm run audio:setup
+```
+
+The speech-recognition model (`small.en`, about 500 MB) downloads itself the first time `npm run align` runs.
 
 ## 4. Create accounts and free keys
 

@@ -1,0 +1,4 @@
+# Audio tools (Python 3.11, CPU only, no PyTorch). Installed by: npm run audio:setup
+kokoro-onnx==0.6.1
+faster-whisper==1.2.1
+soundfile==0.14.0

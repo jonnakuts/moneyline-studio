@@ -18,6 +18,8 @@ export interface Sentence {
   /** Same text with [[literals]] masked, used for the number check. */
   checkText: string;
   factIds: string[];
+  /** True when the sentence was marked [HOST] (the host says it on camera). */
+  host: boolean;
 }
 
 const TAG_RE = /\[F:\s*([a-z0-9][a-z0-9-]*(?:\s*,\s*[a-z0-9][a-z0-9-]*)*)\s*\]/g;
@@ -50,7 +52,7 @@ export function parseScript(md: string): Sentence[] {
       const text = tidy(withoutMarkers.replace(/\[\[([^\]]+)\]\]/g, "$1"));
       const checkText = tidy(withoutMarkers.replace(/\[\[([^\]]+)\]\]/g, (_s, inner: string) => inner.replace(/\d/g, "x")));
       if (!text) continue;
-      sentences.push({ index: sentences.length, section, text, checkText, factIds });
+      sentences.push({ index: sentences.length, section, text, checkText, factIds, host: /\[HOST\]/i.test(raw) });
     }
   };
 
@@ -66,7 +68,10 @@ export function parseScript(md: string): Sentence[] {
       continue;
     }
     // list markers / quote markers are formatting, not words
-    paragraph.push(line.replace(/^\s*(?:[-*+]|\d+[.)]|>)\s+/, ""));
+    let text = line.replace(/^\s*(?:[-*+]|\d+[.)]|>)\s+/, "");
+    // [HOST] covers every sentence on its line.
+    if (/\[HOST\]/i.test(text)) text = text.replace(/([.!?])\s+(?=[^\s\[])/g, "$1 [HOST] ");
+    paragraph.push(text);
   }
   flushParagraph();
   return sentences;
