@@ -46,9 +46,13 @@ Write-Host "`n== .env ==" -ForegroundColor Cyan
 $envPath = Join-Path (Get-Location) ".env"
 if (Test-Path $envPath) {
     $lines = Get-Content $envPath | Where-Object { $_ -match "^[A-Z_]+=" }
-    $want = @("NVIDIA_API_KEY","NVIDIA_MODEL","SEC_USER_AGENT","FRED_API_KEY","PIXABAY_API_KEY","RHUBARB_PATH")
+    $want = @("SEC_USER_AGENT","FRED_API_KEY","PIXABAY_API_KEY","RHUBARB_PATH")
     # Optional: Pexels paused new API keys (Oct 2026); footage also comes from keyless sources.
     $optional = @("PEXELS_API_KEY")
+    # LLM (drafting help): either the generic LLM_* trio or NVIDIA_*; the generic one wins if set.
+    $hasValue = { param($name) $l = $lines | Where-Object { $_ -like "$name=*" } | Select-Object -Last 1; $l -and $l.Substring($name.Length + 1).Trim().Length -gt 0 }
+    if (& $hasValue "LLM_API_KEY") { $want = @("LLM_API_KEY","LLM_BASE_URL","LLM_MODEL") + $want; $optional += @("NVIDIA_API_KEY","NVIDIA_MODEL") }
+    else { $want = @("NVIDIA_API_KEY","NVIDIA_MODEL") + $want }
     foreach ($k in ($want + $optional)) {
         # Last occurrence wins, matching how Node reads .env
         $line = $lines | Where-Object { $_ -like "$k=*" } | Select-Object -Last 1

@@ -68,3 +68,10 @@ automatic verify-script before Gate B; source captions on screen and full source
 is currently paused" on pexels.com/api). `PEXELS_API_KEY` is optional; the doctor script skips it.
 Footage comes from Wikimedia Commons, NASA, Library of Congress, Archive.org (no key) and Pixabay.
 Re-check Pexels later.
+
+**D-015 · 2026-10-16 · LLM provider is swappable**: The owner's NVIDIA key returns 403 "Authorization
+failed" on every model, a widely reported NVIDIA account-side issue (personal org missing the "Public API
+Endpoints" permission; NVIDIA says to email help@build.nvidia.com). The LLM client now accepts any
+OpenAI-compatible provider via LLM_BASE_URL / LLM_API_KEY / LLM_MODEL (priority over NVIDIA_*); suggested
+free, no-card options: Google AI Studio (Gemini) and Groq. GitHub Models was retired in July 2026. The LLM is
+optional drafting help: the agent (Claude Code/Copilot) writes scripts, and facts come only from sources.

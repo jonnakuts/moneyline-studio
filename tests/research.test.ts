@@ -98,10 +98,10 @@ describe("NVIDIA client", () => {
 
     const bad = async () => new Response("invalid key", { status: 401 });
     await expect(chat([{ role: "user", content: "x" }], { apiKey: "nvapi-SECRET", model: "m", baseUrl: "https://h/v1", fetchImpl: bad, retries: 0 }))
-      .rejects.toThrow(/^NVIDIA API HTTP 401: invalid key \(key rejected: check NVIDIA_API_KEY was copied completely\)$/);
+      .rejects.toThrow(/^LLM API HTTP 401: invalid key \(key rejected by the provider: check the key, or the account may not be activated for API use\)$/);
     const missing = async () => new Response("404 page not found", { status: 404 });
     await expect(chat([{ role: "user", content: "x" }], { apiKey: "nvapi-SECRET", model: "bad/model", baseUrl: "https://h/v1", fetchImpl: missing, retries: 0 }))
-      .rejects.toThrow(/model "bad\/model" not found: check NVIDIA_MODEL/);
+      .rejects.toThrow(/model "bad\/model" not found: check the model name in .env/);
     try {
       await chat([{ role: "user", content: "x" }], { apiKey: "nvapi-SECRET", model: "m", baseUrl: "https://h/v1", fetchImpl: bad, retries: 0 });
     } catch (e) {

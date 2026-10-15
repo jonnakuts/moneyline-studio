@@ -1,10 +1,11 @@
 /**
- * NVIDIA hosted models (build.nvidia.com), OpenAI-compatible chat completions.
+ * OpenAI-compatible chat completions for drafting help. Default provider: NVIDIA (build.nvidia.com).
+ * Any OpenAI-compatible free provider works instead: set LLM_BASE_URL, LLM_API_KEY, LLM_MODEL in .env
+ * (e.g. Google AI Studio's Gemini or Groq). When LLM_API_KEY is set it takes priority over NVIDIA_*.
  * Used ONLY for drafting help (hook ideas, rewrites, summarizing a document to find facts).
  * It is never a source of facts: see docs/SOURCES_AND_VERIFICATION.md.
  *
  * Free tier is rate-limited (about 40 requests/minute); we space calls ≥1.6 s apart.
- * Switching provider later = change NVIDIA_BASE_URL / NVIDIA_MODEL / key; the API shape is the same.
  */
 import { optionalEnv, requireEnv } from "../lib/env.js";
 import type { FetchLike } from "../research/http.js";
@@ -28,10 +29,32 @@ const MIN_INTERVAL_MS = 1600;
 let last = 0;
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
+export interface LlmConfig {
+  provider: string;
+  baseUrl: string;
+  apiKey: string;
+  model: string;
+}
+
+/** Resolve which provider to use. LLM_* (generic) wins over NVIDIA_* when LLM_API_KEY is set. */
+export function llmConfig(): LlmConfig {
+  if (optionalEnv("LLM_API_KEY")) {
+    const baseUrl = requireEnv("LLM_BASE_URL").replace(/\/+$/, "");
+    return { provider: new URL(baseUrl).hostname, baseUrl, apiKey: requireEnv("LLM_API_KEY"), model: requireEnv("LLM_MODEL") };
+  }
+  return {
+    provider: "integrate.api.nvidia.com",
+    baseUrl: (optionalEnv("NVIDIA_BASE_URL") ?? "https://integrate.api.nvidia.com/v1").replace(/\/+$/, ""),
+    apiKey: requireEnv("NVIDIA_API_KEY"),
+    model: requireEnv("NVIDIA_MODEL"),
+  };
+}
+
 export async function chat(messages: ChatMessage[], opts: ChatOptions = {}): Promise<string> {
-  const apiKey = opts.apiKey ?? requireEnv("NVIDIA_API_KEY");
-  const baseUrl = (opts.baseUrl ?? optionalEnv("NVIDIA_BASE_URL") ?? "https://integrate.api.nvidia.com/v1").replace(/\/+$/, "");
-  const model = opts.model ?? requireEnv("NVIDIA_MODEL");
+  const cfg = opts.apiKey && opts.baseUrl && opts.model ? undefined : llmConfig();
+  const apiKey = opts.apiKey ?? cfg!.apiKey;
+  const baseUrl = (opts.baseUrl ?? cfg!.baseUrl).replace(/\/+$/, "");
+  const model = opts.model ?? cfg!.model;
   const doFetch = opts.fetchImpl ?? fetch;
   const retries = opts.retries ?? 3;
 
@@ -62,17 +85,17 @@ export async function chat(messages: ChatMessage[], opts: ChatOptions = {}): Pro
       const text = (await res.text()).slice(0, 300).trim();
       const hint =
         res.status === 404
-          ? ` (model "${model}" not found: check NVIDIA_MODEL; run "npm run llm:models" to list valid names)`
+          ? ` (model "${model}" not found: check the model name in .env; run "npm run llm:models" to list valid names)`
           : res.status === 410
             ? ` (model "${model}" is retired: pick another with "npm run llm:models")`
             : res.status === 401 || res.status === 403
-              ? " (key rejected: check NVIDIA_API_KEY was copied completely)"
+              ? " (key rejected by the provider: check the key, or the account may not be activated for API use)"
               : "";
-      throw new Error(`NVIDIA API HTTP ${res.status}: ${text}${hint}`);
+      throw new Error(`LLM API HTTP ${res.status}: ${text}${hint}`);
     }
     const data = (await res.json()) as { choices?: Array<{ message?: { content?: string } }> };
     const content = data.choices?.[0]?.message?.content;
-    if (typeof content !== "string") throw new Error("NVIDIA API returned no message content");
+    if (typeof content !== "string") throw new Error("LLM API returned no message content");
     return content;
   }
 }

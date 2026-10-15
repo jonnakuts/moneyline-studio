@@ -80,7 +80,7 @@ tools/
   video/              new-video scaffolder                                           [built]
   research/           SEC EDGAR, World Bank, FRED fetchers; cache; candidates        [built]
   verify/             verify-facts, verify-script, freeze/verify-lock/unfreeze       [built]
-  llm/                NVIDIA (OpenAI-compatible) client, used for drafting only      [built]
+  llm/                OpenAI-compatible client (NVIDIA, Gemini, Groq…), drafting only [built]
   audio/              Kokoro TTS, faster-whisper alignment, Rhubarb visemes (Python) [Phase 2]
   thumbnail/          Satori thumbnail renderer                                       [Phase 4]
 tests/                vitest suites for tools (run before committing)
@@ -108,8 +108,8 @@ npm run research -- fred CPIAUCSL --from 2000-01-01 --slug <slug>   (needs FRED_
 npm run verify -- <slug> [--facts] [--script] [--lock]   no flag = everything that exists; writes 02-script/verify-report.md
 npm run freeze -- <slug> <B-script|C-voice|D-direction|F-render|G-package>   record approved files in LOCK.json
 npm run unfreeze -- <slug> <stage> --yes "reason"         only with the owner's OK; removes that stage and later ones
-npm run llm:ping                     check NVIDIA_API_KEY + NVIDIA_MODEL work
-npm run llm:models [filter]          list chat models currently on NVIDIA's API (no key needed)
+npm run llm:ping                     check the LLM provider works (LLM_* if set, else NVIDIA_*)
+npm run llm:models [filter]          list chat models on the configured provider
 npm test                             run all tests
 npm run typecheck                    TypeScript check
 ```
