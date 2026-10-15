@@ -10,7 +10,7 @@ const key = generic ?? optionalEnv("NVIDIA_API_KEY");
 const filter = process.argv.slice(2).join(" ").toLowerCase();
 
 // Non-chat models (embeddings, safety classifiers, vision-only, image/audio generators, etc.) are hidden.
-const NOT_CHAT = /embed|guard|safety|reward|retriever|parse|clip|deplot|kosmos|fuyu|vila|neva|detector|translate|calibration|vision|vl-|-vl|starcoder|codegemma|code-|coder|codellama|codestral|diffusion|imagen|veo|tts|audio|whisper|image|aqa/;
+const NOT_CHAT = /embed|guard|safety|reward|retriever|parse|clip|deplot|kosmos|fuyu|vila|neva|detector|translate|calibration|vision|vl-|-vl|starcoder|codegemma|code-|coder|codellama|codestral|diffusion|imagen|veo|tts|audio|whisper|image|aqa|omni|live|veo/;
 
 try {
   if (!base) throw new Error("LLM_BASE_URL is empty");
