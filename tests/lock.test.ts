@@ -36,6 +36,13 @@ describe("lock", () => {
     expect(freezeStage(dir, "B-script").already).toBe(false);
   });
 
+  it("ignores CRLF vs LF line endings (Windows checkouts)", () => {
+    put("02-script/script.md", "line one\nline two\n");
+    freezeStage(dir, "B-script");
+    put("02-script/script.md", "line one\r\nline two\r\n");
+    expect(verifyLock(dir).ok).toBe(true);
+  });
+
   it("refuses to skip stages or freeze missing files", () => {
     expect(() => freezeStage(dir, "D-direction")).toThrow(/earlier stage/);
     fs.rmSync(path.join(dir, "02-script", "spoken.txt"));

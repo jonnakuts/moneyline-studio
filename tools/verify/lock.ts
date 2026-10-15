@@ -30,8 +30,15 @@ export const STAGE_FILES: Record<StageId, string[]> = {
   ],
 };
 
+/** Text files are hashed with CRLF turned into LF, so a Windows checkout gives the same hash as Linux. */
+const TEXT_EXT = new Set([".md", ".txt", ".json", ".ts", ".tsx", ".csv", ".srt", ".vtt", ".html", ".svg"]);
+
 export function sha256File(file: string): string {
   const hash = crypto.createHash("sha256");
+  if (TEXT_EXT.has(path.extname(file).toLowerCase())) {
+    hash.update(fs.readFileSync(file, "utf8").replace(/\r\n/g, "\n"), "utf8");
+    return "sha256:" + hash.digest("hex");
+  }
   const fd = fs.openSync(file, "r");
   try {
     const buf = Buffer.allocUnsafe(1 << 20);

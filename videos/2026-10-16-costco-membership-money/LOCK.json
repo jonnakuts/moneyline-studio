@@ -1,0 +1,12 @@
+{
+  "stages": {
+    "B-script": {
+      "approvedAt": "2026-10-16T02:07:39+05:30",
+      "files": {
+        "01-research/facts.json": "sha256:c89ea5adb1452994984d515f559ad23120dd3313e3c0869aba659b1da23ca340",
+        "02-script/script.md": "sha256:6bd8172f83de498e06366977141e06761101f82c34b2810cba0f78091085b4c8",
+        "02-script/spoken.txt": "sha256:7370443e975c8a1aa9df6f1064dae6d0ff723d2e4969a67eb8027960166bde53"
+      }
+    }
+  }
+}
