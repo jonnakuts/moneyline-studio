@@ -59,8 +59,16 @@ export async function chat(messages: ChatMessage[], opts: ChatOptions = {}): Pro
     }
     if (!res.ok) {
       // Never include the key; the response body is the provider's message.
-      const text = (await res.text()).slice(0, 300);
-      throw new Error(`NVIDIA API HTTP ${res.status}: ${text}`);
+      const text = (await res.text()).slice(0, 300).trim();
+      const hint =
+        res.status === 404
+          ? ` (model "${model}" not found: check NVIDIA_MODEL; run "npm run llm:models" to list valid names)`
+          : res.status === 410
+            ? ` (model "${model}" is retired: pick another with "npm run llm:models")`
+            : res.status === 401 || res.status === 403
+              ? " (key rejected: check NVIDIA_API_KEY was copied completely)"
+              : "";
+      throw new Error(`NVIDIA API HTTP ${res.status}: ${text}${hint}`);
     }
     const data = (await res.json()) as { choices?: Array<{ message?: { content?: string } }> };
     const content = data.choices?.[0]?.message?.content;

@@ -14,6 +14,7 @@
     "unfreeze": "tsx tools/verify/cli.ts unfreeze",
     "research": "tsx tools/research/cli.ts",
     "llm:ping": "tsx tools/llm/ping.ts",
+    "llm:models": "tsx tools/llm/models.ts",
     "doctor": "powershell -ExecutionPolicy Bypass -File scripts/doctor.ps1",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"

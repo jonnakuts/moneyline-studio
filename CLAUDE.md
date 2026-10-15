@@ -109,6 +109,7 @@ npm run verify -- <slug> [--facts] [--script] [--lock]   no flag = everything th
 npm run freeze -- <slug> <B-script|C-voice|D-direction|F-render|G-package>   record approved files in LOCK.json
 npm run unfreeze -- <slug> <stage> --yes "reason"         only with the owner's OK; removes that stage and later ones
 npm run llm:ping                     check NVIDIA_API_KEY + NVIDIA_MODEL work
+npm run llm:models [filter]          list chat models currently on NVIDIA's API (no key needed)
 npm test                             run all tests
 npm run typecheck                    TypeScript check
 ```
