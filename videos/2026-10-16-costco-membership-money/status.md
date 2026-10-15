@@ -1,7 +1,7 @@
 # How Costco Actually Makes Money
 Stage: 2 Script
 Gate A: approved 2026-10-16 (title A by default)
-Gate B: waiting for owner (script.md, verify PASS, ~9.4 min)
+Gate B: waiting for owner (script.md, verify PASS, about 9 min)
 Next action: owner reviews the script with sources; on approval run npm run freeze -- 2026-10-16-costco-membership-money B-script
 Log:
 - 2026-10-16 Topic chosen by owner: Costco membership model
