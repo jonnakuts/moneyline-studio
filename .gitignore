@@ -1,0 +1,62 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Models downloaded at runtime (large)
+models/
+tools/audio/models/
+*.onnx
+*.bin
+*.pt
+*.safetensors
+
+# Media and renders (large; keep JSON/MD only in git)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.webp
+!assets/**/*.svg
+out/
+renders/
+videos/**/renders/
+videos/**/frames/
+videos/**/footage/
+videos/**/audio/
+
+# Allow small committed reference images if ever needed
+!docs/img/**
+
+# Build / cache
+dist/
+build/
+.cache/
+.remotion/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/*
+!.vscode/extensions.json
+
+# Claude Code local-only settings
+.claude/settings.local.json
